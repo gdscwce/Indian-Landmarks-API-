@@ -5,14 +5,12 @@ const bodyParser = require('body-parser');
 const port = 3000;
 
 
-const{randomLandmark , getCityLandmark} = require('./functions');
+const{randomLandmark , getCityLandmark ,getlocalityLandmark} = require('./functions');
 
 
 app.use(express.static(path.join(__dirname, "public")));
 
 app.use(bodyParser.urlencoded({extended: true}));
-
-
 
 
 
@@ -25,10 +23,17 @@ app.get("/", (req, res)=>{
     res.sendFile(__dirname+"/index.html");
 });
 
-app.get("/:cityname",(req,res)=>{
+app.get("/city/:cityname",(req,res)=>{
     res.json(getCityLandmark(req.params.cityname));
 
 });
+
+app.get("/locality/:localityname",(req,res)=>{
+    res.json(getlocalityLandmark(req.params.localityname));
+
+});
+
+
 
 app.get("/random",(req,res)=>{
     res.json(randomLandmark());
