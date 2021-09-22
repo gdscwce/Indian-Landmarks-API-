@@ -1,0 +1,30 @@
+[
+    {
+        "id":0,
+        "state":"Maharashtra",
+        "city":"Pune",
+        "locality":"Gaonbhag",
+        "landmark":"Mai Ghat",
+        "image":"http://photos.wikimapia.org/p/00/02/37/91/69_big.jpg",
+        "description":""
+    },
+    {
+        "id":1,
+        "state":"Maharashtra",
+        "city":"sangli",
+        "locality":"Gaonbhag",
+        "landmark":"City Highschool",
+        "image":"",
+        "description":""
+    },
+    {
+        "id":2,
+        "state":"Maharashtra",
+        "city":"sangli",
+        "locality":"Gaonbhag",
+        "landmark":"Vishnu Ghat",
+        "image":"",
+        "description":""
+    }
+
+]
