@@ -11,7 +11,6 @@ Indian Landmarks API
 <li>GET Landmark by State --- 
     State/StateName
 </li>
-<br/>
 <li>GET Landmark by City --- 
     City/CityName
 </li>
