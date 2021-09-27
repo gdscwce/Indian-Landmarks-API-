@@ -25,6 +25,55 @@
         "landmark":"Parvati Hill",
         "image":"https://upload.wikimedia.org/wikipedia/commons/9/95/Parvati.JPG",
         "description":""
+    },
+    {
+        "id":3,
+        "state":"Maharashtra",
+        "city":"Mumbai",
+        "locality":"Colaba",
+        "landmark":"Gateway of India",
+        "image":"https://mumbaitourism.travel/images/places-to-visit/headers/gateway-of-india-mumbai-indian-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+        "description":""
+    },
+    {
+        "id":4,
+        "state":"Maharashtra",
+        "city":"Mumbai",
+        "locality":"Gharapuri",
+        "landmark":"Elephanta Caves",
+        "image":"https://img.onmanorama.com/content/dam/mm/en/travel/travel-news/images/2020/8/3/elephanta-cave.jpg",
+        "description":""
+    },
+    {
+        "id":5,
+        "state":"Maharashtra",
+        "city":"Mumbai",
+        "locality":"Powai",
+        "landmark":"Powai Lake",
+        "image":"https://static.toiimg.com/photo/msid-29539412,width-96,height-65.cms",
+        "description":""
+    },
+    {
+        "id":6,
+        "state":"Karnataka",
+        "city":"Bangaluru",
+        "locality":"Mavalli",
+        "landmark":"Lalbaugh Garden",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Glasshouse_and_fountain_at_lalbagh.jpg",
+        "description":""
+    },
+    {
+        "id":7,
+        "state":"Karnataka",
+        "city":"Bangaluru",
+        "locality":"",
+        "landmark":"Cubbon Park",
+        "image":"https://www.makemytrip.com/travel-guide/media/dg_image/bangalore/Cubbon-Park-Samuel-Jacob-Flickr-Creative-commons.jpg",
+        "description":""
     }
+
+
+
+    
 
 ]
