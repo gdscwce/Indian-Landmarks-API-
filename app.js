@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const port = 3000;
 
 
-const{randomLandmark , getCityLandmark ,getlocalityLandmark} = require('./functions');
+const{randomLandmark , getCityLandmark ,getlocalityLandmark , getStateLandmark} = require('./functions');
 
 
 app.use(express.static(path.join(__dirname, "public")));
@@ -26,6 +26,10 @@ app.get("/", (req, res)=>{
 app.get("/city/:cityname",(req,res)=>{
     res.json(getCityLandmark(req.params.cityname));
 
+});
+
+app.get("/state/:statename",(req,res)=>{
+    res.json(getStateLandmark(req.params.statename));
 });
 
 app.get("/locality/:localityname",(req,res)=>{
