@@ -2,28 +2,28 @@
     {
         "id":0,
         "state":"Maharashtra",
-        "city":"Sangli",
-        "locality":"Gaonbhag",
-        "landmark":"Mai Ghat",
-        "image":"http://photos.wikimapia.org/p/00/02/37/91/69_big.jpg",
+        "city":"Pune",
+        "locality":"Thoptewadi",
+        "landmark":"Sinhagad Fort",
+        "image":"https://punetourism.co.in/images/places-to-visit/headers/sinhagad-fort-pune-tourism-entry-fee-timings-holidays-reviews-header.jpg",
         "description":""
     },
     {
         "id":1,
         "state":"Maharashtra",
-        "city":"Sangli",
-        "locality":"Gaonbhag",
-        "landmark":"City Highschool",
-        "image":"",
+        "city":"Pune",
+        "locality":"Shaniwar Peth",
+        "landmark":"Shaniwar Wada",
+        "image":"https://static.toiimg.com/photo/79288458.cms",
         "description":""
     },
     {
         "id":2,
         "state":"Maharashtra",
-        "city":"Sangli",
-        "locality":"Gaonbhag",
-        "landmark":"Vishnu Ghat",
-        "image":"",
+        "city":"Pune",
+        "locality":"Parvati Hill",
+        "landmark":"Parvati",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/9/95/Parvati.JPG",
         "description":""
     }
 
