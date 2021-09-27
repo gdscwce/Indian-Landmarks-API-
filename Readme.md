@@ -9,9 +9,15 @@ Indian Landmarks API
     <h2>How to Use</h2>
 </ul>
 <li>GET Landmark by State --- 
-    <a href="/state/Maharashtra">State/Maharashtra </a>
+    <a href="">State/StateName </a>
 </li>
 <br/>
 <li>GET Landmark by City --- 
-    <a href="/state/pune">City/Pune</a>
+    <a href="">City/CityName</a>
+</li>
+<li>GET Landmark by Locality --- 
+    <a href="">Locality/LocalityName/a>
+</li>
+<li>GET Landmark by City/Locality --- 
+    <a href="">City/CityName/Locality/LocalityName</a>
 </li>
