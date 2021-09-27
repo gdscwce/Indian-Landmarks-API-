@@ -21,8 +21,8 @@
         "id":2,
         "state":"Maharashtra",
         "city":"Pune",
-        "locality":"Parvati Hill",
-        "landmark":"Parvati",
+        "locality":"Parvati",
+        "landmark":"Parvati Hill",
         "image":"https://upload.wikimedia.org/wikipedia/commons/9/95/Parvati.JPG",
         "description":""
     }
