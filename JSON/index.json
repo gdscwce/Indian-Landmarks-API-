@@ -270,4 +270,13 @@
         "image":https://en.wikipedia.org/wiki/Chintamani_Temple,_Theur#/media/File:Shri_Cintamani_of_Theur.jpg,
         "description":"The Chintamani Temple of Theur is a Hindu temple dedicated to Ganesha"
     },
+{
+        "id":32,
+        "state":"Telangana",
+        "city":"Hyderabad",
+        "locality":"Ibrahim Bagh",
+        "landmark":"Golconda Fort",
+        "image":"https://en.wikipedia.org/wiki/File:Golconda_Fort-Hyderabad-Telangana-DSC001.jpg",
+        "description":""
+    },
 ]
