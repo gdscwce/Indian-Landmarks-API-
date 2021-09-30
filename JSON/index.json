@@ -221,13 +221,22 @@
         "state":"Karnatak",
         "city":"Mysore",
         "locality":"",
-        "landmark":"Mysore Palace",
-        "image":"https://www.holidify.com/images/cmsuploads/compressed/attr_1568_20191102174918.jpg",
-        "description":"The Mysore Palace, officially known as Mysuru Palace, is a historical palace and the royal residence (house) at Mysore in the Indian state of Karnataka. It is the official residence of the Wadiyar dynasty and the seat of the Kingdom of Mysore"
+        "landmark":"B",
+        "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F06%2F84%2F22%2F1a%2Fbuddha-temple.jpg%3Fw%3D500%26h%3D400%26s%3D1&imgrefurl=https%3A%2F%2Fwww.tripadvisor.in%2FAttractions-g946396-Activities-c47-Itanagar_Papum_Pare_District_Arunachal_Pradesh.html&tbnid=gbOjmpT7c1bEhM&vet=12ahUKEwiPmPzNrKfzAhXF03MBHSxxDOsQMygBegUIARCvAQ..i&docid=uVZ_9-MlbiFKpM&w=500&h=400&q=Itanagar%20landmark&ved=2ahUKEwiPmPzNrKfzAhXF03MBHSxxDOsQMygBegUIARCvAQ",
+        "description":"Itanagar is the capital of the northeast Indian state of Arunachal Pradesh. Set in the foothills of the Himalayas."
+    },
+    {
+        "id":26,
+        "state":"Delhi",
+        "city":"Delhi",
+        "locality":"Mehrauli",
+        "landmark":"Qutub Minar",
+        "image":"https://www.google.co.in/search?q=qutub+minar+locality&sxsrf=AOaemvLYUP0utww8ZNJ3KsTXHrrqkCYiSQ:1633029068502&source=lnms&tbm=isch&sa=X&ved=2ahUKEwielaSss6fzAhWO8HMBHdhHCOkQ_AUoAnoECAEQBA&biw=1536&bih=722&dpr=1.25#imgrc=1qDVZJPqFfGE3M",
+        "description":"Qutb al-Din Aibak built a 73-meter tall tower of victory, the Qutub Minar, right after the defeat of the last Hindu kingdom in Delhi."
     },
 
    {
-        "id":26,
+        "id":27,
         "state":"Maharashtra",
         "city":"Aurangabad",
         "locality":"",
