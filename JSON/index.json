@@ -106,6 +106,15 @@
         "landmark":"Baga Beach",
         "image":"https://upload.wikimedia.org/wikipedia/commons/3/38/India_-_Goa_-_010_-_Touristy_Baga_Beach.jpg",
         "description":"Baga Beach is a popular beach and tourist destination in North Goa. Baga is located at the north end of the contiguous beach stretch that starts from Sinquerim, Candolim, leads to Calangute, and then to Baga."
+    },
+    {
+        "id":12,
+        "state":"Tamil Nadu",
+        "city":"Kanchipuram",
+        "locality":"",
+        "landmark":"Sri Kanchi Kamakshi Amman Temple",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsRM6xkFeS24377awvKVOZhdoH7WSNQD74Fg&usqp=CAU",
+        "description":"The Kamakshi Temple is an ancient Hindu Temple dedicated to Kamakshi, the ultimate form of Goddess Lalitha Maha Tripurasundari or Parvati. It is located in the historic city of Kanchipuram, near Chennai, India."
     }
 
 
