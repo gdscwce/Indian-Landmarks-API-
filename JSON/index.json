@@ -175,10 +175,9 @@
         "id":20,
         "state":"Delhi",
         "city":"Delhi",
-        "locality":"",
+        "locality":"Mehrauli",
         "landmark":"Qutub Minar, Delhi",
-        "image":"https://www.destguides.com/upload-files/derivations/background-image/thumbnail_webp/730/410/eyJpZCI6Iml0aW5lcmFyeXN0b3AvNjc0Ni9iYWNrZ3JvdW5kX2ltYWdlLzgxMzZkNzUwZTExZDkyZWEwZmYzZmQ4NjhhYzE2ZjU1LmpwZWciLCJzdG9yYWdlIjoic3RvcmUifQ?version=3&signature=aa349ac15e4d5ac1a39c76d190ad38d645cb28836c1f620711529e5c9e3bac7e"
-         "description":""
+        "image":"https://www.destguides.com/upload-files/derivations/background-image/thumbnail_webp/730/410/eyJpZCI6Iml0aW5lcmFyeXN0b3AvNjc0Ni9iYWNrZ3JvdW5kX2ltYWdlLzgxMzZkNzUwZTExZDkyZWEwZmYzZmQ4NjhhYzE2ZjU1LmpwZWciLCJzdG9yYWdlIjoic3RvcmUifQ?version=3&signature=aa349ac15e4d5ac1a39c76d190ad38d645cb28836c1f620711529e5c9e3bac7e",        "description":""
     
 },
     {
@@ -194,7 +193,7 @@
             "id":22,
             "state":"Maharashtra",
             "city":"Chandrapur",
-            "locality":"Taloba National Park",
+            "locality":"Tadoba National Park",
             "landmark":"Tadoba Andhari Tiger Reserve",
             "image":"https://www.tadobanationalpark.in/images/tadoba-national-park.jpg",
             "description":"Notably Maharashtra's oldest and largest National Park, the \"Tadoba National Park\", also known as the \"Tadoba Andhari Tiger Reserve\" is one of India's 47 project tiger reserves existing in India. It lies in the Chandrapur district of Maharashtra state and is approximately 150 km from Nagpur city. The total area of the tiger reserve is 1,727 Sq.km, which includes the Tadoba National Park, created in the year 1955."
@@ -220,7 +219,7 @@
     },
 {
      "id": 25,
-        "state":"Maharastra",
+        "state":"Maharashtra",
         "city":"Sangli",
         "locality":"",
         "landmark":"RNature",
