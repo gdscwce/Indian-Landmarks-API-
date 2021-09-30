@@ -261,4 +261,13 @@
         "image":https://www.google.com/maps/uv?pb=!1s0x3bc2c06fa5b442ff%3A0x9df365f5b648bce1!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO4J7HNhhv400ZMR_MdxOHbvXv-4BGWeHAH7b5V%3Dw160-h200-k-no!5sdagdusheth%20ganpati%20address%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipO4J7HNhhv400ZMR_MdxOHbvXv-4BGWeHAH7b5V&hl=en&sa=X&ved=2ahUKEwj3ktegxKfzAhWfzzgGHbEpC_oQoip6BAhxEAM,
         "description":"best ganpati bapa"
     },
+{
+        "id":31,
+        "state":"Maharashtra",
+        "city":"pune",
+        "locality":"Theur",
+        "landmark":Chintamani Temple,
+        "image":https://en.wikipedia.org/wiki/Chintamani_Temple,_Theur#/media/File:Shri_Cintamani_of_Theur.jpg,
+        "description":"The Chintamani Temple of Theur is a Hindu temple dedicated to Ganesha"
+    },
 ]
