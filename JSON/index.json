@@ -83,7 +83,7 @@
 
   {
   "id": 10,
-        "state":"Maharastra",
+        "state":"Maharashtra",
         "city":"Mumbai",
         "locality":"",
         "landmark":"mahanara pratap fort",
@@ -110,7 +110,7 @@
     },
     {
         "id":13,
-        "state":"Telangana ",
+        "state":"Telangana",
         "city":"Hyderabad",
         "locality":"Ghansi Bazaar",
         "landmark":"Char Minar",
@@ -155,7 +155,7 @@
     },
 {
   "id": 18,
-        "state":"Maharastra",
+        "state":"Maharashtra",
         "city":"Mumbai",
         "locality":"",
         "landmark":"Marine Drive",
@@ -182,7 +182,7 @@
 },
     {
         "id":21,
-        "state":"Maharastra",
+        "state":"Maharashtra",
         "city":"Aurangabad",
         "locality":"Begumpura",
         "landmark":"Bibi Ka Maqbara",
@@ -190,7 +190,7 @@
         "description":""
     },
  {
-            "id":22
+            "id":22,
             "state":"Maharashtra",
             "city":"Chandrapur",
             "locality":"Taloba National Park",
@@ -207,12 +207,13 @@
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsRM6xkFeS24377awvKVOZhdoH7WSNQD74Fg&usqp=CAU",
         "description":"The Kamakshi Temple is an ancient Hindu Temple dedicated to Kamakshi, the ultimate form of Goddess Lalitha Maha Tripurasundari or Parvati. It is located in the historic city of Kanchipuram, near Chennai, India."
     },
-    "id": 24,
-        "state":"Maharastra",
+    {
+        "id": 24,
+        "state":"Maharashtra",
         "city":"Dhule",
         "locality":"",
         "landmark":"Resort",
-        "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F07%2F6c%2Fc7%2F06%2Fhotel-ganapati-palace.jpg%3Fw%3D900%26h%3D-1%26s%3D1&imgrefurl=https%3A%2F%2Fwww.tripadvisor.in%2FHotel_Review-g2440581-d3948420-Reviews-Hotel_Ganapati_Palace-Dhule_Dhule_District_Maharashtra.html&tbnid=Fnmqdz17kAAQdM&vet=12ahUKEwjr1LLwtKfzAhXVHXIKHVZ7BDsQMyg8egQIARBk..i&docid=cJode-Yo0H5atM&w=900&h=598&q=dhule%20maharashtra%20photos&ved=2ahUKEwjr1LLwtKfzAhXVHXIKHVZ7BDsQMyg8egQIARBk"
+        "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F07%2F6c%2Fc7%2F06%2Fhotel-ganapati-palace.jpg%3Fw%3D900%26h%3D-1%26s%3D1&imgrefurl=https%3A%2F%2Fwww.tripadvisor.in%2FHotel_Review-g2440581-d3948420-Reviews-Hotel_Ganapati_Palace-Dhule_Dhule_District_Maharashtra.html&tbnid=Fnmqdz17kAAQdM&vet=12ahUKEwjr1LLwtKfzAhXVHXIKHVZ7BDsQMyg8egQIARBk..i&docid=cJode-Yo0H5atM&w=900&h=598&q=dhule%20maharashtra%20photos&ved=2ahUKEwjr1LLwtKfzAhXVHXIKHVZ7BDsQMyg8egQIARBk",
         "description":", India."
     }
 
