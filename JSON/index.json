@@ -106,8 +106,16 @@
         "landmark":"Baga Beach",
         "image":"https://upload.wikimedia.org/wikipedia/commons/3/38/India_-_Goa_-_010_-_Touristy_Baga_Beach.jpg",
         "description":"Baga Beach is a popular beach and tourist destination in North Goa. Baga is located at the north end of the contiguous beach stretch that starts from Sinquerim, Candolim, leads to Calangute, and then to Baga."
-    }
-
+    },
+    {
+            "id":12,
+            "state":"Tamil Nadu",
+            "city":"Chennai",
+            "locality":"Mylapore",
+            "landmark":"Mylapore",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Mylapore_Theppam_Festival.jpg",
+            "description":"Mylapore (Mayilāppūr) is a neighborhood in the central part of the city of Chennai, India. It is one of the oldest residential parts of the city. It is also called Thirumayilai. The locality is claimed to be the birthplace of the celebrated Tamil philosopher Valluvar."
+       }
 
 
     
