@@ -88,7 +88,7 @@
         "landmark":"Kalkaji",
         "image":"https://www.makemytrip.com/travel-guide/media/dg_image/delhi/Lotus-Temple-Delhi.jpg",
         "description":""
-    }
+    },
   {
   "id": 10,
         "state":"Maharastra",
@@ -108,8 +108,17 @@
         "image":"https://upload.wikimedia.org/wikipedia/commons/3/38/India_-_Goa_-_010_-_Touristy_Baga_Beach.jpg",
         "description":"Baga Beach is a popular beach and tourist destination in North Goa. Baga is located at the north end of the contiguous beach stretch that starts from Sinquerim, Candolim, leads to Calangute, and then to Baga."
     },
+    {
+        "id":12,
+        "state":"Maharashtra",
+        "city":"Nagpur",
+        "locality":"",
+        "landmark":"Nagpur Ramtek Temple",
+        "image":"https://media-cdn.tripadvisor.com/media/photo-m/1280/16/d9/4c/4b/photo4jpg.jpg",
+        "description":"Situated inside a fort on a hillock, away from city crowd is Lord Rama’s temple , which has a rich mythological history. It is believed that Lord Rama along with Laxman stayed here before proceeding to conquer Lanka."
+    },
 {
-  "id": 12,
+  "id": 13,
         "state":"Maharastra",
         "city":"Mumbai",
         "locality":"",
