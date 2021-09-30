@@ -83,7 +83,7 @@
 
   {
   "id": 10,
-        "state":"Maharastra",
+        "state":"Maharashtra",
         "city":"Mumbai",
         "locality":"",
         "landmark":"mahanara pratap fort",
@@ -110,7 +110,7 @@
     },
     {
         "id":13,
-        "state":"Telangana ",
+        "state":"Telangana",
         "city":"Hyderabad",
         "locality":"Ghansi Bazaar",
         "landmark":"Char Minar",
@@ -155,7 +155,7 @@
     },
 {
   "id": 18,
-        "state":"Maharastra",
+        "state":"Maharashtra",
         "city":"Mumbai",
         "locality":"",
         "landmark":"Marine Drive",
@@ -183,7 +183,7 @@
 },
     {
         "id":21,
-        "state":"Maharastra",
+        "state":"Maharashtra",
         "city":"Aurangabad",
         "locality":"Begumpura",
         "landmark":"Bibi Ka Maqbara",
@@ -191,7 +191,7 @@
         "description":""
     },
  {
-            "id":22
+            "id":22,
             "state":"Maharashtra",
             "city":"Chandrapur",
             "locality":"Taloba National Park",
@@ -225,5 +225,14 @@
         "landmark":"Vasai Fort",
         "image":"https://www.google.com/search?q=vasai+fort+pic&rlz=1C1CHBD_enIN924IN924&sxsrf=AOaemvLh4fBM5r6KT7sQQ38_mgbBIu0NTA:1633029873728&tbm=isch&source=iu&ictx=1&fir=QKrpZYBiXfl1VM%252CWqzeIu0xHxV3qM%252C_%253B-_pY-tr6W6EjWM%252C5d2CSK_RJ_zuuM%252C_%253BNwxol6tEVBChzM%252CAWcpKFRSxfu45M%252C_%253B7qhCKD_NpqY06M%252CaEX1CJFLCLkFvM%252C_%253BVtAXp9oCE22JGM%252CkXk7FDGR2AtC9M%252C_%253Bk3NRUFENLe6_wM%252CR6FTRHDikAz1CM%252C_%253BdQ8iGYszP4bioM%252CjgtXCTD8HOr0FM%252C_%253BGPVjZYqsKprapM%252CrurA1lrg1tPjDM%252C_%253Bjw3Oqy1_DG9htM%252CFwKVOjb_HcuoDM%252C_%253BYQizXBBcafCq-M%252CjgtXCTD8HOr0FM%252C_%253BLeGTdg207fdf1M%252CYI9DSL6qT8XTqM%252C_%253BiUGv7aNOyFVMtM%252C_PR3uvBKLzNVNM%252C_&vet=1&usg=AI4_-kTGUkYZ_J7oRnBZUL9cUue0-qAJvA&sa=X&ved=2ahUKEwiUtp-stqfzAhWryjgGHW9nCagQ9QF6BAgNEAE&biw=1280&bih=609&dpr=1.5#imgrc=-_pY-tr6W6EjWM",
         "description":"It is an ancient fort in Vasai which has been a tourist attraction for many decades now"
-    }
+    },
+{
+     "id": 26,
+        "state":"Maharastra",
+        "city":"Sangli",
+        "locality":"Miraj",
+        "landmark":"Miraj Market",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/2/24/Mirajmarketnorth.jpg",
+    "description":"Gavbhag"
+}
 ]
