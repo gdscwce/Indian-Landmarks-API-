@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "id":0,
         "state":"Maharashtra",
@@ -159,7 +159,7 @@
         "city":"Mumbai",
         "locality":"",
         "landmark":"Marine Drive",
-        "image":"https://images.unsplash.com/photo-1567870374047-3f9db5c06b16?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=810&q=80",
+        "image":"data:image/jpeg;base64,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",
         "description":"Marine Drive is a 3.6-kilometre-long Promenade along the Netaji Subhash Chandra Bose Road in Mumbai, India."
     },
 {
@@ -213,7 +213,7 @@
         "city":"Dhule",
         "locality":"",
         "landmark":"Resort",
-        "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F07%2F6c%2Fc7%2F06%2Fhotel-ganapati-palace.jpg%3Fw%3D900%26h%3D-1%26s%3D1&imgrefurl=https%3A%2F%2Fwww.tripadvisor.in%2FHotel_Review-g2440581-d3948420-Reviews-Hotel_Ganapati_Palace-Dhule_Dhule_District_Maharashtra.html&tbnid=Fnmqdz17kAAQdM&vet=12ahUKEwjr1LLwtKfzAhXVHXIKHVZ7BDsQMyg8egQIARBk..i&docid=cJode-Yo0H5atM&w=900&h=598&q=dhule%20maharashtra%20photos&ved=2ahUKEwjr1LLwtKfzAhXVHXIKHVZ7BDsQMyg8egQIARBk",
+        "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F07%2F6c%2Fc7%2F06%2Fhotel-ganapati-palace.jpg%3Fw%3D900%26h%3D-1%26s%3D1&imgrefurl=https%3A%2F%2Fwww.tripadvisor.in%2FHotel_Review-g2440581-d3948420-Reviews-Hotel_Ganapati_Palace-Dhule_Dhule_District_Maharashtra.html&tbnid=Fnmqdz17kAAQdM&vet=12ahUKEwjr1LLwtKfzAhXVHXIKHVZ7BDsQMyg8egQIARBk..i&docid=cJode-Yo0H5atM&w=900&h=598&q=dhule%20maharashtra%20photos&ved=2ahUKEwjr1LLwtKfzAhXVHXIKHVZ7BDsQMyg8egQIARBk"
         "description":"India."
     },
     {
@@ -232,7 +232,7 @@
         "locality":"Miraj",
         "landmark":"Miraj Market",
         "image":"https://upload.wikimedia.org/wikipedia/commons/2/24/Mirajmarketnorth.jpg",
-        "description":"Gavbhag"
+    "description":"Gavbhag"
 },
     {
         "id":27,
@@ -242,18 +242,7 @@
         "landmark":"Ma.Na.Pa",
         "image":"https://upload.wikimedia.org/wikipedia/commons/9/95/Parvati.JPG",
         "description":""
-
-    },
-    {
-     "id": 28,
-        "state":"TamilNadu",
-        "city":"Kanyakumari",
-        "locality":" thiruvattar",
-        "landmark":"Sree Athikesava Perumal Temple",
-        "image":"https://bit.ly/3iofxsB",
-        "description":"The Adikesavaperumal Temple is a Hindu temple located in Thiruvattar, Kanyakumari district, Tamil Nadu, India and is one of the 108 Divya desams, the holy sites of Hindu Vaishnavism according to existing Tamil hymns from the seventh and eighth centuries C.E."
-   },
-    
+    }
     {
         "id":29,
         "state":"Maharashtra",
@@ -262,5 +251,14 @@
         "landmark":"mahalaxmi Temple",
         "image":"https://www.dnaindia.com/india/report-now-kolhapur-mahalaxmi-temple-allows-women-to-enter-inner-sanctum-2201024",
         "description":"karver"
+    },
+{
+        "id":30,
+        "state":"Maharashtra",
+        "city":"pune",
+        "locality":"Chhatrapati Shivaji Maharaj Rd, Mehunpura, Budhwar Peth, Pune, Maharashtra",
+        "landmark":dagdusheth ganpati,
+        "image":https://www.google.com/maps/uv?pb=!1s0x3bc2c06fa5b442ff%3A0x9df365f5b648bce1!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO4J7HNhhv400ZMR_MdxOHbvXv-4BGWeHAH7b5V%3Dw160-h200-k-no!5sdagdusheth%20ganpati%20address%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipO4J7HNhhv400ZMR_MdxOHbvXv-4BGWeHAH7b5V&hl=en&sa=X&ved=2ahUKEwj3ktegxKfzAhWfzzgGHbEpC_oQoip6BAhxEAM,
+        "description":"best ganpati bapa"
     },
 ]
