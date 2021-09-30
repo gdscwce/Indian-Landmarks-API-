@@ -70,6 +70,15 @@
         "landmark":"Cubbon Park",
         "image":"https://www.makemytrip.com/travel-guide/media/dg_image/bangalore/Cubbon-Park-Samuel-Jacob-Flickr-Creative-commons.jpg",
         "description":""
+    },
+    {
+        "id":8,
+        "state":"Delhi",
+        "city":"Lotus Temple",
+        "locality":"Bahapur",
+        "landmark":"Kalkaji",
+        "image":"https://www.makemytrip.com/travel-guide/media/dg_image/delhi/Lotus-Temple-Delhi.jpg",
+        "description":""
     }
 
 
