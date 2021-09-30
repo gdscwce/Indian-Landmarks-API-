@@ -73,6 +73,15 @@
     },
     {
         "id":8,
+        "state":"Delhi",
+        "city":"Lotus Temple",
+        "locality":"Bahapur",
+        "landmark":"Kalkaji",
+        "image":"https://www.makemytrip.com/travel-guide/media/dg_image/delhi/Lotus-Temple-Delhi.jpg",
+        "description":""
+    }
+  {
+  "id": 9,
         "state":"Maharastra",
         "city":"Mumbai",
         "locality":"",
