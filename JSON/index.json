@@ -207,24 +207,40 @@
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsRM6xkFeS24377awvKVOZhdoH7WSNQD74Fg&usqp=CAU",
         "description":"The Kamakshi Temple is an ancient Hindu Temple dedicated to Kamakshi, the ultimate form of Goddess Lalitha Maha Tripurasundari or Parvati. It is located in the historic city of Kanchipuram, near Chennai, India."
     },
-
     {
         "id": 24,
-        "state":"Maharashtra",
+        "state":"Maharastra",
         "city":"Dhule",
         "locality":"",
         "landmark":"Resort",
-        "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F07%2F6c%2Fc7%2F06%2Fhotel-ganapati-palace.jpg%3Fw%3D900%26h%3D-1%26s%3D1&imgrefurl=https%3A%2F%2Fwww.tripadvisor.in%2FHotel_Review-g2440581-d3948420-Reviews-Hotel_Ganapati_Palace-Dhule_Dhule_District_Maharashtra.html&tbnid=Fnmqdz17kAAQdM&vet=12ahUKEwjr1LLwtKfzAhXVHXIKHVZ7BDsQMyg8egQIARBk..i&docid=cJode-Yo0H5atM&w=900&h=598&q=dhule%20maharashtra%20photos&ved=2ahUKEwjr1LLwtKfzAhXVHXIKHVZ7BDsQMyg8egQIARBk",
-        "description":", India."
+        "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F07%2F6c%2Fc7%2F06%2Fhotel-ganapati-palace.jpg%3Fw%3D900%26h%3D-1%26s%3D1&imgrefurl=https%3A%2F%2Fwww.tripadvisor.in%2FHotel_Review-g2440581-d3948420-Reviews-Hotel_Ganapati_Palace-Dhule_Dhule_District_Maharashtra.html&tbnid=Fnmqdz17kAAQdM&vet=12ahUKEwjr1LLwtKfzAhXVHXIKHVZ7BDsQMyg8egQIARBk..i&docid=cJode-Yo0H5atM&w=900&h=598&q=dhule%20maharashtra%20photos&ved=2ahUKEwjr1LLwtKfzAhXVHXIKHVZ7BDsQMyg8egQIARBk"
+        "description":"India."
+    },
+    {
+        "id":25,
+        "state":"Maharastra",
+        "city":"Mumbai",
+        "locality":"Vasai",
+        "landmark":"Vasai Fort",
+        "image":"https://www.google.com/search?q=vasai+fort+pic&rlz=1C1CHBD_enIN924IN924&sxsrf=AOaemvLh4fBM5r6KT7sQQ38_mgbBIu0NTA:1633029873728&tbm=isch&source=iu&ictx=1&fir=QKrpZYBiXfl1VM%252CWqzeIu0xHxV3qM%252C_%253B-_pY-tr6W6EjWM%252C5d2CSK_RJ_zuuM%252C_%253BNwxol6tEVBChzM%252CAWcpKFRSxfu45M%252C_%253B7qhCKD_NpqY06M%252CaEX1CJFLCLkFvM%252C_%253BVtAXp9oCE22JGM%252CkXk7FDGR2AtC9M%252C_%253Bk3NRUFENLe6_wM%252CR6FTRHDikAz1CM%252C_%253BdQ8iGYszP4bioM%252CjgtXCTD8HOr0FM%252C_%253BGPVjZYqsKprapM%252CrurA1lrg1tPjDM%252C_%253Bjw3Oqy1_DG9htM%252CFwKVOjb_HcuoDM%252C_%253BYQizXBBcafCq-M%252CjgtXCTD8HOr0FM%252C_%253BLeGTdg207fdf1M%252CYI9DSL6qT8XTqM%252C_%253BiUGv7aNOyFVMtM%252C_PR3uvBKLzNVNM%252C_&vet=1&usg=AI4_-kTGUkYZ_J7oRnBZUL9cUue0-qAJvA&sa=X&ved=2ahUKEwiUtp-stqfzAhWryjgGHW9nCagQ9QF6BAgNEAE&biw=1280&bih=609&dpr=1.5#imgrc=-_pY-tr6W6EjWM",
+        "description":"It is an ancient fort in Vasai which has been a tourist attraction for many decades now"
     },
 {
-     "id": 25,
-        "state":"Maharashtra",
+        "id": 26,
+        "state":"Maharastra",
         "city":"Sangli",
-        "locality":"",
-        "landmark":"RNature",
+        "locality":"Miraj",
+        "landmark":"Miraj Market",
         "image":"https://upload.wikimedia.org/wikipedia/commons/2/24/Mirajmarketnorth.jpg",
-    "description":", Gavbhag."
-}
-
+    "description":"Gavbhag"
+},
+    {
+        "id":27,
+        "state":"Maharashtra",
+        "city":"Pune",
+        "locality":"PCMC",
+        "landmark":"Ma.Na.Pa",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/9/95/Parvati.JPG",
+        "description":""
+    }
 ]
