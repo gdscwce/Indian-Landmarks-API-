@@ -79,6 +79,15 @@
         "landmark":"mahanara pratap fort",
         "image":"https://www.google.com/search?q=maharana+pratap+fort&client=safari&rls=en&sxsrf=AOaemvILFT-au0Z76jZY2zPcTqsaS5cRUQ:1633024591666&tbm=isch&source=iu&ictx=1&fir=JU3DqzKnqqR_5M%252CiAi0EEGKmdPlQM%252C_&vet=1&usg=AI4_-kTFXIexq_k_ldehNHM0nu3YUqNQgw&sa=X&ved=2ahUKEwiO38fVoqfzAhWdzDgGHVDrB_kQ_h16BAgTEAM#imgrc=JU3DqzKnqqR_5M",
         "description":""
+    },
+    {
+        "id":9,
+        "state":"Goa",
+        "city":"Bardez",
+        "locality":"",
+        "landmark":"Baga Beach",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/3/38/India_-_Goa_-_010_-_Touristy_Baga_Beach.jpg",
+        "description":"Baga Beach is a popular beach and tourist destination in North Goa. Baga is located at the north end of the contiguous beach stretch that starts from Sinquerim, Candolim, leads to Calangute, and then to Baga."
     }
 
 
