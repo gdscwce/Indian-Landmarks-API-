@@ -177,8 +177,8 @@
         "city":"Delhi",
         "locality":"",
         "landmark":"Qutub Minar, Delhi",
-        "image":"https://www.destguides.com/upload-files/derivations/background-image/thumbnail_webp/730/410/eyJpZCI6Iml0aW5lcmFyeXN0b3AvNjc0Ni9iYWNrZ3JvdW5kX2ltYWdlLzgxMzZkNzUwZTExZDkyZWEwZmYzZmQ4NjhhYzE2ZjU1LmpwZWciLCJzdG9yYWdlIjoic3RvcmUifQ?version=3&signature=aa349ac15e4d5ac1a39c76d190ad38d645cb28836c1f620711529e5c9e3bac7e"
-         "description":""
+        "image":"https://www.destguides.com/upload-files/derivations/background-image/thumbnail_webp/730/410/eyJpZCI6Iml0aW5lcmFyeXN0b3AvNjc0Ni9iYWNrZ3JvdW5kX2ltYWdlLzgxMzZkNzUwZTExZDkyZWEwZmYzZmQ4NjhhYzE2ZjU1LmpwZWciLCJzdG9yYWdlIjoic3RvcmUifQ?version=3&signature=aa349ac15e4d5ac1a39c76d190ad38d645cb28836c1f620711529e5c9e3bac7e",
+        "description":""
 
     
 },
@@ -192,7 +192,7 @@
         "description":""
     },
  {
-            "id":22
+            "id":22,
             "state":"Maharashtra",
             "city":"Chandrapur",
             "locality":"Taloba National Park",
