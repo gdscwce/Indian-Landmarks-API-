@@ -250,7 +250,16 @@
         "city":"Kanyakumari",
         "locality":" thiruvattar",
         "landmark":"Sree Athikesava Perumal Temple",
-        "image":"https://bit.ly/3iofxsB",
+        "image":"https://1.bp.blogspot.com/-AW_x8_0w_Lk/XD_oHg8BRUI/AAAAAAAAf6o/SGJMRH4nBycRemXYwGt6vN9cBedBRfH2QCLcBGAs/s1600/196833693Tiruvattaru_Adikesava_Perumal_Temple.jpg",
         "description":"The Adikesavaperumal Temple is a Hindu temple located in Thiruvattar, Kanyakumari district, Tamil Nadu, India and is one of the 108 Divya desams, the holy sites of Hindu Vaishnavism according to existing Tamil hymns from the seventh and eighth centuries C.E."
+   },
+    {
+     "id": 29,
+        "state":"TamilNadu",
+        "city":"Niligiris",
+        "locality":" Udagamandalam",
+        "landmark":"Tamilnadu Tourism Ooty Boat House",
+        "image":"https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Ooty_Lake_Boating.jpg/1024px-Ooty_Lake_Boating.jpg",
+        "description":"Ooty lake is also called as ooty boat house is located in Ooty in the Nilgiris district and 1 km from ooty bus stand., Tamil Nadu, India. It covers an area of 65 acres. "
    }
 ]
