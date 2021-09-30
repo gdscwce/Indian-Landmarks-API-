@@ -80,6 +80,15 @@
         "image":"https://www.makemytrip.com/travel-guide/media/dg_image/delhi/Lotus-Temple-Delhi.jpg",
         "description":""
     }
+  {
+  "id": 9,
+        "state":"Maharastra",
+        "city":"Mumbai",
+        "locality":"",
+        "landmark":"mahanara pratap fort",
+        "image":"https://www.google.com/search?q=maharana+pratap+fort&client=safari&rls=en&sxsrf=AOaemvILFT-au0Z76jZY2zPcTqsaS5cRUQ:1633024591666&tbm=isch&source=iu&ictx=1&fir=JU3DqzKnqqR_5M%252CiAi0EEGKmdPlQM%252C_&vet=1&usg=AI4_-kTFXIexq_k_ldehNHM0nu3YUqNQgw&sa=X&ved=2ahUKEwiO38fVoqfzAhWdzDgGHVDrB_kQ_h16BAgTEAM#imgrc=JU3DqzKnqqR_5M",
+        "description":""
+    }
 
 
 
