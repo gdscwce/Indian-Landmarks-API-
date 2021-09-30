@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "id":0,
         "state":"Maharashtra",
@@ -175,10 +175,9 @@
         "id":20,
         "state":"Delhi",
         "city":"Delhi",
-        "locality":"",
+        "locality":"Mehrauli",
         "landmark":"Qutub Minar, Delhi",
-        "image":"https://www.destguides.com/upload-files/derivations/background-image/thumbnail_webp/730/410/eyJpZCI6Iml0aW5lcmFyeXN0b3AvNjc0Ni9iYWNrZ3JvdW5kX2ltYWdlLzgxMzZkNzUwZTExZDkyZWEwZmYzZmQ4NjhhYzE2ZjU1LmpwZWciLCJzdG9yYWdlIjoic3RvcmUifQ?version=3&signature=aa349ac15e4d5ac1a39c76d190ad38d645cb28836c1f620711529e5c9e3bac7e"
-         "description":""
+        "image":"https://www.destguides.com/upload-files/derivations/background-image/thumbnail_webp/730/410/eyJpZCI6Iml0aW5lcmFyeXN0b3AvNjc0Ni9iYWNrZ3JvdW5kX2ltYWdlLzgxMzZkNzUwZTExZDkyZWEwZmYzZmQ4NjhhYzE2ZjU1LmpwZWciLCJzdG9yYWdlIjoic3RvcmUifQ?version=3&signature=aa349ac15e4d5ac1a39c76d190ad38d645cb28836c1f620711529e5c9e3bac7e",        "description":""
     
 },
     {
@@ -194,7 +193,7 @@
             "id":22,
             "state":"Maharashtra",
             "city":"Chandrapur",
-            "locality":"Taloba National Park",
+            "locality":"Tadoba National Park",
             "landmark":"Tadoba Andhari Tiger Reserve",
             "image":"https://www.tadobanationalpark.in/images/tadoba-national-park.jpg",
             "description":"Notably Maharashtra's oldest and largest National Park, the \"Tadoba National Park\", also known as the \"Tadoba Andhari Tiger Reserve\" is one of India's 47 project tiger reserves existing in India. It lies in the Chandrapur district of Maharashtra state and is approximately 150 km from Nagpur city. The total area of the tiger reserve is 1,727 Sq.km, which includes the Tadoba National Park, created in the year 1955."
@@ -227,7 +226,7 @@
         "description":"It is an ancient fort in Vasai which has been a tourist attraction for many decades now"
     },
 {
-     "id": 26,
+        "id": 26,
         "state":"Maharastra",
         "city":"Sangli",
         "locality":"Miraj",
@@ -243,7 +242,7 @@
         "landmark":"Ma.Na.Pa",
         "image":"https://upload.wikimedia.org/wikipedia/commons/9/95/Parvati.JPG",
         "description":""
-    },
+    }
     {
      "id": 28,
         "state":"TamilNadu",
@@ -261,5 +260,41 @@
         "landmark":"Tamilnadu Tourism Ooty Boat House",
         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Ooty_Lake_Boating.jpg/1024px-Ooty_Lake_Boating.jpg",
         "description":"Ooty lake is also called as ooty boat house is located in Ooty in the Nilgiris district and 1 km from ooty bus stand., Tamil Nadu, India. It covers an area of 65 acres. "
-   }
+   },
+   {
+        "id":30,
+        "state":"Maharashtra",
+        "city":"Kolhapur",
+        "locality":"mahalaxmi road",
+        "landmark":"mahalaxmi Temple",
+        "image":"https://www.dnaindia.com/india/report-now-kolhapur-mahalaxmi-temple-allows-women-to-enter-inner-sanctum-2201024",
+        "description":"karver"
+    },
+{
+        "id":31,
+        "state":"Maharashtra",
+        "city":"pune",
+        "locality":"Chhatrapati Shivaji Maharaj Rd, Mehunpura, Budhwar Peth, Pune, Maharashtra",
+        "landmark":dagdusheth ganpati,
+        "image":https://www.google.com/maps/uv?pb=!1s0x3bc2c06fa5b442ff%3A0x9df365f5b648bce1!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO4J7HNhhv400ZMR_MdxOHbvXv-4BGWeHAH7b5V%3Dw160-h200-k-no!5sdagdusheth%20ganpati%20address%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipO4J7HNhhv400ZMR_MdxOHbvXv-4BGWeHAH7b5V&hl=en&sa=X&ved=2ahUKEwj3ktegxKfzAhWfzzgGHbEpC_oQoip6BAhxEAM,
+        "description":"best ganpati bapa"
+    },
+{
+        "id":32,
+        "state":"Maharashtra",
+        "city":"pune",
+        "locality":"Theur",
+        "landmark":Chintamani Temple,
+        "image":https://en.wikipedia.org/wiki/Chintamani_Temple,_Theur#/media/File:Shri_Cintamani_of_Theur.jpg,
+        "description":"The Chintamani Temple of Theur is a Hindu temple dedicated to Ganesha"
+    },
+{
+        "id":33,
+        "state":"Telangana",
+        "city":"Hyderabad",
+        "locality":"Ibrahim Bagh",
+        "landmark":"Golconda Fort",
+        "image":"https://en.wikipedia.org/wiki/File:Golconda_Fort-Hyderabad-Telangana-DSC001.jpg",
+        "description":""
+    }
 ]
