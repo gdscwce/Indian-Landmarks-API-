@@ -106,7 +106,16 @@
         "landmark":"Baga Beach",
         "image":"https://upload.wikimedia.org/wikipedia/commons/3/38/India_-_Goa_-_010_-_Touristy_Baga_Beach.jpg",
         "description":"Baga Beach is a popular beach and tourist destination in North Goa. Baga is located at the north end of the contiguous beach stretch that starts from Sinquerim, Candolim, leads to Calangute, and then to Baga."
-    }
+    },
+    {
+            "id":18,
+            "state":"Maharashtra",
+            "city":"Chandrapur",
+            "locality":"Taloba National Park",
+            "landmark":"Tadoba Andhari Tiger Reserve",
+            "image":"https://www.tadobanationalpark.in/images/tadoba-national-park.jpg",
+            "description":"Notably Maharashtra's oldest and largest National Park, the "Tadoba National Park", also known as the "Tadoba Andhari Tiger Reserve" is one of India's 47 project tiger reserves existing in India. It lies in the Chandrapur district of Maharashtra state and is approximately 150 km from Nagpur city. The total area of the tiger reserve is 1,727 Sq.km, which includes the Tadoba National Park, created in the year 1955."
+        }
 
 
 
