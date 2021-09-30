@@ -243,4 +243,13 @@
         "image":"https://upload.wikimedia.org/wikipedia/commons/9/95/Parvati.JPG",
         "description":""
     }
+    {
+        "id":29,
+        "state":"Maharashtra",
+        "city":"Kolhapur",
+        "locality":"mahalaxmi road",
+        "landmark":"mahalaxmi Temple",
+        "image":"https://www.dnaindia.com/india/report-now-kolhapur-mahalaxmi-temple-allows-women-to-enter-inner-sanctum-2201024",
+        "description":"karver"
+    },
 ]
