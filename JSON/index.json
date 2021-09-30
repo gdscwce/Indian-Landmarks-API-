@@ -108,7 +108,15 @@
         "description":"Baga Beach is a popular beach and tourist destination in North Goa. Baga is located at the north end of the contiguous beach stretch that starts from Sinquerim, Candolim, leads to Calangute, and then to Baga."
     }
 
-
+   {
+        "id":12,
+        "state":"Maharashtra",
+        "city":"Aurangabad",
+        "locality":"",
+        "landmark":"Bibi Ka Maqbara",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Aurangabad%2C_Bibi_Ka_Maqbara%2C_mausoleo_per_la_prima_moglie_di_aurangzaeb_Dilras_Banu_Begum%2C_1660-69_ca.%2C_corpo_centrale_e_minareti_04.jpg/330px-Aurangabad%2C_Bibi_Ka_Maqbara%2C_mausoleo_per_la_prima_moglie_di_aurangzaeb_Dilras_Banu_Begum%2C_1660-69_ca.%2C_corpo_centrale_e_minareti_04.jpg",
+        "description":"The Bibi Ka Maqbara (English: "Tomb of the Lady"[1][2]) is a tomb located in Aurangabad, Maharashtra, India. It was commissioned in 1660 by the Mughal emperor Aurangzeb's son in the memory of his mother Dilras Banu Begum (posthumously known as Rabia-ud-Daurani) and is considered to be a symbol of Aurangzeb's 'conjugal fidelity'"
+    }
 
     
 
