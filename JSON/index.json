@@ -151,6 +151,7 @@
 
 
 
+
     {
         "id":16,
         "state":"Maharastra",
@@ -168,7 +169,16 @@
             "landmark":"Tadoba Andhari Tiger Reserve",
             "image":"https://www.tadobanationalpark.in/images/tadoba-national-park.jpg",
             "description":"Notably Maharashtra's oldest and largest National Park, the "Tadoba National Park", also known as the "Tadoba Andhari Tiger Reserve" is one of India's 47 project tiger reserves existing in India. It lies in the Chandrapur district of Maharashtra state and is approximately 150 km from Nagpur city. The total area of the tiger reserve is 1,727 Sq.km, which includes the Tadoba National Park, created in the year 1955."
-        }
+        },
+  {
+        "id":18,
+        "state":"Tamil Nadu",
+        "city":"Kanchipuram",
+        "locality":"",
+        "landmark":"Sri Kanchi Kamakshi Amman Temple",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsRM6xkFeS24377awvKVOZhdoH7WSNQD74Fg&usqp=CAU",
+        "description":"The Kamakshi Temple is an ancient Hindu Temple dedicated to Kamakshi, the ultimate form of Goddess Lalitha Maha Tripurasundari or Parvati. It is located in the historic city of Kanchipuram, near Chennai, India."
+    }
 
 
     
