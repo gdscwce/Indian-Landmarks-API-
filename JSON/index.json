@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "id":0,
         "state":"Maharashtra",
@@ -242,7 +242,18 @@
         "landmark":"Ma.Na.Pa",
         "image":"https://upload.wikimedia.org/wikipedia/commons/9/95/Parvati.JPG",
         "description":""
-    }
+
+    },
+    {
+     "id": 28,
+        "state":"TamilNadu",
+        "city":"Kanyakumari",
+        "locality":" thiruvattar",
+        "landmark":"Sree Athikesava Perumal Temple",
+        "image":"https://bit.ly/3iofxsB",
+        "description":"The Adikesavaperumal Temple is a Hindu temple located in Thiruvattar, Kanyakumari district, Tamil Nadu, India and is one of the 108 Divya desams, the holy sites of Hindu Vaishnavism according to existing Tamil hymns from the seventh and eighth centuries C.E."
+   },
+    
     {
         "id":29,
         "state":"Maharashtra",
