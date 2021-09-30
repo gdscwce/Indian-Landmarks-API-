@@ -79,9 +79,17 @@
         "landmark":"mahanara pratap fort",
         "image":"https://www.google.com/search?q=maharana+pratap+fort&client=safari&rls=en&sxsrf=AOaemvILFT-au0Z76jZY2zPcTqsaS5cRUQ:1633024591666&tbm=isch&source=iu&ictx=1&fir=JU3DqzKnqqR_5M%252CiAi0EEGKmdPlQM%252C_&vet=1&usg=AI4_-kTFXIexq_k_ldehNHM0nu3YUqNQgw&sa=X&ved=2ahUKEwiO38fVoqfzAhWdzDgGHVDrB_kQ_h16BAgTEAM#imgrc=JU3DqzKnqqR_5M",
         "description":""
+    },
+
+    {
+        "id":9,
+        "state":"Maharastra",
+        "city":"Aurangabad",
+        "locality":"Begumpura",
+        "landmark":"Bibi Ka Maqbara",
+        "image":"https://www.google.com/search?q=bibi+ka+maqbara&rlz=1C1RXQR_enIN965IN965&oq=bibi+ka+&aqs=chrome.0.0i355i433i512j46i175i199i433i512j69i57j0i512l4j0i457i512j0i512l2.3315j0j4&sourceid=chrome&ie=UTF-8",
+        "description":""
     }
-
-
 
     
 
