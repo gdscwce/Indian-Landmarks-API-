@@ -234,5 +234,14 @@
         "landmark":"Miraj Market",
         "image":"https://upload.wikimedia.org/wikipedia/commons/2/24/Mirajmarketnorth.jpg",
     "description":"Gavbhag"
-}
+},
+    {
+        "id":27,
+        "state":"Maharashtra",
+        "city":"Pune",
+        "locality":"PCMC",
+        "landmark":"Ma.Na.Pa",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/9/95/Parvati.JPG",
+        "description":""
+    }
 ]
