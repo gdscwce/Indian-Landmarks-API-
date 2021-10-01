@@ -410,8 +410,17 @@
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbuLkwfNR0z9B7tUMu4pWYW5CDxALhllMjPw&usqp=CAU",
         "description":"Siddheshwar Temple is a temple in Solapur district, Maharashtra, India. It is sacred to Hindus and members of the Lingayat faith. There is a lake within the temple complex"
     },
-    {
+      {
         "id":45,
+        "state":"Maharashtra",
+        "city":"Kolhapur",
+        "locality":"New Palace area",
+        "landmark":"New Palace",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.worldorgs.com%2Fcatalog%2Fkolhapur%2Fmuseum%2Fnew-palace&psig=AOvVaw3ye6ekT-ZY1nG9OTmrAiuV&ust=1633159866033000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDHrObYqPMCFQAAAAAdAAAAABAD",
+        "description":"Royal Palace of Shahu Maharaj"
+      },
+    {
+        "id":46,
         "state":"Maharashtra",
         "city":"Aurangabad",
         "locality":"Gajanan Colony",
