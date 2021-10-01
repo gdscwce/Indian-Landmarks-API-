@@ -660,6 +660,14 @@
         "landmark":"Bapatmala",
         "image":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFBgVFRUZGRgaGx4aGxobGyMbHR0dHSIdGx0cIBobIC4kHR0pIhsaJTclKS4wNDQ0HSM5PzkyPi0yNDABCwsLEA8QHhISHjIpICkyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgABB//EAEgQAAIBAgQCBwUFBAcIAQUAAAECEQADBBIhMQVBBiJRYXGBoRMykbHBI0Jy0fAUUmLhFRYzgpKy8QckQ1NUk6LT0jSUo8Lj/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQIDAAQF/8QAJhEAAgIBBQACAQUBAAAAAAAAAAECESEDEjFBUSJhMhNxkaHBUv/aAAwDAQACEQMRAD8AX",
         "description":""
+    },
+   {
+        "id":127,
+        "state":"Maharashtra",
+        "city":"Kolhapur",
+        "locality":"Pawangad",
+        "landmark":"Panhala",
+        "image":"https://www.nomadtrekkers.in/images/pavangad/pavangad.jpg"
     }
 ]
 
