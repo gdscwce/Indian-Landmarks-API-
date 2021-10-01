@@ -325,5 +325,16 @@
         "landmark":"Ahmednagar Fort",
         "image":"https://www.google.com/maps/uv?pb=!1s0x3bdcb069126730a3%3A0x1e64ea12095ccce0!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO0Yca3Kn9cXdgYUdWKY0KsjkYDiI5V74h-90Sj%3Dw160-h160-k-no!5sbhuikot%20fort%20ahmednagar%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipO0Yca3Kn9cXdgYUdWKY0KsjkYDiI5V74h-90Sj&hl=en&sa=X&ved=2ahUKEwifgoK2r6jzAhXXgtgFHe8cBB8Qoip6BAhkEAM",
         "description":"It was the headquarters of the Ahmednagar Sultanate. In 1803, it was taken by the British during the Second Anglo-Maratha War. It was used as a prison during the British Raj."
+    },
+    {
+
+        "id":37,
+        "state":"Rajasthan",
+        "city":"Udaipur",
+        "locality":"Udaipur City",
+        "landmark":"City Palace of Udaipur",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/2b/f0/f7/img-20181018-104236-01.jpg?w=1000&h=-1&s=1",
+        "description":"City Palace, Udaipur is a palace complex situated in the city of Udaipur in the Indian state of Rajasthan. It was built over a period of nearly 400 years, with contributions from several rulers of the Mewar dynasty. Its construction began in 1553, started by Maharana Udai Singh II of the Sisodia Rajput family as he shifted his capital from the erstwhile Chittor to the new found city of Udaipur. The palace is located on the east bank of Lake Pichola and has several palaces built within its complex. The City Palace in Udaipur was built in a flamboyant style and is considered the largest of its type in the state of Rajasthan."
     }
+    City Palace of Udaipur
 ]
