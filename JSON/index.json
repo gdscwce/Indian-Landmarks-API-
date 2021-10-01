@@ -631,5 +631,15 @@
     "landmark":"Mandvi beach",
     "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKutch_district&psig=AOvVaw2IAIxQlmyFIXXzD2zoXZH2&ust=1633167105552000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIirktvzqPMCFQAAAAAdAAAAABAD",
     "description":"Kutch district is a district of Gujarat state in western India, with its headquarters at Bhuj. Covering an area of 45,674 km², it is the largest district of India. The area of Kutch District is larger than the entire area of states like Haryana and Kerala The population of Kutch is about 2,092,371."
- }
+ },
+    {
+        "id":160,
+        "state":"Maharashtra",
+        "city":"Sangli",
+        "locality":"Vishrambag",
+        "landmark":"Bapatmala",
+        "image":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFBgVFRUZGRgaGx4aGxobGyMbHR0dHSIdGx0cIBobIC4kHR0pIhsaJTclKS4wNDQ0HSM5PzkyPi0yNDABCwsLEA8QHhISHjIpICkyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgABB//EAEgQAAIBAgQCBwUFBAcIAQUAAAECEQADBBIhMQVBBiJRYXGBoRMykbHBI0Jy0fAUUmLhFRYzgpKy8QckQ1NUk6LT0jSUo8Lj/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQIDAAQF/8QAJhEAAgIBBQACAQUBAAAAAAAAAAECESEDEjFBUSJhMhNxkaHBUv/aAAwDAQACEQMRAD8AX",
+        "description":""
+    },
 ]
+
