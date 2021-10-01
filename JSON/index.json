@@ -472,6 +472,24 @@
         "description":""
     },
     {
+        "id":130,
+        "state":"Gujrat",
+        "city":"Jamnagar",
+        "locality":"World's Oil City",
+        "landmark":"Reliance",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJamnagar&psig=AOvVaw0RSFVT8nZ_VNc5RtNDuUkK&ust=1633165076867000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKCkgpTsqPMCFQAAAAAdAAAAABAD",
+        "description":"Jamnagar is a city in the western Indian state of Gujarat. On an island in Lakhota Lake, Lakhota Palace and Museum is a former fort that exhibits weapons, sculptures and pottery from the 9th to 18th centuries. At Bala Hanuman Temple, the Rama Naam prayer has been chanted continuously since 1964. To the northeast, the marshlands of Khijadiya Bird Sanctuary attract spotted deer, painted storks and migratory birds. "
+    },
+    {
+        "id":131,
+        "state":"Gujarat",
+        "city":"Junagadh",
+        "locality":"Kalva chowk",
+        "landmark":"Girnar",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/9/91/Gate_of_Junagadh.jpg",
+        "description":"Junagadh is a city in the western Indian state of Gujarat. Mahabat Maqbara is the huge 19th-century mausoleum of a local ruler, which showcases intricate Indo-Islamic architectural details. Uparkot Fort, founded around 300 BC, has city views from its ramparts. Within the fort are the stone-cut stepwells Adi Kadi Vav and Navghan Kuwo, plus Buddhist caves. To the west, Darbar Hall Museum is housed in a former palace."
+    }
+    ,{
         "id":108,
         "state":"Maharashtra",
         "city":"Nagpur",
@@ -479,7 +497,7 @@
         "landmark":"Zero Mile Stone",
         "image":"https://images.mid-day.com/images/images/2021/jul/Eastern-Express-a_d.jpg",
         "description":""
-    }
+    },
           {
         "id":109,
         "state":"Maharashtra",
@@ -506,6 +524,100 @@
         "landmark":"Tulasi Marg",
         "image":"https://jaipurtourism.co.in/images/places-to-visit/header/city-palace-jaipur-entry-fee-timings-holidays-reviews-header.jpg",
         "description":"Beautiful palace located in jaipur was establishedd by Maharaja Sawai Jai Singh II"
-     }
+     },
+{
+        "id":112,
+        "state":"Uttarakhand",
+        "city":"Chamoli",
+        "locality":"Nanda Devi National Park",
+        "landmark":"Valley of Flowers",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Valley_of_flowers_uttaranchal_full_view.JPG/390px-Valley_of_flowers_uttaranchal_full_view.JPG",
+        "description":"IA beautiful Place for rare and endemic flaura and fauna"
+
+
+     },
+  {
+        "id":113,
+        "state":"Maharashtra",
+        "city":"Jalgaon",
+        "locality":"Dadawadi",
+        "landmark":"Jain Mandir",
+        "image":"https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%8A%E0%B8%99%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99#/media/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:Templejaindanvers.jpg",
+        "description":"It is a Jain temple incredibly carved using white marble within a span of more than 10 years."
+     },
+  {
+        "id":114,
+        "state":"Maharashtra",
+        "city":"Gondia",
+        "locality":"Gondia",
+        "landmark":"HazraFall",
+        "image":"https://www.google.com/search?q=Hazrafall&stick=H4sIAAAAAAAAAONgFuLVT9c3NEwzKC8vzsouU-IBcY0yytLzjKuMtASDM1NSyxMri_1SK0qCS1ILihexcnokVhUlpiXm5OxgZQQAhmwD1EEAAAA&sxsrf=AOaemvIKQBYL1_S-tBO9nPCOetAgz4Y2dA:1633077045274&source=lnms&tbm=isch&sa=X&ved=2ahUKEwidmrKJ5qjzAhWTA3IKHbsMD7AQ_AUoAnoECAEQBA&biw=1280&bih=657&dpr=1#imgrc=ca65ilSE7BFxsM",
+        "description":"The place is also ideal for camping as well as trekking activities.  It is a spectacular view covered with Dense forest and hills."
+
+   },
+  {
+        "id":115,
+        "state":"Maharashtra",
+        "city":"Satara",
+        "locality":"Kaas",
+        "landmark":"Kaas Plateau",
+        "image":"https://static.polibolly.in/wp-content/uploads/2016/01/kaas_flower_stream_2.jpg",
+        "description":"This plateau is extremely famous for its picturesque bloom of wild flowers around the month of october"
+     },
+     {
+        "id":116,
+        "state":"Odisha",
+        "city":"Cuttack",
+        "locality":"Next to modern Barabati Stadium",
+        "landmark":"Barabati Fort",
+        "image":"https://www.livehistoryindia.com/wp-content/uploads/2020/10/Barabati_Fort___Ruins_of_the_Nine_Storied_Complex_and_Elephant_Stables__Source_Wiki_Commons_.jpg",
+        "description":"Barabati Fort is a 13th-century fort built by the rulers of the Eastern Ganga dynasty in Cuttack, Odisha, India. The ruins of the fort remain with its moat, gate, and the earthen mound of the nine-storied palace, which evokes the memories of past days."
+     },
+  {
+        "id":117,
+        "state":"Maharashtra",
+        "city":"Raigad",
+        "locality":"Raigad",
+        "landmark":"Murud-Janjira Fort",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripiwiki.com%2FMaharashtra%2FJanjira-Fort-Attractions&psig=AOvVaw3TYeobSerRecNi9uxMRvjr&ust=1633165901787000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjClZ7vqPMCFQAAAAAdAAAAABAD",
+        "description":"Raja Ram Rao Patil was Patil of Janjira Island and a chief of Kolis who established and/or built this island in the 16th century for Kolis to live peacefully away from pirates. After gaining permission from the Sultan of the Ahmadnagar Sultanate, he built the island but later refused to obey the orders of the Sultan. So the Sultan sent his Admiral Piram Khan to capture the janjira."
+     },
     
+    {
+        "id":118,
+        "state":"Maharashtra",
+        "city":"Chikhaldara",
+        "locality":"Chikhaldara hill station",
+        "landmark":"Gawigad Fort",
+        "image":"https://www.localguidesconnect.com/t5/image/serverpage/image-id/855084i6210D35C60124256/image-size/large?v=v2&px=999",
+        "description":"Chikhaldara is a hill station and a municipal council in Amravati district in the Indian state of Maharashtra.Featured in the epic of the Mahabharata, this is the place where Bheema killed the villainous Keechaka in a herculean bout and then threw him into the valley. It thus came to be known as Keechakadara—Chikhaldara is its corruption."
+   
+    },
+   {
+        "id":119,
+        "state":"Maharashtra",
+        "city":"Amravati",
+        "locality":"Amravati",
+        "landmark":"Chikhaldara",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.holidaytravel.co%2Fpkg-dtl-chikhaldara-venture-village&psig=AOvVaw2LCM3Z3ldqlZG0dgKH7nyn&ust=1633165645734000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCbyKruqPMCFQAAAAAdAAAAABAD",
+        "description":"Chikhaldara is a hill station and a municipal council in Amravati district in the Indian state of Maharashtra. Featured in the epic of the Mahabharata, this is the place where Bheema killed the villainous Keechaka in a herculean bout and then threw him into the valley."
+   },  
+     {
+        "id":120,
+        "state":"Gujarat",
+        "city":"Saputara",
+        "locality":" Dang",
+        "landmark":"Sunset point",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tourmyindia.com%2Fweekend-tours%2Fsaputara-weekend-tour.html&psig=AOvVaw2gmziyRWMNFmkDFMZUKhfj&ust=1633165608561000&source=images&cd=vfe&ved=2ahUKEwi3l_eQ7qjzAhWOwTgGHSPaCDUQjRx6BAgAEAk",
+        "description":"Saputara is a hill station located in Sahyadris or Western Ghats and is well known for it's sunset point"
+     },
+  {
+        "id":121,
+        "state":"Delhi",
+        "city":"Delhi",
+        "locality":"Mathura Road",
+        "landmark":"Humayun's Tomb",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tomb_of_Humayun%2C_Delhi.jpg/360px-Tomb_of_Humayun%2C_Delhi.jpg",
+        "description":"It is the tomb of the Mughal Emperor Humayun in Delhi, India."
+     }
 ]
