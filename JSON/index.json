@@ -622,5 +622,14 @@
         "landmark":"Akshar Dham",
         "image":"https://www.google.com/search?q=Gandhinagar+&hl=en&rlz=1C5GCEM_enIN971IN971&tbm=isch&source=iu&ictx=1&fir=uTbs2MSq6u16qM%252CDjQUZcV3M63tiM%252C_&vet=1&usg=AI4_-kRY4PMMoQ8K67mPD3rEtiBTW1z0Uw&sa=X&ved=2ahUKEwi3qOiy8ajzAhXDSH0KHXZGCVIQ_B16BAgYEAE#imgrc=uTbs2MSq6u16qM",
         "description":"Gandhinagar is a planned city in the western Indian state of Gujarat. The Akshardham is a massive Hindu temple with ornate carvings and sculpted pillars, plus a water show in its sprawling gardens. Dandi Kutir museum traces the life of leader Mahatma Gandhi, who was born in Gujarat. South, along the Sabarmati River, the Indroda Nature Park has a zoo and botanical gardens, plus an adjacent dinosaur and fossil park"
-  }
+  },
+  {
+    "id":122,
+    "state":"Uttar Pradesh",
+    "city":"Noida",
+    "locality":"Sector-18",
+    "landmark":"DLF Mall Of India",
+    "image":"https://www.dlfmallofindia.com/wp-content/uploads/2020/02/1.jpg",
+    "description":"The DLF Mall of India is a shopping mall situated in Sector 18, Noida, Uttar Pradesh, India. The mall is spread over 7 floors, and includes 330 brands, 80 kiosks, 5 customized shopping zones, along with 75 food and beverages options and a movie theatre with 7 screens."
+}
 ]
