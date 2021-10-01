@@ -353,5 +353,14 @@
         "landmark":"JSPM's BSIOTR",
         "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flearningtelescope.com%2FLearningTelescope%2Finstitute%2FviewImage%3Fid%3D16&imgrefurl=https%3A%2F%2Flearningtelescope.com%2FLearningTelescope%2Finstitute%2Fname%2Fjspm-s-bsiotr-bhivarabai-sawant-institute-of-technology-and-research-pune&tbnid=qo_2Dx4VMxhwjM&vet=12ahUKEwi-_-mGxajzAhUjXnwKHSAvAyEQMygCegUIARC1AQ..i&docid=MLGaW2u_eUO5FM&w=1366&h=768&q=jspm%20bsiotr&client=safari&ved=2ahUKEwi-_-mGxajzAhUjXnwKHSAvAyEQMygCegUIARC1AQ",
         "description":" BSIOTR has various industrial collaboration in respect of internships, recruitment and exchange programmes ."
-    }
+    },
+    {
+        "id":40,
+        "state":"Delhi",
+        "city":"Delhi",
+        "locality":"Mehrauli",
+        "landmark":"Qutub Minar, Delhi",
+        "image":"https://www.destguides.com/upload-files/derivations/background-image/thumbnail_webp/730/410/eyJpZCI6Iml0aW5lcmFyeXN0b3AvNjc0Ni9iYWNrZ3JvdW5kX2ltYWdlLzgxMzZkNzUwZTExZDkyZWEwZmYzZmQ4NjhhYzE2ZjU1LmpwZWciLCJzdG9yYWdlIjoic3RvcmUifQ?version=3&signature=aa349ac15e4d5ac1a39c76d190ad38d645cb28836c1f620711529e5c9e3bac7e",        "description":""
+    
+},
 ]
