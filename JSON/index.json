@@ -499,6 +499,8 @@
         "description":"It is a dam in Nanded"
      },
 
+     
+
      {
         "id":111,
         "state":"Delhi",
@@ -517,6 +519,16 @@
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Valley_of_flowers_uttaranchal_full_view.JPG/390px-Valley_of_flowers_uttaranchal_full_view.JPG",
         "description":"IA beautiful Place for rare and endemic flaura and fauna"
 
+
+     },
+  {
+        "id":113,
+        "state":"Maharashtra",
+        "city":"Jalgaon",
+        "locality":"Dadawadi",
+        "landmark":"Jain Mandir",
+        "image":"https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%8A%E0%B8%99%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99#/media/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:Templejaindanvers.jpg",
+        "description":"It is a Jain temple incredibly carved using white marble within a span of more than 10 years."
      }
     
 ]
