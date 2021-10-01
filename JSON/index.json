@@ -444,6 +444,32 @@
         "landmark":"KKV Circle",
         "image":"https://www.google.com/search?q=rajkot&rlz=1C5GCEM_enIN971IN971&tbm=isch&source=iu&ictx=1&fir=PcdWoZTCeOiGTM%252CBDaeOg0U4pp0gM%252C_&vet=1&usg=AI4_-kTNUld8sF9IfOaGO_ke8EX8ysMGFA&sa=X&sqi=2&ved=2ahUKEwjuxaic16jzAhVyrZUCHfMCCm0Q_B16BAhtEAE#imgrc=PcdWoZTCeOiGTM", 
         "description":"Rajkot is a city in the western Indian state of Gujarat. In central Jubilee Garden are the Lang Library, with Gujarati literature, and the Watson Museum, with paintings and artifacts documenting British colonial rule. Kaba Gandhi No Delo, the house where Mahatma Gandhi spent part of his childhood, displays photos of the Indian leader and his belongings. The Rotary Dolls Museum exhibits dolls from around the world. "
+    },{
+      "id":105,
+        "state":"Maharashtra",
+        "city":"Solapur",
+        "locality":"Near Park Stadium",
+        "landmark":"Siddheshwar Temple",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbuLkwfNR0z9B7tUMu4pWYW5CDxALhllMjPw&usqp=CAU",
+        "description":"Siddheshwar Temple is a temple in Solapur district, Maharashtra, India. It is sacred to Hindus and members of the Lingayat faith. There is a lake within the temple complex"
+    },
+      {
+        "id":106,
+        "state":"Maharashtra",
+        "city":"Kolhapur",
+        "locality":"New Palace area",
+        "landmark":"New Palace",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.worldorgs.com%2Fcatalog%2Fkolhapur%2Fmuseum%2Fnew-palace&psig=AOvVaw3ye6ekT-ZY1nG9OTmrAiuV&ust=1633159866033000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDHrObYqPMCFQAAAAAdAAAAABAD",
+        "description":"Royal Palace of Shahu Maharaj"
+      },
+    {
+        "id":107,
+        "state":"Maharashtra",
+        "city":"Aurangabad",
+        "locality":"Gajanan Colony",
+        "landmark":"Gadhe Hospital",
+        "image":"https://lh5.googleusercontent.com/p/AF1QipMsmx_LBYhqij59MAPcZXdkIzTwKt726RrCPfbT=w408-h544-k-no",
+        "description":""
     }
 
 ]
