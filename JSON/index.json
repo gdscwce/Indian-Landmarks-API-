@@ -470,6 +470,17 @@
         "landmark":"Gadhe Hospital",
         "image":"https://lh5.googleusercontent.com/p/AF1QipMsmx_LBYhqij59MAPcZXdkIzTwKt726RrCPfbT=w408-h544-k-no",
         "description":""
+    },
+    {
+        "id":130,
+        "state":"Gujrat",
+        "city":"Jamnagar",
+        "locality":"World's Oil City",
+        "landmark":"Reliance",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJamnagar&psig=AOvVaw0RSFVT8nZ_VNc5RtNDuUkK&ust=1633165076867000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKCkgpTsqPMCFQAAAAAdAAAAABAD",
+        "description":"Jamnagar is a city in the western Indian state of Gujarat. On an island in Lakhota Lake, Lakhota Palace and Museum is a former fort that exhibits weapons, sculptures and pottery from the 9th to 18th centuries. At Bala Hanuman Temple, the Rama Naam prayer has been chanted continuously since 1964. To the northeast, the marshlands of Khijadiya Bird Sanctuary attract spotted deer, painted storks and migratory birds. "
     }
+    
+    
 
 ]
