@@ -378,8 +378,18 @@
         "city":"Hemalkasa",
         "locality":"Hemalkasa",
         "landmark":"Lok Biradari Prakalp,Gadchiroli",
-        "image":"https://cdn.s3waas.gov.in/s35e388103a391daabe3de1d76a6739ccd/uploads/bfi_thumb/2018050462-olw960pm6edx5t7xnkjqw4gzjbti00bha8egnhxxu2.jpg, 
+        "image":"https://cdn.s3waas.gov.in/s35e388103a391daabe3de1d76a6739ccd/uploads/bfi_thumb/2018050462-olw960pm6edx5t7xnkjqw4gzjbti00bha8egnhxxu2.jpg", 
         "description":" Lok Biradari Prakalp (LBP) is a social project of the Maharogi Sewa Samiti."
+    
+},
+    {
+        "id":42,
+        "state":"Delhi",
+        "city":"Delhi",
+        "locality":"",
+        "landmark":"India gate",
+        "image":"https://www.destguides.com/upload-files/derivations/background-image/thumbnail_webp/730/410/eyJpZCI6Iml0aW5lcmFyeXN0b3AvNjc0Mi9iYWNrZ3JvdW5kX2ltYWdlL2RiZjM3ZmVjZTI3MTg5Mjk2ZDgyNWY3ZTA2OTc0ZWM3LmpwZWciLCJzdG9yYWdlIjoic3RvcmUifQ?version=3&signature=81f61af84232454dd95aff23eccebc47ee1fa169d4b5a739a1fa8ed214ea1b72", 
+        "description":"India Gate, the most renowned landmark in Delhi, is a stunning archway built as a heartfelt tribute to the brave soldiers who have sacrificed their lives for the country."
     
 },
 ]
