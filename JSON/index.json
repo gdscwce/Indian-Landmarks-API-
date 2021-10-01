@@ -288,7 +288,8 @@
         "image":"https://en.wikipedia.org/wiki/Chintamani_Temple,_Theur#/media/File:Shri_Cintamani_of_Theur.jpg",
         "description":"The Chintamani Temple of Theur is a Hindu temple dedicated to Ganesha"
     },
-{
+
+  {
         "id":33,
         "state":"Telangana",
         "city":"Hyderabad",
@@ -305,15 +306,24 @@
         "landmark":"Shri Jagannath Temple",
         "image":"https://timesofindia.indiatimes.com/travel/Orissa/Puri-Beach/ps47121875.cms",
         "description":"Puri is a coastal city in the state of Odisha.It is known for the Shri Jagannath Temple, which is one of the original Char Dham pilgrimage sites for Hindus."
-    }
+    },
 {
-        "id":33,
+        "id":35,
         "state":"Sikkim",
         "city":"Tsomgo",
         "locality":"Tsomgo",
         "landmark":"Tsomgo Lake",
         "image":"https://northbengaltourism.com/images/sikkim/tsomgo_changu_lake_1024.jpg",
         "description":"Tsomgo Lake is situated in the East Sikkim district on the Gangtok-Nathu La Highway and is a part of the ancient southern Silk Route"
-    }
+    },
+{
 
+        "id":36,
+        "state":"Maharashtra",
+        "city":"Ahmednagar",
+        "locality":"Bhingar Nala",
+        "landmark":"Ahmednagar Fort",
+        "image":"https://www.google.com/maps/uv?pb=!1s0x3bdcb069126730a3%3A0x1e64ea12095ccce0!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO0Yca3Kn9cXdgYUdWKY0KsjkYDiI5V74h-90Sj%3Dw160-h160-k-no!5sbhuikot%20fort%20ahmednagar%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipO0Yca3Kn9cXdgYUdWKY0KsjkYDiI5V74h-90Sj&hl=en&sa=X&ved=2ahUKEwifgoK2r6jzAhXXgtgFHe8cBB8Qoip6BAhkEAM",
+        "description":"It was the headquarters of the Ahmednagar Sultanate. In 1803, it was taken by the British during the Second Anglo-Maratha War. It was used as a prison during the British Raj."
+    }
 ]
