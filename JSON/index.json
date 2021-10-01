@@ -497,6 +497,15 @@
         "landmark":"vishnupuri Dam",
         "image":"https://www.google.com/maps/uv?pb=!1s0x3bd1d5fedb42710f%3A0x80d8a2ca2e809d6f!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPvR3CnIbtYsdTuX7HD-I88U5LnmV0xL2kQOpTl%3Dw266-h200-k-no!5svishnupuri%20dam%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipPvR3CnIbtYsdTuX7HD-I88U5LnmV0xL2kQOpTl&hl=en&sa=X&ved=2ahUKEwjDh-mH1qjzAhW4xTgGHV8lAyoQoip6BAhYEAM",
         "description":"It is a dam in Nanded"
-     }
-    
+     },
+   {
+        "id":111,
+        "state":"Maharashtra",
+        "city":"Gondia",
+        "locality":"Gondia",
+        "landmark":"HazraFall",
+        "image":"https://www.google.com/search?q=Hazrafall&stick=H4sIAAAAAAAAAONgFuLVT9c3NEwzKC8vzsouU-IBcY0yytLzjKuMtASDM1NSyxMri_1SK0qCS1ILihexcnokVhUlpiXm5OxgZQQAhmwD1EEAAAA&sxsrf=AOaemvIKQBYL1_S-tBO9nPCOetAgz4Y2dA:1633077045274&source=lnms&tbm=isch&sa=X&ved=2ahUKEwidmrKJ5qjzAhWTA3IKHbsMD7AQ_AUoAnoECAEQBA&biw=1280&bih=657&dpr=1#imgrc=ca65ilSE7BFxsM",
+        "description":"The place is also ideal for camping as well as trekking activities.  It is a spectacular view covered with Dense forest and hills."
+
+   }
 ]
