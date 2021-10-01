@@ -217,7 +217,7 @@
   },
   {
     "id": 25,
-    "state": "Maharastra",
+    "state": "Maharashtra",
     "city": "Dhule",
     "locality": "",
     "landmark": "Resort",
@@ -226,7 +226,7 @@
   },
   {
     "id": 26,
-    "state": "Maharastra",
+    "state": "Maharashtra",
     "city": "Mumbai",
     "locality": "Vasai",
     "landmark": "Vasai Fort",
@@ -235,7 +235,7 @@
   },
   {
     "id": 27,
-    "state": "Maharastra",
+    "state": "Maharashtra",
     "city": "Sangli",
     "locality": "Miraj",
     "landmark": "Miraj Market",
@@ -352,12 +352,12 @@
   },
   {
     "id": 40,
-    "state": "Maharastra",
+    "state": "Maharashtra",
     "city": "pune",
     "locality": "wagholi",
     "landmark": "JSPM's BSIOTR",
     "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Flearningtelescope.com%2FLearningTelescope%2Finstitute%2FviewImage%3Fid%3D16&imgrefurl=https%3A%2F%2Flearningtelescope.com%2FLearningTelescope%2Finstitute%2Fname%2Fjspm-s-bsiotr-bhivarabai-sawant-institute-of-technology-and-research-pune&tbnid=qo_2Dx4VMxhwjM&vet=12ahUKEwi-_-mGxajzAhUjXnwKHSAvAyEQMygCegUIARC1AQ..i&docid=MLGaW2u_eUO5FM&w=1366&h=768&q=jspm%20bsiotr&client=safari&ved=2ahUKEwi-_-mGxajzAhUjXnwKHSAvAyEQMygCegUIARC1AQ",
-    "description": " BSIOTR has various industrial collaboration in respect of internships, recruitment and exchange programmes ."
+    "description": "BSIOTR has various industrial collaboration in respect of internships, recruitment and exchange programmes ."
   },
   {
     "id": 41,
@@ -375,7 +375,7 @@
     "locality": "Hemalkasa",
     "landmark": "Lok Biradari Prakalp,Gadchiroli",
     "image": "https://cdn.s3waas.gov.in/s35e388103a391daabe3de1d76a6739ccd/uploads/bfi_thumb/2018050462-olw960pm6edx5t7xnkjqw4gzjbti00bha8egnhxxu2.jpg",
-    "description": " Lok Biradari Prakalp (LBP) is a social project of the Maharogi Sewa Samiti."
+    "description": "Lok Biradari Prakalp (LBP) is a social project of the Maharogi Sewa Samiti."
   },
   {
     "id": 43,
@@ -393,7 +393,7 @@
     "locality": "Old Town",
     "landmark": "Lingaraja Temple",
     "image": "https://i0.wp.com/www.tusktravel.com/blog/wp-content/uploads/2021/02/bhubaneswar-lingaraj-temple.jpg?w=1000&ssl=1Q",
-    "description": " Lingaraja Temple, one of the largest Hindu temple, is dedicated to Lord Shiva. It is one of the oldest temples in the capital of Odisha, i.e., Bhubaneswar. Lingaraja temple is famous among tourists and devotees. The main pillar of this Lingaraja temple is approximately 55m (180ft) in height. This Lingaraj temple is the architectural work of the Kalinga dynasty."
+    "description": "Lingaraja Temple, one of the largest Hindu temple, is dedicated to Lord Shiva. It is one of the oldest temples in the capital of Odisha, i.e., Bhubaneswar. Lingaraja temple is famous among tourists and devotees. The main pillar of this Lingaraja temple is approximately 55m (180ft) in height. This Lingaraj temple is the architectural work of the Kalinga dynasty."
   },
   {
     "id": 45,
@@ -501,7 +501,7 @@
     "locality": "Near Chowbara",
     "landmark": "Udgir Fort",
     "image": "https://images.jdmagicbox.com/comp/latur/h2/9999p2382.2382.141219161704.k2h2/catalogue/udgir-fort-udgir-latur-tourist-attraction-2c904ya.png",
-    "description": "dgir Fort in the Udgir city in Latur district, Maharashtra of India. It is also famous for the historic Battle of Udgir in which Marathas, led by Sadashivrao Bhau, defeated Nizam, and after which the treaty of Udgir was signed"
+    "description": "Udgir Fort in the Udgir city in Latur district, Maharashtra of India. It is also famous for the historic Battle of Udgir in which Marathas, led by Sadashivrao Bhau, defeated Nizam, and after which the treaty of Udgir was signed"
   },
   {
     "id": 110,
@@ -528,7 +528,7 @@
     "locality": "Nanda Devi National Park",
     "landmark": "Valley of Flowers",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Valley_of_flowers_uttaranchal_full_view.JPG/390px-Valley_of_flowers_uttaranchal_full_view.JPG",
-    "description": "IA beautiful Place for rare and endemic flaura and fauna"
+    "description": "Is a beautiful Place for rare and endemic flaura and fauna"
   },
   {
     "id": 113,
@@ -588,7 +588,7 @@
     "id": 119,
     "state": "Gujarat",
     "city": "Saputara",
-    "locality": " Dang",
+    "locality": "Dang",
     "landmark": "Sunset point",
     "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tourmyindia.com%2Fweekend-tours%2Fsaputara-weekend-tour.html&psig=AOvVaw2gmziyRWMNFmkDFMZUKhfj&ust=1633165608561000&source=images&cd=vfe&ved=2ahUKEwi3l_eQ7qjzAhWOwTgGHSPaCDUQjRx6BAgAEAk",
     "description": "Saputara is a hill station located in Sahyadris or Western Ghats and is well known for it's sunset point"
@@ -597,7 +597,7 @@
     "id": 120,
     "state": "Uttar Pradesh",
     "city": "Varanasi",
-    "locality": " Varanasi",
+    "locality": "Varanasi",
     "landmark": "Assi Ghat",
     "image": "https://www.tourmyindia.com/states/uttarpradesh/images/assi-ghat-varanasi.jpg",
     "description": "Assi Ghat is one of the most popular ghats in Varanasi, visited regularly by both tourists and locals. It is located in the southern part of the holy city of Varanasi at the confluence of Ganga and Assi rivers."
@@ -605,7 +605,7 @@
   {
     "id": 121,
     "state": "Gujarat",
-    "city": "Gandhnagar",
+    "city": "Gandhinagar",
     "locality": " greenest capital city",
     "landmark": "Akshar Dham",
     "image": "https://www.google.com/search?q=Gandhinagar+&hl=en&rlz=1C5GCEM_enIN971IN971&tbm=isch&source=iu&ictx=1&fir=uTbs2MSq6u16qM%252CDjQUZcV3M63tiM%252C_&vet=1&usg=AI4_-kRY4PMMoQ8K67mPD3rEtiBTW1z0Uw&sa=X&ved=2ahUKEwi3qOiy8ajzAhXDSH0KHXZGCVIQ_B16BAgYEAE#imgrc=uTbs2MSq6u16qM",
@@ -632,7 +632,7 @@
  {
         "id":124,
         "state":"Gujrat",
-        "city":"Gandhnagar",
+        "city":"Gandhinagar",
         "locality":" greenest capital city",
         "landmark":"Akshar Dham",
         "image":"https://www.google.com/search?q=Gandhinagar+&hl=en&rlz=1C5GCEM_enIN971IN971&tbm=isch&source=iu&ictx=1&fir=uTbs2MSq6u16qM%252CDjQUZcV3M63tiM%252C_&vet=1&usg=AI4_-kRY4PMMoQ8K67mPD3rEtiBTW1z0Uw&sa=X&ved=2ahUKEwi3qOiy8ajzAhXDSH0KHXZGCVIQ_B16BAgYEAE#imgrc=uTbs2MSq6u16qM",
@@ -640,7 +640,7 @@
   },
   {
     "id":125,
-    "state":"Gujrat",
+    "state":"Gujarat",
     "city":"Kutch",
     "locality":"Bhuj",
     "landmark":"Mandvi beach",
