@@ -471,9 +471,17 @@
         "image":"https://lh5.googleusercontent.com/p/AF1QipMsmx_LBYhqij59MAPcZXdkIzTwKt726RrCPfbT=w408-h544-k-no",
         "description":""
     },
-    
-          {
+    {
         "id":108,
+        "state":"Maharashtra",
+        "city":"Nagpur",
+        "locality":"Nagpur",
+        "landmark":"Zero Mile Stone",
+        "image":"https://images.mid-day.com/images/images/2021/jul/Eastern-Express-a_d.jpg",
+        "description":""
+    }
+          {
+        "id":109,
         "state":"Maharashtra",
         "city":"Udgir",
         "locality":"Near Chowbara",
@@ -482,7 +490,7 @@
         "description":"dgir Fort in the Udgir city in Latur district, Maharashtra of India. It is also famous for the historic Battle of Udgir in which Marathas, led by Sadashivrao Bhau, defeated Nizam, and after which the treaty of Udgir was signed"
     },
      {
-        "id":109,
+        "id":110,
         "state":"Maharashtra",
         "city":"Nanded",
         "locality":"Vishnupuri",
