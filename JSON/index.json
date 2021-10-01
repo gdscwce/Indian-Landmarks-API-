@@ -1,621 +1,641 @@
 [
-    {
-        "id":0,
-        "state":"Maharashtra",
-        "city":"Pune",
-        "locality":"Thoptewadi",
-        "landmark":"Sinhagad Fort",
-        "image":"https://punetourism.co.in/images/places-to-visit/headers/sinhagad-fort-pune-tourism-entry-fee-timings-holidays-reviews-header.jpg",
-        "description":""
-    },
-    {
-        "id":1,
-        "state":"Maharashtra",
-        "city":"Pune",
-        "locality":"Shaniwar Peth",
-        "landmark":"Shaniwar Wada",
-        "image":"https://static.toiimg.com/photo/79288458.cms",
-        "description":""
-    },
-    {
-        "id":2,
-        "state":"Maharashtra",
-        "city":"Pune",
-        "locality":"Parvati",
-        "landmark":"Parvati Hill",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/9/95/Parvati.JPG",
-        "description":""
-    },
-    {
-        "id":3,
-        "state":"Maharashtra",
-        "city":"Mumbai",
-        "locality":"Colaba",
-        "landmark":"Gateway of India",
-        "image":"https://mumbaitourism.travel/images/places-to-visit/headers/gateway-of-india-mumbai-indian-tourism-entry-fee-timings-holidays-reviews-header.jpg",
-        "description":""
-    },
-    {
-        "id":4,
-        "state":"Maharashtra",
-        "city":"Mumbai",
-        "locality":"Gharapuri",
-        "landmark":"Elephanta Caves",
-        "image":"https://img.onmanorama.com/content/dam/mm/en/travel/travel-news/images/2020/8/3/elephanta-cave.jpg",
-        "description":""
-    },
-    {
-        "id":5,
-        "state":"Maharashtra",
-        "city":"Mumbai",
-        "locality":"Powai",
-        "landmark":"Powai Lake",
-        "image":"https://static.toiimg.com/photo/msid-29539412,width-96,height-65.cms",
-        "description":""
-    },
-    {
-        "id":6,
-        "state":"Karnataka",
-        "city":"Bangaluru",
-        "locality":"Mavalli",
-        "landmark":"Lalbaugh Garden",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Glasshouse_and_fountain_at_lalbagh.jpg",
-        "description":""
-    },
-    {
-        "id":7,
-        "state":"Karnataka",
-        "city":"Bangaluru",
-        "locality":"",
-        "landmark":"Cubbon Park",
-        "image":"https://www.makemytrip.com/travel-guide/media/dg_image/bangalore/Cubbon-Park-Samuel-Jacob-Flickr-Creative-commons.jpg",
-        "description":""
-    },
-    {
-        "id":8,
-        "state":"Delhi",
-        "city":"Lotus Temple",
-        "locality":"Bahapur",
-        "landmark":"Kalkaji",
-        "image":"https://www.makemytrip.com/travel-guide/media/dg_image/delhi/Lotus-Temple-Delhi.jpg",
-        "description":""
-    },
-    {
-        "id": 10,
-        "state":"Maharashtra",
-        "city":"Mumbai",
-        "locality":"",
-        "landmark":"mahanara pratap fort",
-        "image":"https://www.google.com/search?q=maharana+pratap+fort&client=safari&rls=en&sxsrf=AOaemvILFT-au0Z76jZY2zPcTqsaS5cRUQ:1633024591666&tbm=isch&source=iu&ictx=1&fir=JU3DqzKnqqR_5M%252CiAi0EEGKmdPlQM%252C_&vet=1&usg=AI4_-kTFXIexq_k_ldehNHM0nu3YUqNQgw&sa=X&ved=2ahUKEwiO38fVoqfzAhWdzDgGHVDrB_kQ_h16BAgTEAM#imgrc=JU3DqzKnqqR_5M",
-        "description":""
-    },
-    {
-        "id":11,
-        "state":"Goa",
-        "city":"Bardez",
-        "locality":"",
-        "landmark":"Baga Beach",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/3/38/India_-_Goa_-_010_-_Touristy_Baga_Beach.jpg",
-        "description":"Baga Beach is a popular beach and tourist destination in North Goa. Baga is located at the north end of the contiguous beach stretch that starts from Sinquerim, Candolim, leads to Calangute, and then to Baga."
-    },
-    {
-        "id":12,
-        "state":"Maharashtra",
-        "city":"Umarga",
-        "locality":"Umarga",
-        "landmark":"Mahadev Mandir",
-        "image":"https://1.bp.blogspot.com/-Gf_5lxFS2yw/X4QzaPipxcI/AAAAAAAAAFw/kNec8eWszXoVLgekJoiVFCMlGmCdhN8zQCLcBGAsYHQ/s600/Mahadev%2B%25281%2529.jpg",
-        "description":"Umarga has a 1000-year-old ancient magnificent Hemadpanthi Temple of Lord Shiva. This indicates its roots linked to the Shilahar, Rastrkuta, Chalukya Dynasty."
-    },
-    {
-        "id":13,
-        "state":"Kerala",
-        "city":"Thiruvananthapuram",
-        "locality":"Peringamala",
-        "landmark":"Ponmudi",
-        "image":"https://en.wikipedia.org/wiki/Ponmudi#/media/File:Morning_at_Ponmudi.jpg",
-        "description":""
-    },
-    {
-        "id":14,
-        "state":"Telangana",
-        "city":"Hyderabad",
-        "locality":"Ghansi Bazaar",
-        "landmark":"Char Minar",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Charminar-Pride_of_Hyderabad.jpg",
-        "description":""
-    },
-    {
-        "id":15,
-        "state":"Telangana",
-        "city":"Hyderabad",
-        "locality":"Ibrahim Bagh",
-        "landmark":"Golconda Fort",
-        "image":"https://en.wikipedia.org/wiki/File:Golconda_Fort-Hyderabad-Telangana-DSC001.jpg",
-        "description":""
-    },
-    {
-        "id":16,
-        "state":"Kerala",
-        "city":"Varkala",
-        "locality":"Varkala Town",
-        "landmark":"Varkala Beach",
-        "image":"https://en.wikipedia.org/wiki/Varkala_Beach#/media/File:Varkala_beach_from_above.jpg",
-        "description":""
-    },
-    {
-        "id":17,
-        "state":"Kerala",
-        "city":"Kottayam",
-        "locality":"Kavanattinkara",
-        "landmark":"Kumarakom Bird Sanctuary",
-        "image":"https://www.keralatourism.org/images/destination/large/kumarakom_bird_sanctuary20131031110102_525_1.jpg",
-        "description":""
-    },
-    {
-        "id":18,
-        "state":"Maharashtra",
-        "city":"Nagpur",
-        "locality":"",
-        "landmark":"Nagpur Ramtek Temple",
-        "image":"https://media-cdn.tripadvisor.com/media/photo-m/1280/16/d9/4c/4b/photo4jpg.jpg",
-        "description":"Situated inside a fort on a hillock, away from city crowd is Lord Rama’s temple , which has a rich mythological history. It is believed that Lord Rama along with Laxman stayed here before proceeding to conquer Lanka."
-    },
-    {
-        "id": 19,
-        "state":"Maharashtra",
-        "city":"Mumbai",
-        "locality":"",
-        "landmark":"Marine Drive",
-        "image":"data:image/jpeg;base64,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",
-        "description":"Marine Drive is a 3.6-kilometre-long Promenade along the Netaji Subhash Chandra Bose Road in Mumbai, India."
-    },
-    {
-        "id":20,
-        "state":"Maharashtra",
-        "city":"Kolhapur",
-        "locality":"Rankala",
-        "landmark":"Rankala Lake",
-        "image":"https://images.app.goo.gl/QVV6zZ9EgQfne3ed6",
-        "description":"Rankala Lake is on the western side of Ambabai temple , it is a popular evening spot and recreation centre. This lake was constructed by late Maharajah, Shri Shahu Chhatrapati. The Lake is surrounded by Chaupati and other gardens"
-    },
-    {
-        "id":21,
-        "state":"Delhi",
-        "city":"Delhi",
-        "locality":"Mehrauli",
-        "landmark":"Qutub Minar, Delhi",
-        "image":"https://www.destguides.com/upload-files/derivations/background-image/thumbnail_webp/730/410/eyJpZCI6Iml0aW5lcmFyeXN0b3AvNjc0Ni9iYWNrZ3JvdW5kX2ltYWdlLzgxMzZkNzUwZTExZDkyZWEwZmYzZmQ4NjhhYzE2ZjU1LmpwZWciLCJzdG9yYWdlIjoic3RvcmUifQ?version=3&signature=aa349ac15e4d5ac1a39c76d190ad38d645cb28836c1f620711529e5c9e3bac7e",        "description":""
-    
-    },
-    {
-        "id":22,
-        "state":"Maharashtra",
-        "city":"Aurangabad",
-        "locality":"Begumpura",
-        "landmark":"Bibi Ka Maqbara",
-        "image":"https://www.google.com/search?q=bibi+ka+maqbara&rlz=1C1RXQR_enIN965IN965&oq=bibi+ka+&aqs=chrome.0.0i355i433i512j46i175i199i433i512j69i57j0i512l4j0i457i512j0i512l2.3315j0j4&sourceid=chrome&ie=UTF-8",
-        "description":""
-    },
-    {
-            "id":23,
-            "state":"Maharashtra",
-            "city":"Chandrapur",
-            "locality":"Tadoba National Park",
-            "landmark":"Tadoba Andhari Tiger Reserve",
-            "image":"https://www.tadobanationalpark.in/images/tadoba-national-park.jpg",
-            "description":"Notably Maharashtra's oldest and largest National Park, the \"Tadoba National Park\", also known as the \"Tadoba Andhari Tiger Reserve\" is one of India's 47 project tiger reserves existing in India. It lies in the Chandrapur district of Maharashtra state and is approximately 150 km from Nagpur city. The total area of the tiger reserve is 1,727 Sq.km, which includes the Tadoba National Park, created in the year 1955."
-    },
-    {
-        "id":24,
-        "state":"Tamil Nadu",
-        "city":"Kanchipuram",
-        "locality":"",
-        "landmark":"Sri Kanchi Kamakshi Amman Temple",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsRM6xkFeS24377awvKVOZhdoH7WSNQD74Fg&usqp=CAU",
-        "description":"The Kamakshi Temple is an ancient Hindu Temple dedicated to Kamakshi, the ultimate form of Goddess Lalitha Maha Tripurasundari or Parvati. It is located in the historic city of Kanchipuram, near Chennai, India."
-    },
-    {
-        "id": 25,
-        "state":"Maharastra",
-        "city":"Dhule",
-        "locality":"",
-        "landmark":"Resort",
-        "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F07%2F6c%2Fc7%2F06%2Fhotel-ganapati-palace.jpg%3Fw%3D900%26h%3D-1%26s%3D1&imgrefurl=https%3A%2F%2Fwww.tripadvisor.in%2FHotel_Review-g2440581-d3948420-Reviews-Hotel_Ganapati_Palace-Dhule_Dhule_District_Maharashtra.html&tbnid=Fnmqdz17kAAQdM&vet=12ahUKEwjr1LLwtKfzAhXVHXIKHVZ7BDsQMyg8egQIARBk..i&docid=cJode-Yo0H5atM&w=900&h=598&q=dhule%20maharashtra%20photos&ved=2ahUKEwjr1LLwtKfzAhXVHXIKHVZ7BDsQMyg8egQIARBk",
-        "description":"India."
-    },
-    {
-        "id":26,
-        "state":"Maharastra",
-        "city":"Mumbai",
-        "locality":"Vasai",
-        "landmark":"Vasai Fort",
-        "image":"https://www.google.com/search?q=vasai+fort+pic&rlz=1C1CHBD_enIN924IN924&sxsrf=AOaemvLh4fBM5r6KT7sQQ38_mgbBIu0NTA:1633029873728&tbm=isch&source=iu&ictx=1&fir=QKrpZYBiXfl1VM%252CWqzeIu0xHxV3qM%252C_%253B-_pY-tr6W6EjWM%252C5d2CSK_RJ_zuuM%252C_%253BNwxol6tEVBChzM%252CAWcpKFRSxfu45M%252C_%253B7qhCKD_NpqY06M%252CaEX1CJFLCLkFvM%252C_%253BVtAXp9oCE22JGM%252CkXk7FDGR2AtC9M%252C_%253Bk3NRUFENLe6_wM%252CR6FTRHDikAz1CM%252C_%253BdQ8iGYszP4bioM%252CjgtXCTD8HOr0FM%252C_%253BGPVjZYqsKprapM%252CrurA1lrg1tPjDM%252C_%253Bjw3Oqy1_DG9htM%252CFwKVOjb_HcuoDM%252C_%253BYQizXBBcafCq-M%252CjgtXCTD8HOr0FM%252C_%253BLeGTdg207fdf1M%252CYI9DSL6qT8XTqM%252C_%253BiUGv7aNOyFVMtM%252C_PR3uvBKLzNVNM%252C_&vet=1&usg=AI4_-kTGUkYZ_J7oRnBZUL9cUue0-qAJvA&sa=X&ved=2ahUKEwiUtp-stqfzAhWryjgGHW9nCagQ9QF6BAgNEAE&biw=1280&bih=609&dpr=1.5#imgrc=-_pY-tr6W6EjWM",
-        "description":"It is an ancient fort in Vasai which has been a tourist attraction for many decades now"
-    },
-    {
-        "id": 27,
-        "state":"Maharastra",
-        "city":"Sangli",
-        "locality":"Miraj",
-        "landmark":"Miraj Market",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/2/24/Mirajmarketnorth.jpg",
-        "description":"Gavbhag"
-    },
-    {
-        "id":28,
-        "state":"Maharashtra",
-        "city":"Pune",
-        "locality":"PCMC",
-        "landmark":"Ma.Na.Pa",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/9/95/Parvati.JPG",
-        "description":""
-    },
-    {
-     "id": 29,
-        "state":"TamilNadu",
-        "city":"Kanyakumari",
-        "locality":" thiruvattar",
-        "landmark":"Sree Athikesava Perumal Temple",
-        "image":"https://1.bp.blogspot.com/-AW_x8_0w_Lk/XD_oHg8BRUI/AAAAAAAAf6o/SGJMRH4nBycRemXYwGt6vN9cBedBRfH2QCLcBGAs/s1600/196833693Tiruvattaru_Adikesava_Perumal_Temple.jpg",
-        "description":"The Adikesavaperumal Temple is a Hindu temple located in Thiruvattar, Kanyakumari district, Tamil Nadu, India and is one of the 108 Divya desams, the holy sites of Hindu Vaishnavism according to existing Tamil hymns from the seventh and eighth centuries C.E."
-    },
-    {
-     "id": 30,
-        "state":"TamilNadu",
-        "city":"Niligiris",
-        "locality":" Udagamandalam",
-        "landmark":"Tamilnadu Tourism Ooty Boat House",
-        "image":"https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Ooty_Lake_Boating.jpg/1024px-Ooty_Lake_Boating.jpg",
-        "description":"Ooty lake is also called as ooty boat house is located in Ooty in the Nilgiris district and 1 km from ooty bus stand., Tamil Nadu, India. It covers an area of 65 acres. "
-    },
-    {
-        "id":31,
-        "state":"Maharashtra",
-        "city":"Kolhapur",
-        "locality":"mahalaxmi road",
-        "landmark":"mahalaxmi Temple",
-        "image":"https://www.dnaindia.com/india/report-now-kolhapur-mahalaxmi-temple-allows-women-to-enter-inner-sanctum-2201024",
-        "description":"karver"
-    },
-    {
-        "id":32,
-        "state":"Maharashtra",
-        "city":"pune",
-        "locality":"Chhatrapati Shivaji Maharaj Rd, Mehunpura, Budhwar Peth, Pune, Maharashtra",
-        "landmark":"dagdusheth ganpati",
-        "image":"https://www.google.com/maps/uv?pb=!1s0x3bc2c06fa5b442ff%3A0x9df365f5b648bce1!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO4J7HNhhv400ZMR_MdxOHbvXv-4BGWeHAH7b5V%3Dw160-h200-k-no!5sdagdusheth%20ganpati%20address%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipO4J7HNhhv400ZMR_MdxOHbvXv-4BGWeHAH7b5V&hl=en&sa=X&ved=2ahUKEwj3ktegxKfzAhWfzzgGHbEpC_oQoip6BAhxEAM",
-        "description":"best ganpati bapa"
-    },
-    {
-        "id":33,
-        "state":"Maharashtra",
-        "city":"pune",
-        "locality":"Theur",
-        "landmark":"Chintamani Temple",
-        "image":"https://en.wikipedia.org/wiki/Chintamani_Temple,_Theur#/media/File:Shri_Cintamani_of_Theur.jpg",
-        "description":"The Chintamani Temple of Theur is a Hindu temple dedicated to Ganesha"
-    },
-    {
-        "id": 34,
-        "state":"Telangana",
-        "city":"Hyderabad",
-        "locality":"Ibrahim Bagh",
-        "landmark":"Golconda Fort",
-        "image":"https://en.wikipedia.org/wiki/File:Golconda_Fort-Hyderabad-Telangana-DSC001.jpg",
-        "description":""
-    },
-    {
-        "id":35,
-        "state":"Odisha",
-        "city":"Puri",
-        "locality":"Puri Beach",
-        "landmark":"Shri Jagannath Temple",
-        "image":"https://timesofindia.indiatimes.com/travel/Orissa/Puri-Beach/ps47121875.cms",
-        "description":"Puri is a coastal city in the state of Odisha.It is known for the Shri Jagannath Temple, which is one of the original Char Dham pilgrimage sites for Hindus."
-    },
-    {
-        "id":36,
-        "state":"Sikkim",
-        "city":"Tsomgo",
-        "locality":"Tsomgo",
-        "landmark":"Tsomgo Lake",
-        "image":"https://northbengaltourism.com/images/sikkim/tsomgo_changu_lake_1024.jpg",
-        "description":"Tsomgo Lake is situated in the East Sikkim district on the Gangtok-Nathu La Highway and is a part of the ancient southern Silk Route"
-    },
-    {
-
-        "id":37,
-        "state":"Maharashtra",
-        "city":"Ahmednagar",
-        "locality":"Bhingar Nala",
-        "landmark":"Ahmednagar Fort",
-        "image":"https://www.google.com/maps/uv?pb=!1s0x3bdcb069126730a3%3A0x1e64ea12095ccce0!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO0Yca3Kn9cXdgYUdWKY0KsjkYDiI5V74h-90Sj%3Dw160-h160-k-no!5sbhuikot%20fort%20ahmednagar%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipO0Yca3Kn9cXdgYUdWKY0KsjkYDiI5V74h-90Sj&hl=en&sa=X&ved=2ahUKEwifgoK2r6jzAhXXgtgFHe8cBB8Qoip6BAhkEAM",
-        "description":"It was the headquarters of the Ahmednagar Sultanate. In 1803, it was taken by the British during the Second Anglo-Maratha War. It was used as a prison during the British Raj."
-    },
-    {
-
-        "id":38,
-        "state":"Rajasthan",
-        "city":"Udaipur",
-        "locality":"Udaipur City",
-        "landmark":"City Palace of Udaipur",
-        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/2b/f0/f7/img-20181018-104236-01.jpg?w=1000&h=-1&s=1",
-        "description":"City Palace, Udaipur is a palace complex situated in the city of Udaipur in the Indian state of Rajasthan. It was built over a period of nearly 400 years, with contributions from several rulers of the Mewar dynasty. Its construction began in 1553, started by Maharana Udai Singh II of the Sisodia Rajput family as he shifted his capital from the erstwhile Chittor to the new found city of Udaipur. The palace is located on the east bank of Lake Pichola and has several palaces built within its complex. The City Palace in Udaipur was built in a flamboyant style and is considered the largest of its type in the state of Rajasthan."
-    },
-    {
-
-        "id":39,
-        "state":"Maharashtra",
-        "city":"Sangli",
-        "locality":"Sangli City",
-        "landmark":"Sangli Ganpati Temple",
-        "image":"https://media-cdn.tripadvisor.com/media/photo-s/05/55/8a/80/ganapati-temple.jpg",
-        "description":"The Sangli’s Ganapati Temple is situated on the eastern banks of the Krishna River. It is one of the most prominent temples in the Southern Maharashtra. This temple was constructed in the year 1843 by Thorle Chintamanrao Patwardhan so as to honor the guarding deity of the Sangli city. The king consecrated the idol of Lord Ganesha in this temple only. One of the most notable features of this temple is its architecture. The temple has been made of the black stones. These stones are attained from the Jyotiba hills, and the doors of the temple have been carved out of the multi-colored natural wood. The premises of the temple is spread over an area of 2 acres of land and comprises of a large hall, a platform and a ‘Nagarkhana’."
-    },
-    {
-        "id":40,
-        "state":"Maharastra",
-        "city":"pune",
-        "locality":"wagholi",
-        "landmark":"JSPM's BSIOTR",
-        "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flearningtelescope.com%2FLearningTelescope%2Finstitute%2FviewImage%3Fid%3D16&imgrefurl=https%3A%2F%2Flearningtelescope.com%2FLearningTelescope%2Finstitute%2Fname%2Fjspm-s-bsiotr-bhivarabai-sawant-institute-of-technology-and-research-pune&tbnid=qo_2Dx4VMxhwjM&vet=12ahUKEwi-_-mGxajzAhUjXnwKHSAvAyEQMygCegUIARC1AQ..i&docid=MLGaW2u_eUO5FM&w=1366&h=768&q=jspm%20bsiotr&client=safari&ved=2ahUKEwi-_-mGxajzAhUjXnwKHSAvAyEQMygCegUIARC1AQ",
-        "description":" BSIOTR has various industrial collaboration in respect of internships, recruitment and exchange programmes ."
-    },
-    {
-        "id":41,
-        "state":"Delhi",
-        "city":"Delhi",
-        "locality":"Mehrauli",
-        "landmark":"Qutub Minar, Delhi",
-        "image":"https://www.destguides.com/upload-files/derivations/background-image/thumbnail_webp/730/410/eyJpZCI6Iml0aW5lcmFyeXN0b3AvNjc0Ni9iYWNrZ3JvdW5kX2ltYWdlLzgxMzZkNzUwZTExZDkyZWEwZmYzZmQ4NjhhYzE2ZjU1LmpwZWciLCJzdG9yYWdlIjoic3RvcmUifQ?version=3&signature=aa349ac15e4d5ac1a39c76d190ad38d645cb28836c1f620711529e5c9e3bac7e",        "description":""
-    
-    },
-    {
-        "id":42,
-        "state":"Maharashtra",
-        "city":"Hemalkasa",
-        "locality":"Hemalkasa",
-        "landmark":"Lok Biradari Prakalp,Gadchiroli",
-        "image":"https://cdn.s3waas.gov.in/s35e388103a391daabe3de1d76a6739ccd/uploads/bfi_thumb/2018050462-olw960pm6edx5t7xnkjqw4gzjbti00bha8egnhxxu2.jpg", 
-        "description":" Lok Biradari Prakalp (LBP) is a social project of the Maharogi Sewa Samiti."
-    
-    },
-    {
-        "id":43,
-        "state":"Delhi",
-        "city":"Delhi",
-        "locality":"",
-        "landmark":"India gate",
-        "image":"https://www.destguides.com/upload-files/derivations/background-image/thumbnail_webp/730/410/eyJpZCI6Iml0aW5lcmFyeXN0b3AvNjc0Mi9iYWNrZ3JvdW5kX2ltYWdlL2RiZjM3ZmVjZTI3MTg5Mjk2ZDgyNWY3ZTA2OTc0ZWM3LmpwZWciLCJzdG9yYWdlIjoic3RvcmUifQ?version=3&signature=81f61af84232454dd95aff23eccebc47ee1fa169d4b5a739a1fa8ed214ea1b72", 
-        "description":"India Gate, the most renowned landmark in Delhi, is a stunning archway built as a heartfelt tribute to the brave soldiers who have sacrificed their lives for the country."
-    
-    },
-    {
-        "id":44,
-        "state":"Odisha",
-        "city":"Bhubaneswar",
-        "locality":"Old Town",
-        "landmark":"Lingaraja Temple",
-        "image":"https://i0.wp.com/www.tusktravel.com/blog/wp-content/uploads/2021/02/bhubaneswar-lingaraj-temple.jpg?w=1000&ssl=1Q",
-        "description":" Lingaraja Temple, one of the largest Hindu temple, is dedicated to Lord Shiva. It is one of the oldest temples in the capital of Odisha, i.e., Bhubaneswar. Lingaraja temple is famous among tourists and devotees. The main pillar of this Lingaraja temple is approximately 55m (180ft) in height. This Lingaraj temple is the architectural work of the Kalinga dynasty."
-    },
-    {
-        "id":45,
-        "state":"Uttar Pradesh",
-        "city":"Lucknow",
-        "locality":"Hussainabad Rd",
-        "landmark":"Rumi Gate",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Roomi_darwaza.jpg/1920px-Roomi_darwaza.jpg", 
-        "description":"The Rumi Darwaza, in Lucknow, Uttar Pradesh, India, is an imposing gateway which was built by Nawab Asaf-Ud-Daula in 1784. It is an example of Awadhi architecture. The Rumi Darwaza, which stands sixty feet tall, was modeled after the Sublime Porte in Istanbul."
-    },
-    {
-        "id":101,
-        "state":"Gujarat",
-        "city":"Ahmedabad",
-        "locality":"SG high way",
-        "landmark":"Kankariya Lake",
-        "image":"https://en.wikipedia.org/wiki/File:AhmedabadPhotoMontage1.jpg", 
-        "description":"Ahmedabad, in western India, is the largest city in the state of Gujarat. The Sabarmati River runs through its center. On the western bank is the Gandhi Ashram at Sabarmati, which displays the spiritual leader’s living quarters and artifacts. Across the river, the Calico Museum of Textiles, once a cloth merchant's mansion, has a significant collection of antique and modern fabrics."
-    },
-    {
-        "id":102,
-        "state":"Gujarat",
-        "city":"Surat",
-        "locality":"Pratham Meadows",
-        "landmark":"Dumas Bech",
-        "image":"https://www.google.com/search?q=surat&rlz=1C5GCEM_enIN971IN971&tbm=isch&source=iu&ictx=1&fir=NZnpOI_GQ8YRoM%252CtONvyH7N521DiM%252C_&vet=1&usg=AI4_-kRKJj_FS9lyU8kLPXbdjIo2N_4gGg&sa=X&ved=2ahUKEwji98-k1qjzAhWDfn0KHbt0C2QQ_B16BAh2EAE#imgrc=NZnpOI_GQ8YRoM", 
-        "description":"Surat is a large city beside the Tapi River in the west Indian state of Gujarat. Once known for silk weaving, Surat remains a commercial center for textiles, and the New Textile Market area is lined with fabric shops. Overlooking the river, Surat Castle was built in the 1500s to defend the city against Portuguese colonists. Nearby, the Dutch, Armenian and English cemeteries contain elaborate colonial-era tombs."
-    }, 
-    {
-        "id":103,
-        "state":"Gujarat",
-        "city":"Vadodara",
-        "locality":"Lukshmi Villas Palace",
-        "landmark":"Rumi Gate",
-        "image":"https://www.google.com/search?q=baroda+city&rlz=1C5GCEM_enIN971IN971&tbm=isch&source=iu&ictx=1&fir=L7RRlTIVcC09GM%252CZ_30_QcBugsvCM%252C_&vet=1&usg=AI4_-kQJ29UKi7k7Lstvgocyl77MjPIdkw&sa=X&ved=2ahUKEwiY5Ma_1qjzAhUKA3IKHepKCNUQ_B16BAhoEAE#imgrc=L7RRlTIVcC09GM", 
-        "description":"Vadodara, also known as Baroda, is the third-largest city in the Indian state of Gujarat. It serves as the administrative headquarters of the Vadodara district and is situated on the banks of the Vishwamitri River, 141 kilometres from the state capital of Gandhinagar."
-    },
-    {
-        "id":104,
-        "state":"Gujarat",
-        "city":"Rajkot",
-        "locality":"Yagnik Road",
-        "landmark":"KKV Circle",
-        "image":"https://www.google.com/search?q=rajkot&rlz=1C5GCEM_enIN971IN971&tbm=isch&source=iu&ictx=1&fir=PcdWoZTCeOiGTM%252CBDaeOg0U4pp0gM%252C_&vet=1&usg=AI4_-kTNUld8sF9IfOaGO_ke8EX8ysMGFA&sa=X&sqi=2&ved=2ahUKEwjuxaic16jzAhVyrZUCHfMCCm0Q_B16BAhtEAE#imgrc=PcdWoZTCeOiGTM", 
-        "description":"Rajkot is a city in the western Indian state of Gujarat. In central Jubilee Garden are the Lang Library, with Gujarati literature, and the Watson Museum, with paintings and artifacts documenting British colonial rule. Kaba Gandhi No Delo, the house where Mahatma Gandhi spent part of his childhood, displays photos of the Indian leader and his belongings. The Rotary Dolls Museum exhibits dolls from around the world. "
-    },{
-      "id":105,
-        "state":"Maharashtra",
-        "city":"Solapur",
-        "locality":"Near Park Stadium",
-        "landmark":"Siddheshwar Temple",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbuLkwfNR0z9B7tUMu4pWYW5CDxALhllMjPw&usqp=CAU",
-        "description":"Siddheshwar Temple is a temple in Solapur district, Maharashtra, India. It is sacred to Hindus and members of the Lingayat faith. There is a lake within the temple complex"
-    },
-      {
-        "id":106,
-        "state":"Maharashtra",
-        "city":"Kolhapur",
-        "locality":"New Palace area",
-        "landmark":"New Palace",
-        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.worldorgs.com%2Fcatalog%2Fkolhapur%2Fmuseum%2Fnew-palace&psig=AOvVaw3ye6ekT-ZY1nG9OTmrAiuV&ust=1633159866033000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDHrObYqPMCFQAAAAAdAAAAABAD",
-        "description":"Royal Palace of Shahu Maharaj"
-      },
-    {
-        "id":107,
-        "state":"Maharashtra",
-        "city":"Aurangabad",
-        "locality":"Gajanan Colony",
-        "landmark":"Gadhe Hospital",
-        "image":"https://lh5.googleusercontent.com/p/AF1QipMsmx_LBYhqij59MAPcZXdkIzTwKt726RrCPfbT=w408-h544-k-no",
-        "description":""
-    },
-    {
-        "id":130,
-        "state":"Gujrat",
-        "city":"Jamnagar",
-        "locality":"World's Oil City",
-        "landmark":"Reliance",
-        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJamnagar&psig=AOvVaw0RSFVT8nZ_VNc5RtNDuUkK&ust=1633165076867000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKCkgpTsqPMCFQAAAAAdAAAAABAD",
-        "description":"Jamnagar is a city in the western Indian state of Gujarat. On an island in Lakhota Lake, Lakhota Palace and Museum is a former fort that exhibits weapons, sculptures and pottery from the 9th to 18th centuries. At Bala Hanuman Temple, the Rama Naam prayer has been chanted continuously since 1964. To the northeast, the marshlands of Khijadiya Bird Sanctuary attract spotted deer, painted storks and migratory birds. "
-    },
-    {
-        "id":131,
-        "state":"Gujarat",
-        "city":"Junagadh",
-        "locality":"Kalva chowk",
-        "landmark":"Girnar",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/9/91/Gate_of_Junagadh.jpg",
-        "description":"Junagadh is a city in the western Indian state of Gujarat. Mahabat Maqbara is the huge 19th-century mausoleum of a local ruler, which showcases intricate Indo-Islamic architectural details. Uparkot Fort, founded around 300 BC, has city views from its ramparts. Within the fort are the stone-cut stepwells Adi Kadi Vav and Navghan Kuwo, plus Buddhist caves. To the west, Darbar Hall Museum is housed in a former palace."
-    }
-    ,{
-        "id":108,
-        "state":"Maharashtra",
-        "city":"Nagpur",
-        "locality":"Nagpur",
-        "landmark":"Zero Mile Stone",
-        "image":"https://images.mid-day.com/images/images/2021/jul/Eastern-Express-a_d.jpg",
-        "description":""
-    },
-          {
-        "id":109,
-        "state":"Maharashtra",
-        "city":"Udgir",
-        "locality":"Near Chowbara",
-        "landmark":"Udgir Fort",
-        "image":"https://images.jdmagicbox.com/comp/latur/h2/9999p2382.2382.141219161704.k2h2/catalogue/udgir-fort-udgir-latur-tourist-attraction-2c904ya.png",
-        "description":"dgir Fort in the Udgir city in Latur district, Maharashtra of India. It is also famous for the historic Battle of Udgir in which Marathas, led by Sadashivrao Bhau, defeated Nizam, and after which the treaty of Udgir was signed"
-    },
-     {
-        "id":110,
-        "state":"Maharashtra",
-        "city":"Nanded",
-        "locality":"Vishnupuri",
-        "landmark":"vishnupuri Dam",
-        "image":"https://www.google.com/maps/uv?pb=!1s0x3bd1d5fedb42710f%3A0x80d8a2ca2e809d6f!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPvR3CnIbtYsdTuX7HD-I88U5LnmV0xL2kQOpTl%3Dw266-h200-k-no!5svishnupuri%20dam%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipPvR3CnIbtYsdTuX7HD-I88U5LnmV0xL2kQOpTl&hl=en&sa=X&ved=2ahUKEwjDh-mH1qjzAhW4xTgGHV8lAyoQoip6BAhYEAM",
-        "description":"It is a dam in Nanded"
-     },
-     {
-        "id":111,
-        "state":"Delhi",
-        "city":"Delhi",
-        "locality":"Mathura Road",
-        "landmark":"Humayun's Tomb",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tomb_of_Humayun%2C_Delhi.jpg/360px-Tomb_of_Humayun%2C_Delhi.jpg",
-        "description":"It is the tomb of the Mughal Emperor Humayun in Delhi, India."
-     },
-{
-        "id":112,
-        "state":"Uttarakhand",
-        "city":"Chamoli",
-        "locality":"Nanda Devi National Park",
-        "landmark":"Valley of Flowers",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Valley_of_flowers_uttaranchal_full_view.JPG/390px-Valley_of_flowers_uttaranchal_full_view.JPG",
-        "description":"IA beautiful Place for rare and endemic flaura and fauna"
-
-
-     },
   {
-        "id":113,
-        "state":"Maharashtra",
-        "city":"Jalgaon",
-        "locality":"Dadawadi",
-        "landmark":"Jain Mandir",
-        "image":"https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%8A%E0%B8%99%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99#/media/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:Templejaindanvers.jpg",
-        "description":"It is a Jain temple incredibly carved using white marble within a span of more than 10 years."
-     },
+    "id": 0,
+    "state": "Maharashtra",
+    "city": "Pune",
+    "locality": "Thoptewadi",
+    "landmark": "Sinhagad Fort",
+    "image": "https://punetourism.co.in/images/places-to-visit/headers/sinhagad-fort-pune-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+    "description": ""
+  },
   {
-        "id":114,
-        "state":"Maharashtra",
-        "city":"Gondia",
-        "locality":"Gondia",
-        "landmark":"HazraFall",
-        "image":"https://www.google.com/search?q=Hazrafall&stick=H4sIAAAAAAAAAONgFuLVT9c3NEwzKC8vzsouU-IBcY0yytLzjKuMtASDM1NSyxMri_1SK0qCS1ILihexcnokVhUlpiXm5OxgZQQAhmwD1EEAAAA&sxsrf=AOaemvIKQBYL1_S-tBO9nPCOetAgz4Y2dA:1633077045274&source=lnms&tbm=isch&sa=X&ved=2ahUKEwidmrKJ5qjzAhWTA3IKHbsMD7AQ_AUoAnoECAEQBA&biw=1280&bih=657&dpr=1#imgrc=ca65ilSE7BFxsM",
-        "description":"The place is also ideal for camping as well as trekking activities.  It is a spectacular view covered with Dense forest and hills."
+    "id": 1,
+    "state": "Maharashtra",
+    "city": "Pune",
+    "locality": "Shaniwar Peth",
+    "landmark": "Shaniwar Wada",
+    "image": "https://static.toiimg.com/photo/79288458.cms",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "state": "Maharashtra",
+    "city": "Pune",
+    "locality": "Parvati",
+    "landmark": "Parvati Hill",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Parvati.JPG",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "locality": "Colaba",
+    "landmark": "Gateway of India",
+    "image": "https://mumbaitourism.travel/images/places-to-visit/headers/gateway-of-india-mumbai-indian-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "locality": "Gharapuri",
+    "landmark": "Elephanta Caves",
+    "image": "https://img.onmanorama.com/content/dam/mm/en/travel/travel-news/images/2020/8/3/elephanta-cave.jpg",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "locality": "Powai",
+    "landmark": "Powai Lake",
+    "image": "https://static.toiimg.com/photo/msid-29539412,width-96,height-65.cms",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "state": "Karnataka",
+    "city": "Bangaluru",
+    "locality": "Mavalli",
+    "landmark": "Lalbaugh Garden",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Glasshouse_and_fountain_at_lalbagh.jpg",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "state": "Karnataka",
+    "city": "Bangaluru",
+    "locality": "",
+    "landmark": "Cubbon Park",
+    "image": "https://www.makemytrip.com/travel-guide/media/dg_image/bangalore/Cubbon-Park-Samuel-Jacob-Flickr-Creative-commons.jpg",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "state": "Delhi",
+    "city": "Lotus Temple",
+    "locality": "Bahapur",
+    "landmark": "Kalkaji",
+    "image": "https://www.makemytrip.com/travel-guide/media/dg_image/delhi/Lotus-Temple-Delhi.jpg",
+    "description": ""
+  },
+  {
+    "id": 10,
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "locality": "",
+    "landmark": "mahanara pratap fort",
+    "image": "https://www.google.com/search?q=maharana+pratap+fort&client=safari&rls=en&sxsrf=AOaemvILFT-au0Z76jZY2zPcTqsaS5cRUQ:1633024591666&tbm=isch&source=iu&ictx=1&fir=JU3DqzKnqqR_5M%252CiAi0EEGKmdPlQM%252C_&vet=1&usg=AI4_-kTFXIexq_k_ldehNHM0nu3YUqNQgw&sa=X&ved=2ahUKEwiO38fVoqfzAhWdzDgGHVDrB_kQ_h16BAgTEAM#imgrc=JU3DqzKnqqR_5M",
+    "description": ""
+  },
+  {
+    "id": 11,
+    "state": "Goa",
+    "city": "Bardez",
+    "locality": "",
+    "landmark": "Baga Beach",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/India_-_Goa_-_010_-_Touristy_Baga_Beach.jpg",
+    "description": "Baga Beach is a popular beach and tourist destination in North Goa. Baga is located at the north end of the contiguous beach stretch that starts from Sinquerim, Candolim, leads to Calangute, and then to Baga."
+  },
+  {
+    "id": 12,
+    "state": "Maharashtra",
+    "city": "Umarga",
+    "locality": "Umarga",
+    "landmark": "Mahadev Mandir",
+    "image": "https://1.bp.blogspot.com/-Gf_5lxFS2yw/X4QzaPipxcI/AAAAAAAAAFw/kNec8eWszXoVLgekJoiVFCMlGmCdhN8zQCLcBGAsYHQ/s600/Mahadev%2B%25281%2529.jpg",
+    "description": "Umarga has a 1000-year-old ancient magnificent Hemadpanthi Temple of Lord Shiva. This indicates its roots linked to the Shilahar, Rastrkuta, Chalukya Dynasty."
+  },
+  {
+    "id": 13,
+    "state": "Kerala",
+    "city": "Thiruvananthapuram",
+    "locality": "Peringamala",
+    "landmark": "Ponmudi",
+    "image": "https://en.wikipedia.org/wiki/Ponmudi#/media/File:Morning_at_Ponmudi.jpg",
+    "description": ""
+  },
+  {
+    "id": 14,
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "locality": "Ghansi Bazaar",
+    "landmark": "Char Minar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Charminar-Pride_of_Hyderabad.jpg",
+    "description": ""
+  },
+  {
+    "id": 15,
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "locality": "Ibrahim Bagh",
+    "landmark": "Golconda Fort",
+    "image": "https://en.wikipedia.org/wiki/File:Golconda_Fort-Hyderabad-Telangana-DSC001.jpg",
+    "description": ""
+  },
+  {
+    "id": 16,
+    "state": "Kerala",
+    "city": "Varkala",
+    "locality": "Varkala Town",
+    "landmark": "Varkala Beach",
+    "image": "https://en.wikipedia.org/wiki/Varkala_Beach#/media/File:Varkala_beach_from_above.jpg",
+    "description": ""
+  },
+  {
+    "id": 17,
+    "state": "Kerala",
+    "city": "Kottayam",
+    "locality": "Kavanattinkara",
+    "landmark": "Kumarakom Bird Sanctuary",
+    "image": "https://www.keralatourism.org/images/destination/large/kumarakom_bird_sanctuary20131031110102_525_1.jpg",
+    "description": ""
+  },
+  {
+    "id": 18,
+    "state": "Maharashtra",
+    "city": "Nagpur",
+    "locality": "",
+    "landmark": "Nagpur Ramtek Temple",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/d9/4c/4b/photo4jpg.jpg",
+    "description": "Situated inside a fort on a hillock, away from city crowd is Lord Rama’s temple , which has a rich mythological history. It is believed that Lord Rama along with Laxman stayed here before proceeding to conquer Lanka."
+  },
+  {
+    "id": 19,
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "locality": "",
+    "landmark": "Marine Drive",
+    "image": "data:image/jpeg;base64,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",
+    "description": "Marine Drive is a 3.6-kilometre-long Promenade along the Netaji Subhash Chandra Bose Road in Mumbai, India."
+  },
+  {
+    "id": 20,
+    "state": "Maharashtra",
+    "city": "Kolhapur",
+    "locality": "Rankala",
+    "landmark": "Rankala Lake",
+    "image": "https://images.app.goo.gl/QVV6zZ9EgQfne3ed6",
+    "description": "Rankala Lake is on the western side of Ambabai temple , it is a popular evening spot and recreation centre. This lake was constructed by late Maharajah, Shri Shahu Chhatrapati. The Lake is surrounded by Chaupati and other gardens"
+  },
+  {
+    "id": 21,
+    "state": "Delhi",
+    "city": "Delhi",
+    "locality": "Mehrauli",
+    "landmark": "Qutub Minar, Delhi",
+    "image": "https://www.destguides.com/upload-files/derivations/background-image/thumbnail_webp/730/410/eyJpZCI6Iml0aW5lcmFyeXN0b3AvNjc0Ni9iYWNrZ3JvdW5kX2ltYWdlLzgxMzZkNzUwZTExZDkyZWEwZmYzZmQ4NjhhYzE2ZjU1LmpwZWciLCJzdG9yYWdlIjoic3RvcmUifQ?version=3&signature=aa349ac15e4d5ac1a39c76d190ad38d645cb28836c1f620711529e5c9e3bac7e",
+    "description": ""
+  },
+  {
+    "id": 22,
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "locality": "Begumpura",
+    "landmark": "Bibi Ka Maqbara",
+    "image": "https://www.google.com/search?q=bibi+ka+maqbara&rlz=1C1RXQR_enIN965IN965&oq=bibi+ka+&aqs=chrome.0.0i355i433i512j46i175i199i433i512j69i57j0i512l4j0i457i512j0i512l2.3315j0j4&sourceid=chrome&ie=UTF-8",
+    "description": ""
+  },
+  {
+    "id": 23,
+    "state": "Maharashtra",
+    "city": "Chandrapur",
+    "locality": "Tadoba National Park",
+    "landmark": "Tadoba Andhari Tiger Reserve",
+    "image": "https://www.tadobanationalpark.in/images/tadoba-national-park.jpg",
+    "description": "Notably Maharashtra's oldest and largest National Park, the \"Tadoba National Park\", also known as the \"Tadoba Andhari Tiger Reserve\" is one of India's 47 project tiger reserves existing in India. It lies in the Chandrapur district of Maharashtra state and is approximately 150 km from Nagpur city. The total area of the tiger reserve is 1,727 Sq.km, which includes the Tadoba National Park, created in the year 1955."
+  },
+  {
+    "id": 24,
+    "state": "Tamil Nadu",
+    "city": "Kanchipuram",
+    "locality": "",
+    "landmark": "Sri Kanchi Kamakshi Amman Temple",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsRM6xkFeS24377awvKVOZhdoH7WSNQD74Fg&usqp=CAU",
+    "description": "The Kamakshi Temple is an ancient Hindu Temple dedicated to Kamakshi, the ultimate form of Goddess Lalitha Maha Tripurasundari or Parvati. It is located in the historic city of Kanchipuram, near Chennai, India."
+  },
+  {
+    "id": 25,
+    "state": "Maharastra",
+    "city": "Dhule",
+    "locality": "",
+    "landmark": "Resort",
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F07%2F6c%2Fc7%2F06%2Fhotel-ganapati-palace.jpg%3Fw%3D900%26h%3D-1%26s%3D1&imgrefurl=https%3A%2F%2Fwww.tripadvisor.in%2FHotel_Review-g2440581-d3948420-Reviews-Hotel_Ganapati_Palace-Dhule_Dhule_District_Maharashtra.html&tbnid=Fnmqdz17kAAQdM&vet=12ahUKEwjr1LLwtKfzAhXVHXIKHVZ7BDsQMyg8egQIARBk..i&docid=cJode-Yo0H5atM&w=900&h=598&q=dhule%20maharashtra%20photos&ved=2ahUKEwjr1LLwtKfzAhXVHXIKHVZ7BDsQMyg8egQIARBk",
+    "description": "India."
+  },
+  {
+    "id": 26,
+    "state": "Maharastra",
+    "city": "Mumbai",
+    "locality": "Vasai",
+    "landmark": "Vasai Fort",
+    "image": "https://www.google.com/search?q=vasai+fort+pic&rlz=1C1CHBD_enIN924IN924&sxsrf=AOaemvLh4fBM5r6KT7sQQ38_mgbBIu0NTA:1633029873728&tbm=isch&source=iu&ictx=1&fir=QKrpZYBiXfl1VM%252CWqzeIu0xHxV3qM%252C_%253B-_pY-tr6W6EjWM%252C5d2CSK_RJ_zuuM%252C_%253BNwxol6tEVBChzM%252CAWcpKFRSxfu45M%252C_%253B7qhCKD_NpqY06M%252CaEX1CJFLCLkFvM%252C_%253BVtAXp9oCE22JGM%252CkXk7FDGR2AtC9M%252C_%253Bk3NRUFENLe6_wM%252CR6FTRHDikAz1CM%252C_%253BdQ8iGYszP4bioM%252CjgtXCTD8HOr0FM%252C_%253BGPVjZYqsKprapM%252CrurA1lrg1tPjDM%252C_%253Bjw3Oqy1_DG9htM%252CFwKVOjb_HcuoDM%252C_%253BYQizXBBcafCq-M%252CjgtXCTD8HOr0FM%252C_%253BLeGTdg207fdf1M%252CYI9DSL6qT8XTqM%252C_%253BiUGv7aNOyFVMtM%252C_PR3uvBKLzNVNM%252C_&vet=1&usg=AI4_-kTGUkYZ_J7oRnBZUL9cUue0-qAJvA&sa=X&ved=2ahUKEwiUtp-stqfzAhWryjgGHW9nCagQ9QF6BAgNEAE&biw=1280&bih=609&dpr=1.5#imgrc=-_pY-tr6W6EjWM",
+    "description": "It is an ancient fort in Vasai which has been a tourist attraction for many decades now"
+  },
+  {
+    "id": 27,
+    "state": "Maharastra",
+    "city": "Sangli",
+    "locality": "Miraj",
+    "landmark": "Miraj Market",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mirajmarketnorth.jpg",
+    "description": "Gavbhag"
+  },
+  {
+    "id": 28,
+    "state": "Maharashtra",
+    "city": "Pune",
+    "locality": "PCMC",
+    "landmark": "Ma.Na.Pa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Parvati.JPG",
+    "description": ""
+  },
+  {
+    "id": 29,
+    "state": "TamilNadu",
+    "city": "Kanyakumari",
+    "locality": " thiruvattar",
+    "landmark": "Sree Athikesava Perumal Temple",
+    "image": "https://1.bp.blogspot.com/-AW_x8_0w_Lk/XD_oHg8BRUI/AAAAAAAAf6o/SGJMRH4nBycRemXYwGt6vN9cBedBRfH2QCLcBGAs/s1600/196833693Tiruvattaru_Adikesava_Perumal_Temple.jpg",
+    "description": "The Adikesavaperumal Temple is a Hindu temple located in Thiruvattar, Kanyakumari district, Tamil Nadu, India and is one of the 108 Divya desams, the holy sites of Hindu Vaishnavism according to existing Tamil hymns from the seventh and eighth centuries C.E."
+  },
+  {
+    "id": 30,
+    "state": "TamilNadu",
+    "city": "Niligiris",
+    "locality": " Udagamandalam",
+    "landmark": "Tamilnadu Tourism Ooty Boat House",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Ooty_Lake_Boating.jpg/1024px-Ooty_Lake_Boating.jpg",
+    "description": "Ooty lake is also called as ooty boat house is located in Ooty in the Nilgiris district and 1 km from ooty bus stand., Tamil Nadu, India. It covers an area of 65 acres. "
+  },
+  {
+    "id": 31,
+    "state": "Maharashtra",
+    "city": "Kolhapur",
+    "locality": "mahalaxmi road",
+    "landmark": "mahalaxmi Temple",
+    "image": "https://www.dnaindia.com/india/report-now-kolhapur-mahalaxmi-temple-allows-women-to-enter-inner-sanctum-2201024",
+    "description": "karver"
+  },
+  {
+    "id": 32,
+    "state": "Maharashtra",
+    "city": "pune",
+    "locality": "Chhatrapati Shivaji Maharaj Rd, Mehunpura, Budhwar Peth, Pune, Maharashtra",
+    "landmark": "dagdusheth ganpati",
+    "image": "https://www.google.com/maps/uv?pb=!1s0x3bc2c06fa5b442ff%3A0x9df365f5b648bce1!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO4J7HNhhv400ZMR_MdxOHbvXv-4BGWeHAH7b5V%3Dw160-h200-k-no!5sdagdusheth%20ganpati%20address%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipO4J7HNhhv400ZMR_MdxOHbvXv-4BGWeHAH7b5V&hl=en&sa=X&ved=2ahUKEwj3ktegxKfzAhWfzzgGHbEpC_oQoip6BAhxEAM",
+    "description": "best ganpati bapa"
+  },
+  {
+    "id": 33,
+    "state": "Maharashtra",
+    "city": "pune",
+    "locality": "Theur",
+    "landmark": "Chintamani Temple",
+    "image": "https://en.wikipedia.org/wiki/Chintamani_Temple,_Theur#/media/File:Shri_Cintamani_of_Theur.jpg",
+    "description": "The Chintamani Temple of Theur is a Hindu temple dedicated to Ganesha"
+  },
+  {
+    "id": 34,
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "locality": "Ibrahim Bagh",
+    "landmark": "Golconda Fort",
+    "image": "https://en.wikipedia.org/wiki/File:Golconda_Fort-Hyderabad-Telangana-DSC001.jpg",
+    "description": ""
+  },
+  {
+    "id": 35,
+    "state": "Odisha",
+    "city": "Puri",
+    "locality": "Puri Beach",
+    "landmark": "Shri Jagannath Temple",
+    "image": "https://timesofindia.indiatimes.com/travel/Orissa/Puri-Beach/ps47121875.cms",
+    "description": "Puri is a coastal city in the state of Odisha.It is known for the Shri Jagannath Temple, which is one of the original Char Dham pilgrimage sites for Hindus."
+  },
+  {
+    "id": 36,
+    "state": "Sikkim",
+    "city": "Tsomgo",
+    "locality": "Tsomgo",
+    "landmark": "Tsomgo Lake",
+    "image": "https://northbengaltourism.com/images/sikkim/tsomgo_changu_lake_1024.jpg",
+    "description": "Tsomgo Lake is situated in the East Sikkim district on the Gangtok-Nathu La Highway and is a part of the ancient southern Silk Route"
+  },
+  {
+    "id": 37,
+    "state": "Maharashtra",
+    "city": "Ahmednagar",
+    "locality": "Bhingar Nala",
+    "landmark": "Ahmednagar Fort",
+    "image": "https://www.google.com/maps/uv?pb=!1s0x3bdcb069126730a3%3A0x1e64ea12095ccce0!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO0Yca3Kn9cXdgYUdWKY0KsjkYDiI5V74h-90Sj%3Dw160-h160-k-no!5sbhuikot%20fort%20ahmednagar%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipO0Yca3Kn9cXdgYUdWKY0KsjkYDiI5V74h-90Sj&hl=en&sa=X&ved=2ahUKEwifgoK2r6jzAhXXgtgFHe8cBB8Qoip6BAhkEAM",
+    "description": "It was the headquarters of the Ahmednagar Sultanate. In 1803, it was taken by the British during the Second Anglo-Maratha War. It was used as a prison during the British Raj."
+  },
+  {
+    "id": 38,
+    "state": "Rajasthan",
+    "city": "Udaipur",
+    "locality": "Udaipur City",
+    "landmark": "City Palace of Udaipur",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/2b/f0/f7/img-20181018-104236-01.jpg?w=1000&h=-1&s=1",
+    "description": "City Palace, Udaipur is a palace complex situated in the city of Udaipur in the Indian state of Rajasthan. It was built over a period of nearly 400 years, with contributions from several rulers of the Mewar dynasty. Its construction began in 1553, started by Maharana Udai Singh II of the Sisodia Rajput family as he shifted his capital from the erstwhile Chittor to the new found city of Udaipur. The palace is located on the east bank of Lake Pichola and has several palaces built within its complex. The City Palace in Udaipur was built in a flamboyant style and is considered the largest of its type in the state of Rajasthan."
+  },
+  {
+    "id": 39,
+    "state": "Maharashtra",
+    "city": "Sangli",
+    "locality": "Sangli City",
+    "landmark": "Sangli Ganpati Temple",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/05/55/8a/80/ganapati-temple.jpg",
+    "description": "The Sangli’s Ganapati Temple is situated on the eastern banks of the Krishna River. It is one of the most prominent temples in the Southern Maharashtra. This temple was constructed in the year 1843 by Thorle Chintamanrao Patwardhan so as to honor the guarding deity of the Sangli city. The king consecrated the idol of Lord Ganesha in this temple only. One of the most notable features of this temple is its architecture. The temple has been made of the black stones. These stones are attained from the Jyotiba hills, and the doors of the temple have been carved out of the multi-colored natural wood. The premises of the temple is spread over an area of 2 acres of land and comprises of a large hall, a platform and a ‘Nagarkhana’."
+  },
+  {
+    "id": 40,
+    "state": "Maharastra",
+    "city": "pune",
+    "locality": "wagholi",
+    "landmark": "JSPM's BSIOTR",
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Flearningtelescope.com%2FLearningTelescope%2Finstitute%2FviewImage%3Fid%3D16&imgrefurl=https%3A%2F%2Flearningtelescope.com%2FLearningTelescope%2Finstitute%2Fname%2Fjspm-s-bsiotr-bhivarabai-sawant-institute-of-technology-and-research-pune&tbnid=qo_2Dx4VMxhwjM&vet=12ahUKEwi-_-mGxajzAhUjXnwKHSAvAyEQMygCegUIARC1AQ..i&docid=MLGaW2u_eUO5FM&w=1366&h=768&q=jspm%20bsiotr&client=safari&ved=2ahUKEwi-_-mGxajzAhUjXnwKHSAvAyEQMygCegUIARC1AQ",
+    "description": " BSIOTR has various industrial collaboration in respect of internships, recruitment and exchange programmes ."
+  },
+  {
+    "id": 41,
+    "state": "Delhi",
+    "city": "Delhi",
+    "locality": "Mehrauli",
+    "landmark": "Qutub Minar, Delhi",
+    "image": "https://www.destguides.com/upload-files/derivations/background-image/thumbnail_webp/730/410/eyJpZCI6Iml0aW5lcmFyeXN0b3AvNjc0Ni9iYWNrZ3JvdW5kX2ltYWdlLzgxMzZkNzUwZTExZDkyZWEwZmYzZmQ4NjhhYzE2ZjU1LmpwZWciLCJzdG9yYWdlIjoic3RvcmUifQ?version=3&signature=aa349ac15e4d5ac1a39c76d190ad38d645cb28836c1f620711529e5c9e3bac7e",
+    "description": ""
+  },
+  {
+    "id": 42,
+    "state": "Maharashtra",
+    "city": "Hemalkasa",
+    "locality": "Hemalkasa",
+    "landmark": "Lok Biradari Prakalp,Gadchiroli",
+    "image": "https://cdn.s3waas.gov.in/s35e388103a391daabe3de1d76a6739ccd/uploads/bfi_thumb/2018050462-olw960pm6edx5t7xnkjqw4gzjbti00bha8egnhxxu2.jpg",
+    "description": " Lok Biradari Prakalp (LBP) is a social project of the Maharogi Sewa Samiti."
+  },
+  {
+    "id": 43,
+    "state": "Delhi",
+    "city": "Delhi",
+    "locality": "",
+    "landmark": "India gate",
+    "image": "https://www.destguides.com/upload-files/derivations/background-image/thumbnail_webp/730/410/eyJpZCI6Iml0aW5lcmFyeXN0b3AvNjc0Mi9iYWNrZ3JvdW5kX2ltYWdlL2RiZjM3ZmVjZTI3MTg5Mjk2ZDgyNWY3ZTA2OTc0ZWM3LmpwZWciLCJzdG9yYWdlIjoic3RvcmUifQ?version=3&signature=81f61af84232454dd95aff23eccebc47ee1fa169d4b5a739a1fa8ed214ea1b72",
+    "description": "India Gate, the most renowned landmark in Delhi, is a stunning archway built as a heartfelt tribute to the brave soldiers who have sacrificed their lives for the country."
+  },
+  {
+    "id": 44,
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "locality": "Old Town",
+    "landmark": "Lingaraja Temple",
+    "image": "https://i0.wp.com/www.tusktravel.com/blog/wp-content/uploads/2021/02/bhubaneswar-lingaraj-temple.jpg?w=1000&ssl=1Q",
+    "description": " Lingaraja Temple, one of the largest Hindu temple, is dedicated to Lord Shiva. It is one of the oldest temples in the capital of Odisha, i.e., Bhubaneswar. Lingaraja temple is famous among tourists and devotees. The main pillar of this Lingaraja temple is approximately 55m (180ft) in height. This Lingaraj temple is the architectural work of the Kalinga dynasty."
+  },
+  {
+    "id": 45,
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "locality": "Hussainabad Rd",
+    "landmark": "Rumi Gate",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Roomi_darwaza.jpg/1920px-Roomi_darwaza.jpg",
+    "description": "The Rumi Darwaza, in Lucknow, Uttar Pradesh, India, is an imposing gateway which was built by Nawab Asaf-Ud-Daula in 1784. It is an example of Awadhi architecture. The Rumi Darwaza, which stands sixty feet tall, was modeled after the Sublime Porte in Istanbul."
+  },
+  {
+    "id": 101,
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "locality": "SG high way",
+    "landmark": "Kankariya Lake",
+    "image": "https://en.wikipedia.org/wiki/File:AhmedabadPhotoMontage1.jpg",
+    "description": "Ahmedabad, in western India, is the largest city in the state of Gujarat. The Sabarmati River runs through its center. On the western bank is the Gandhi Ashram at Sabarmati, which displays the spiritual leader’s living quarters and artifacts. Across the river, the Calico Museum of Textiles, once a cloth merchant's mansion, has a significant collection of antique and modern fabrics."
+  },
+  {
+    "id": 102,
+    "state": "Gujarat",
+    "city": "Surat",
+    "locality": "Pratham Meadows",
+    "landmark": "Dumas Bech",
+    "image": "https://www.google.com/search?q=surat&rlz=1C5GCEM_enIN971IN971&tbm=isch&source=iu&ictx=1&fir=NZnpOI_GQ8YRoM%252CtONvyH7N521DiM%252C_&vet=1&usg=AI4_-kRKJj_FS9lyU8kLPXbdjIo2N_4gGg&sa=X&ved=2ahUKEwji98-k1qjzAhWDfn0KHbt0C2QQ_B16BAh2EAE#imgrc=NZnpOI_GQ8YRoM",
+    "description": "Surat is a large city beside the Tapi River in the west Indian state of Gujarat. Once known for silk weaving, Surat remains a commercial center for textiles, and the New Textile Market area is lined with fabric shops. Overlooking the river, Surat Castle was built in the 1500s to defend the city against Portuguese colonists. Nearby, the Dutch, Armenian and English cemeteries contain elaborate colonial-era tombs."
+  },
+  {
+    "id": 103,
+    "state": "Gujarat",
+    "city": "Vadodara",
+    "locality": "Lukshmi Villas Palace",
+    "landmark": "Rumi Gate",
+    "image": "https://www.google.com/search?q=baroda+city&rlz=1C5GCEM_enIN971IN971&tbm=isch&source=iu&ictx=1&fir=L7RRlTIVcC09GM%252CZ_30_QcBugsvCM%252C_&vet=1&usg=AI4_-kQJ29UKi7k7Lstvgocyl77MjPIdkw&sa=X&ved=2ahUKEwiY5Ma_1qjzAhUKA3IKHepKCNUQ_B16BAhoEAE#imgrc=L7RRlTIVcC09GM",
+    "description": "Vadodara, also known as Baroda, is the third-largest city in the Indian state of Gujarat. It serves as the administrative headquarters of the Vadodara district and is situated on the banks of the Vishwamitri River, 141 kilometres from the state capital of Gandhinagar."
+  },
+  {
+    "id": 104,
+    "state": "Gujarat",
+    "city": "Rajkot",
+    "locality": "Yagnik Road",
+    "landmark": "KKV Circle",
+    "image": "https://www.google.com/search?q=rajkot&rlz=1C5GCEM_enIN971IN971&tbm=isch&source=iu&ictx=1&fir=PcdWoZTCeOiGTM%252CBDaeOg0U4pp0gM%252C_&vet=1&usg=AI4_-kTNUld8sF9IfOaGO_ke8EX8ysMGFA&sa=X&sqi=2&ved=2ahUKEwjuxaic16jzAhVyrZUCHfMCCm0Q_B16BAhtEAE#imgrc=PcdWoZTCeOiGTM",
+    "description": "Rajkot is a city in the western Indian state of Gujarat. In central Jubilee Garden are the Lang Library, with Gujarati literature, and the Watson Museum, with paintings and artifacts documenting British colonial rule. Kaba Gandhi No Delo, the house where Mahatma Gandhi spent part of his childhood, displays photos of the Indian leader and his belongings. The Rotary Dolls Museum exhibits dolls from around the world. "
+  },
+  {
+    "id": 105,
+    "state": "Maharashtra",
+    "city": "Solapur",
+    "locality": "Near Park Stadium",
+    "landmark": "Siddheshwar Temple",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbuLkwfNR0z9B7tUMu4pWYW5CDxALhllMjPw&usqp=CAU",
+    "description": "Siddheshwar Temple is a temple in Solapur district, Maharashtra, India. It is sacred to Hindus and members of the Lingayat faith. There is a lake within the temple complex"
+  },
+  {
+    "id": 106,
+    "state": "Maharashtra",
+    "city": "Kolhapur",
+    "locality": "New Palace area",
+    "landmark": "New Palace",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.worldorgs.com%2Fcatalog%2Fkolhapur%2Fmuseum%2Fnew-palace&psig=AOvVaw3ye6ekT-ZY1nG9OTmrAiuV&ust=1633159866033000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDHrObYqPMCFQAAAAAdAAAAABAD",
+    "description": "Royal Palace of Shahu Maharaj"
+  },
+  {
+    "id": 107,
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "locality": "Gajanan Colony",
+    "landmark": "Gadhe Hospital",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipMsmx_LBYhqij59MAPcZXdkIzTwKt726RrCPfbT=w408-h544-k-no",
+    "description": ""
+  },
+  {
+    "id": 130,
+    "state": "Gujrat",
+    "city": "Jamnagar",
+    "locality": "World's Oil City",
+    "landmark": "Reliance",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJamnagar&psig=AOvVaw0RSFVT8nZ_VNc5RtNDuUkK&ust=1633165076867000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKCkgpTsqPMCFQAAAAAdAAAAABAD",
+    "description": "Jamnagar is a city in the western Indian state of Gujarat. On an island in Lakhota Lake, Lakhota Palace and Museum is a former fort that exhibits weapons, sculptures and pottery from the 9th to 18th centuries. At Bala Hanuman Temple, the Rama Naam prayer has been chanted continuously since 1964. To the northeast, the marshlands of Khijadiya Bird Sanctuary attract spotted deer, painted storks and migratory birds. "
+  },
+  {
+    "id": 131,
+    "state": "Gujarat",
+    "city": "Junagadh",
+    "locality": "Kalva chowk",
+    "landmark": "Girnar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Gate_of_Junagadh.jpg",
+    "description": "Junagadh is a city in the western Indian state of Gujarat. Mahabat Maqbara is the huge 19th-century mausoleum of a local ruler, which showcases intricate Indo-Islamic architectural details. Uparkot Fort, founded around 300 BC, has city views from its ramparts. Within the fort are the stone-cut stepwells Adi Kadi Vav and Navghan Kuwo, plus Buddhist caves. To the west, Darbar Hall Museum is housed in a former palace."
+  },
+  {
+    "id": 108,
+    "state": "Maharashtra",
+    "city": "Nagpur",
+    "locality": "Nagpur",
+    "landmark": "Zero Mile Stone",
+    "image": "https://images.mid-day.com/images/images/2021/jul/Eastern-Express-a_d.jpg",
+    "description": ""
+  },
+  {
+    "id": 109,
+    "state": "Maharashtra",
+    "city": "Udgir",
+    "locality": "Near Chowbara",
+    "landmark": "Udgir Fort",
+    "image": "https://images.jdmagicbox.com/comp/latur/h2/9999p2382.2382.141219161704.k2h2/catalogue/udgir-fort-udgir-latur-tourist-attraction-2c904ya.png",
+    "description": "dgir Fort in the Udgir city in Latur district, Maharashtra of India. It is also famous for the historic Battle of Udgir in which Marathas, led by Sadashivrao Bhau, defeated Nizam, and after which the treaty of Udgir was signed"
+  },
+  {
+    "id": 110,
+    "state": "Maharashtra",
+    "city": "Nanded",
+    "locality": "Vishnupuri",
+    "landmark": "vishnupuri Dam",
+    "image": "https://www.google.com/maps/uv?pb=!1s0x3bd1d5fedb42710f%3A0x80d8a2ca2e809d6f!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPvR3CnIbtYsdTuX7HD-I88U5LnmV0xL2kQOpTl%3Dw266-h200-k-no!5svishnupuri%20dam%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipPvR3CnIbtYsdTuX7HD-I88U5LnmV0xL2kQOpTl&hl=en&sa=X&ved=2ahUKEwjDh-mH1qjzAhW4xTgGHV8lAyoQoip6BAhYEAM",
+    "description": "It is a dam in Nanded"
+  },
+  {
+    "id": 111,
+    "state": "Delhi",
+    "city": "Delhi",
+    "locality": "Mathura Road",
+    "landmark": "Humayun's Tomb",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tomb_of_Humayun%2C_Delhi.jpg/360px-Tomb_of_Humayun%2C_Delhi.jpg",
+    "description": "It is the tomb of the Mughal Emperor Humayun in Delhi, India."
+  },
+  {
+    "id": 112,
+    "state": "Uttarakhand",
+    "city": "Chamoli",
+    "locality": "Nanda Devi National Park",
+    "landmark": "Valley of Flowers",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Valley_of_flowers_uttaranchal_full_view.JPG/390px-Valley_of_flowers_uttaranchal_full_view.JPG",
+    "description": "IA beautiful Place for rare and endemic flaura and fauna"
+  },
+  {
+    "id": 113,
+    "state": "Maharashtra",
+    "city": "Jalgaon",
+    "locality": "Dadawadi",
+    "landmark": "Jain Mandir",
+    "image": "https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%8A%E0%B8%99%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99#/media/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:Templejaindanvers.jpg",
+    "description": "It is a Jain temple incredibly carved using white marble within a span of more than 10 years."
+  },
+  {
+    "id": 114,
+    "state": "Maharashtra",
+    "city": "Gondia",
+    "locality": "Gondia",
+    "landmark": "HazraFall",
+    "image": "https://www.google.com/search?q=Hazrafall&stick=H4sIAAAAAAAAAONgFuLVT9c3NEwzKC8vzsouU-IBcY0yytLzjKuMtASDM1NSyxMri_1SK0qCS1ILihexcnokVhUlpiXm5OxgZQQAhmwD1EEAAAA&sxsrf=AOaemvIKQBYL1_S-tBO9nPCOetAgz4Y2dA:1633077045274&source=lnms&tbm=isch&sa=X&ved=2ahUKEwidmrKJ5qjzAhWTA3IKHbsMD7AQ_AUoAnoECAEQBA&biw=1280&bih=657&dpr=1#imgrc=ca65ilSE7BFxsM",
+    "description": "The place is also ideal for camping as well as trekking activities.  It is a spectacular view covered with Dense forest and hills."
+  },
+  {
+    "id": 115,
+    "state": "Maharashtra",
+    "city": "Satara",
+    "locality": "Kaas",
+    "landmark": "Kaas Plateau",
+    "image": "https://static.polibolly.in/wp-content/uploads/2016/01/kaas_flower_stream_2.jpg",
+    "description": "This plateau is extremely famous for its picturesque bloom of wild flowers around the month of october"
+  },
+  {
+    "id": 116,
+    "state": "Maharashtra",
+    "city": "Raigad",
+    "locality": "Raigad",
+    "landmark": "Murud-Janjira Fort",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripiwiki.com%2FMaharashtra%2FJanjira-Fort-Attractions&psig=AOvVaw3TYeobSerRecNi9uxMRvjr&ust=1633165901787000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjClZ7vqPMCFQAAAAAdAAAAABAD",
+    "description": "Raja Ram Rao Patil was Patil of Janjira Island and a chief of Kolis who established and/or built this island in the 16th century for Kolis to live peacefully away from pirates. After gaining permission from the Sultan of the Ahmadnagar Sultanate, he built the island but later refused to obey the orders of the Sultan. So the Sultan sent his Admiral Piram Khan to capture the janjira."
+  },
 
-   },
   {
-        "id":115,
-        "state":"Maharashtra",
-        "city":"Satara",
-        "locality":"Kaas",
-        "landmark":"Kaas Plateau",
-        "image":"https://static.polibolly.in/wp-content/uploads/2016/01/kaas_flower_stream_2.jpg",
-        "description":"This plateau is extremely famous for its picturesque bloom of wild flowers around the month of october"
-     },
+    "id": 117,
+    "state": "Maharashtra",
+    "city": "Chikhaldara",
+    "locality": "Chikhaldara hill station",
+    "landmark": "Gawigad Fort",
+    "image": "https://www.localguidesconnect.com/t5/image/serverpage/image-id/855084i6210D35C60124256/image-size/large?v=v2&px=999",
+    "description": "Chikhaldara is a hill station and a municipal council in Amravati district in the Indian state of Maharashtra.Featured in the epic of the Mahabharata, this is the place where Bheema killed the villainous Keechaka in a herculean bout and then threw him into the valley. It thus came to be known as Keechakadara—Chikhaldara is its corruption."
+  },
   {
-        "id":116,
-        "state":"Maharashtra",
-        "city":"Raigad",
-        "locality":"Raigad",
-        "landmark":"Murud-Janjira Fort",
-        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripiwiki.com%2FMaharashtra%2FJanjira-Fort-Attractions&psig=AOvVaw3TYeobSerRecNi9uxMRvjr&ust=1633165901787000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjClZ7vqPMCFQAAAAAdAAAAABAD",
-        "description":"Raja Ram Rao Patil was Patil of Janjira Island and a chief of Kolis who established and/or built this island in the 16th century for Kolis to live peacefully away from pirates. After gaining permission from the Sultan of the Ahmadnagar Sultanate, he built the island but later refused to obey the orders of the Sultan. So the Sultan sent his Admiral Piram Khan to capture the janjira."
-     },
-    
-    {
-        "id":117,
-        "state":"Maharashtra",
-        "city":"Chikhaldara",
-        "locality":"Chikhaldara hill station",
-        "landmark":"Gawigad Fort",
-        "image":"https://www.localguidesconnect.com/t5/image/serverpage/image-id/855084i6210D35C60124256/image-size/large?v=v2&px=999",
-        "description":"Chikhaldara is a hill station and a municipal council in Amravati district in the Indian state of Maharashtra.Featured in the epic of the Mahabharata, this is the place where Bheema killed the villainous Keechaka in a herculean bout and then threw him into the valley. It thus came to be known as Keechakadara—Chikhaldara is its corruption."
-   
-    },
-   {
-        "id":118,
-        "state":"Maharashtra",
-        "city":"Amravati",
-        "locality":"Amravati",
-        "landmark":"Chikhaldara",
-        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.holidaytravel.co%2Fpkg-dtl-chikhaldara-venture-village&psig=AOvVaw2LCM3Z3ldqlZG0dgKH7nyn&ust=1633165645734000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCbyKruqPMCFQAAAAAdAAAAABAD",
-        "description":"Chikhaldara is a hill station and a municipal council in Amravati district in the Indian state of Maharashtra. Featured in the epic of the Mahabharata, this is the place where Bheema killed the villainous Keechaka in a herculean bout and then threw him into the valley."
-   },  
-     {
-        "id":119,
-        "state":"Gujarat",
-        "city":"Saputara",
-        "locality":" Dang",
-        "landmark":"Sunset point",
-        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tourmyindia.com%2Fweekend-tours%2Fsaputara-weekend-tour.html&psig=AOvVaw2gmziyRWMNFmkDFMZUKhfj&ust=1633165608561000&source=images&cd=vfe&ved=2ahUKEwi3l_eQ7qjzAhWOwTgGHSPaCDUQjRx6BAgAEAk",
-        "description":"Saputara is a hill station located in Sahyadris or Western Ghats and is well known for it's sunset point"
-     },
-     
-    {
-        "id":120,
-        "state":"Uttar Pradesh",
-        "city":"Varanasi",
-        "locality":" Varanasi",
-        "landmark":"Assi Ghat",
-        "image": "https://www.tourmyindia.com/states/uttarpradesh/images/assi-ghat-varanasi.jpg",
-        "description":"Assi Ghat is one of the most popular ghats in Varanasi, visited regularly by both tourists and locals. It is located in the southern part of the holy city of Varanasi at the confluence of Ganga and Assi rivers."
+    "id": 118,
+    "state": "Maharashtra",
+    "city": "Amravati",
+    "locality": "Amravati",
+    "landmark": "Chikhaldara",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.holidaytravel.co%2Fpkg-dtl-chikhaldara-venture-village&psig=AOvVaw2LCM3Z3ldqlZG0dgKH7nyn&ust=1633165645734000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCbyKruqPMCFQAAAAAdAAAAABAD",
+    "description": "Chikhaldara is a hill station and a municipal council in Amravati district in the Indian state of Maharashtra. Featured in the epic of the Mahabharata, this is the place where Bheema killed the villainous Keechaka in a herculean bout and then threw him into the valley."
+  },
+  {
+    "id": 119,
+    "state": "Gujarat",
+    "city": "Saputara",
+    "locality": " Dang",
+    "landmark": "Sunset point",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tourmyindia.com%2Fweekend-tours%2Fsaputara-weekend-tour.html&psig=AOvVaw2gmziyRWMNFmkDFMZUKhfj&ust=1633165608561000&source=images&cd=vfe&ved=2ahUKEwi3l_eQ7qjzAhWOwTgGHSPaCDUQjRx6BAgAEAk",
+    "description": "Saputara is a hill station located in Sahyadris or Western Ghats and is well known for it's sunset point"
+  },
 
-     },
+  {
+    "id": 120,
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "locality": " Varanasi",
+    "landmark": "Assi Ghat",
+    "image": "https://www.tourmyindia.com/states/uttarpradesh/images/assi-ghat-varanasi.jpg",
+    "description": "Assi Ghat is one of the most popular ghats in Varanasi, visited regularly by both tourists and locals. It is located in the southern part of the holy city of Varanasi at the confluence of Ganga and Assi rivers."
+  },
+
+
+  {
+    "id": 121,
+    "state": "Gujrat",
+    "city": "Gandhnagar",
+    "locality": " greenest capital city",
+    "landmark": "Akshar Dham",
+    "image": "https://www.google.com/search?q=Gandhinagar+&hl=en&rlz=1C5GCEM_enIN971IN971&tbm=isch&source=iu&ictx=1&fir=uTbs2MSq6u16qM%252CDjQUZcV3M63tiM%252C_&vet=1&usg=AI4_-kRY4PMMoQ8K67mPD3rEtiBTW1z0Uw&sa=X&ved=2ahUKEwi3qOiy8ajzAhXDSH0KHXZGCVIQ_B16BAgYEAE#imgrc=uTbs2MSq6u16qM",
+    "description": "Gandhinagar is a planned city in the western Indian state of Gujarat. The Akshardham is a massive Hindu temple with ornate carvings and sculpted pillars, plus a water show in its sprawling gardens. Dandi Kutir museum traces the life of leader Mahatma Gandhi, who was born in Gujarat. South, along the Sabarmati River, the Indroda Nature Park has a zoo and botanical gardens, plus an adjacent dinosaur and fossil park"
+  },
+  {
+    "id": 122,
+    "state": "Gujrat",
+    "city": "Kutch",
+    "locality": "Bhuj",
+    "landmark": "Mandvi beach",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKutch_district&psig=AOvVaw2IAIxQlmyFIXXzD2zoXZH2&ust=1633167105552000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIirktvzqPMCFQAAAAAdAAAAABAD",
+    "description": "Kutch district is a district of Gujarat state in western India, with its headquarters at Bhuj. Covering an area of 45,674 km², it is the largest district of India. The area of Kutch District is larger than the entire area of states like Haryana and Kerala The population of Kutch is about 2,092,371."
+  },
+  {
+    "id": 123,
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "locality": "Sector - 18",
+    "landmark": "DLF Mall Of India",
+    "image": "https://www.dlfmallofindia.com/wp-content/uploads/2020/02/1.jpg",
+    "description": "The DLF Mall of India is a shopping mall situated in Sector 18, Noida, Uttar Pradesh, India. The mall is spread over 7 floors, and includes 330 brands, 80 kiosks, 5 customized shopping zones, along with 75 food and beverages options and a movie theatre with 7 screens."
+  },
   
   {
-        "id":121,
+        "id":124,
         "state":"Gujrat",
         "city":"Gandhnagar",
         "locality":" greenest capital city",
@@ -624,7 +644,7 @@
         "description":"Gandhinagar is a planned city in the western Indian state of Gujarat. The Akshardham is a massive Hindu temple with ornate carvings and sculpted pillars, plus a water show in its sprawling gardens. Dandi Kutir museum traces the life of leader Mahatma Gandhi, who was born in Gujarat. South, along the Sabarmati River, the Indroda Nature Park has a zoo and botanical gardens, plus an adjacent dinosaur and fossil park"
   },
   {
-    "id":152,
+    "id":125,
     "state":"Gujrat",
     "city":"Kutch",
     "locality":"Bhuj",
@@ -633,13 +653,13 @@
     "description":"Kutch district is a district of Gujarat state in western India, with its headquarters at Bhuj. Covering an area of 45,674 km², it is the largest district of India. The area of Kutch District is larger than the entire area of states like Haryana and Kerala The population of Kutch is about 2,092,371."
  },
     {
-        "id":160,
+        "id":126,
         "state":"Maharashtra",
         "city":"Sangli",
         "locality":"Vishrambag",
         "landmark":"Bapatmala",
         "image":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFBgVFRUZGRgaGx4aGxobGyMbHR0dHSIdGx0cIBobIC4kHR0pIhsaJTclKS4wNDQ0HSM5PzkyPi0yNDABCwsLEA8QHhISHjIpICkyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgABB//EAEgQAAIBAgQCBwUFBAcIAQUAAAECEQADBBIhMQVBBiJRYXGBoRMykbHBI0Jy0fAUUmLhFRYzgpKy8QckQ1NUk6LT0jSUo8Lj/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQIDAAQF/8QAJhEAAgIBBQACAQUBAAAAAAAAAAECESEDEjFBUSJhMhNxkaHBUv/aAAwDAQACEQMRAD8AX",
         "description":""
-    },
+    }
 ]
 
