@@ -549,8 +549,14 @@
         "landmark":"Kaas Plateau",
         "image":"https://static.polibolly.in/wp-content/uploads/2016/01/kaas_flower_stream_2.jpg",
         "description":"This plateau is extremely famous for its picturesque bloom of wild flowers around the month of october"
-     }
-
-    
-
+    },
+   {
+        "id":116,
+        "state":"Maharashtra",
+        "city":"Amravati",
+        "locality":"Amravati",
+        "landmark":"Chikhaldara",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.holidaytravel.co%2Fpkg-dtl-chikhaldara-venture-village&psig=AOvVaw2LCM3Z3ldqlZG0dgKH7nyn&ust=1633165645734000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCbyKruqPMCFQAAAAAdAAAAABAD",
+        "description":"Chikhaldara is a hill station and a municipal council in Amravati district in the Indian state of Maharashtra. Featured in the epic of the Mahabharata, this is the place where Bheema killed the villainous Keechaka in a herculean bout and then threw him into the valley."
+   },
 ]
