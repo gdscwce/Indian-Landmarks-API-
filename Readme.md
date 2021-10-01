@@ -1,12 +1,12 @@
 Indian Landmarks API 
 
-<h3>GET Landmarks by</h3>
+<h3>{GET Landmarks by}</h3>
 <li>State</li>
 <li>City</li>
 <li>Locality of City</li>
 
 <ul>
-    <h2>How to Use</h2>
+    <h2>[How to Use]</h2>
 </ul>
 <li>GET Landmark by State --- 
     State/StateName
