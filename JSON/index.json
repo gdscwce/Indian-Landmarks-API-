@@ -711,6 +711,13 @@
         "locality":"Pawangad",
         "landmark":"Panhala",
         "image":"https://www.nomadtrekkers.in/images/pavangad/pavangad.jpg"
+   },{
+    "id":130,
+    "state":"Odisha",
+    "city":"Cuttack",
+    "locality":"next to modern Barabati Stadium",
+    "landmark":"Barabati Fort",
+    "image":"https://s3.ap-south-1.amazonaws.com/img.livehistoryindia.com/wp-content/uploads/2020/10/Barabati_Fort___Ruins_of_the_Nine_Storied_Complex_and_Elephant_Stables__Source_Wiki_Commons_.jpg"
    }
 
 ]
