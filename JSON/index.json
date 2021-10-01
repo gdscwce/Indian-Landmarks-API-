@@ -629,41 +629,11 @@
     "image": "https://www.dlfmallofindia.com/wp-content/uploads/2020/02/1.jpg",
     "description": "The DLF Mall of India is a shopping mall situated in Sector 18, Noida, Uttar Pradesh, India. The mall is spread over 7 floors, and includes 330 brands, 80 kiosks, 5 customized shopping zones, along with 75 food and beverages options and a movie theatre with 7 screens."
   },
- {
-        "id":124,
-        "state":"Gujrat",
-        "city":"Gandhinagar",
-        "locality":" greenest capital city",
-        "landmark":"Akshar Dham",
-        "image":"https://www.google.com/search?q=Gandhinagar+&hl=en&rlz=1C5GCEM_enIN971IN971&tbm=isch&source=iu&ictx=1&fir=uTbs2MSq6u16qM%252CDjQUZcV3M63tiM%252C_&vet=1&usg=AI4_-kRY4PMMoQ8K67mPD3rEtiBTW1z0Uw&sa=X&ved=2ahUKEwi3qOiy8ajzAhXDSH0KHXZGCVIQ_B16BAgYEAE#imgrc=uTbs2MSq6u16qM",
-        "description":"Gandhinagar is a planned city in the western Indian state of Gujarat. The Akshardham is a massive Hindu temple with ornate carvings and sculpted pillars, plus a water show in its sprawling gardens. Dandi Kutir museum traces the life of leader Mahatma Gandhi, who was born in Gujarat. South, along the Sabarmati River, the Indroda Nature Park has a zoo and botanical gardens, plus an adjacent dinosaur and fossil park"
-  },
-  {
-    "id":125,
-    "state":"Gujarat",
-    "city":"Kutch",
-    "locality":"Bhuj",
-    "landmark":"Mandvi beach",
-    "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKutch_district&psig=AOvVaw2IAIxQlmyFIXXzD2zoXZH2&ust=1633167105552000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIirktvzqPMCFQAAAAAdAAAAABAD",
-    "description":"Kutch district is a district of Gujarat state in western India, with its headquarters at Bhuj. Covering an area of 45,674 km², it is the largest district of India. The area of Kutch District is larger than the entire area of states like Haryana and Kerala The population of Kutch is about 2,092,371."
- },
-    {
-        "id":126,
-        "state":"Maharashtra",
-        "city":"Sangli",
-        "locality":"Vishrambag",
-        "landmark":"Bapatmala",
-        "image":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFBgVFRUZGRgaGx4aGxobGyMbHR0dHSIdGx0cIBobIC4kHR0pIhsaJTclKS4wNDQ0HSM5PzkyPi0yNDABCwsLEA8QHhISHjIpICkyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgABB//EAEgQAAIBAgQCBwUFBAcIAQUAAAECEQADBBIhMQVBBiJRYXGBoRMykbHBI0Jy0fAUUmLhFRYzgpKy8QckQ1NUk6LT0jSUo8Lj/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQIDAAQF/8QAJhEAAgIBBQACAQUBAAAAAAAAAAECESEDEjFBUSJhMhNxkaHBUv/aAAwDAQACEQMRAD8AX",
-        "description":""
-    },
-   
-
-
   {
     "id": 124,
-    "state": "Gujarat",
+    "state": "Gujrat",
     "city": "Gandhinagar",
-    "locality": "greenest capital city",
+    "locality": " greenest capital city",
     "landmark": "Akshar Dham",
     "image": "https://www.google.com/search?q=Gandhinagar+&hl=en&rlz=1C5GCEM_enIN971IN971&tbm=isch&source=iu&ictx=1&fir=uTbs2MSq6u16qM%252CDjQUZcV3M63tiM%252C_&vet=1&usg=AI4_-kRY4PMMoQ8K67mPD3rEtiBTW1z0Uw&sa=X&ved=2ahUKEwi3qOiy8ajzAhXDSH0KHXZGCVIQ_B16BAgYEAE#imgrc=uTbs2MSq6u16qM",
     "description": "Gandhinagar is a planned city in the western Indian state of Gujarat. The Akshardham is a massive Hindu temple with ornate carvings and sculpted pillars, plus a water show in its sprawling gardens. Dandi Kutir museum traces the life of leader Mahatma Gandhi, who was born in Gujarat. South, along the Sabarmati River, the Indroda Nature Park has a zoo and botanical gardens, plus an adjacent dinosaur and fossil park"
@@ -689,6 +659,33 @@
   {
     "id": 127,
     "state": "Gujarat",
+    "city": "Gandhinagar",
+    "locality": "greenest capital city",
+    "landmark": "Akshar Dham",
+    "image": "https://www.google.com/search?q=Gandhinagar+&hl=en&rlz=1C5GCEM_enIN971IN971&tbm=isch&source=iu&ictx=1&fir=uTbs2MSq6u16qM%252CDjQUZcV3M63tiM%252C_&vet=1&usg=AI4_-kRY4PMMoQ8K67mPD3rEtiBTW1z0Uw&sa=X&ved=2ahUKEwi3qOiy8ajzAhXDSH0KHXZGCVIQ_B16BAgYEAE#imgrc=uTbs2MSq6u16qM",
+    "description": "Gandhinagar is a planned city in the western Indian state of Gujarat. The Akshardham is a massive Hindu temple with ornate carvings and sculpted pillars, plus a water show in its sprawling gardens. Dandi Kutir museum traces the life of leader Mahatma Gandhi, who was born in Gujarat. South, along the Sabarmati River, the Indroda Nature Park has a zoo and botanical gardens, plus an adjacent dinosaur and fossil park"
+  },
+  {
+    "id": 128,
+    "state": "Gujarat",
+    "city": "Kutch",
+    "locality": "Bhuj",
+    "landmark": "Mandvi beach",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKutch_district&psig=AOvVaw2IAIxQlmyFIXXzD2zoXZH2&ust=1633167105552000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIirktvzqPMCFQAAAAAdAAAAABAD",
+    "description": "Kutch district is a district of Gujarat state in western India, with its headquarters at Bhuj. Covering an area of 45,674 km², it is the largest district of India. The area of Kutch District is larger than the entire area of states like Haryana and Kerala The population of Kutch is about 2,092,371."
+  },
+  {
+    "id": 129,
+    "state": "Maharashtra",
+    "city": "Sangli",
+    "locality": "Vishrambag",
+    "landmark": "Bapatmala",
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFBgVFRUZGRgaGx4aGxobGyMbHR0dHSIdGx0cIBobIC4kHR0pIhsaJTclKS4wNDQ0HSM5PzkyPi0yNDABCwsLEA8QHhISHjIpICkyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgABB//EAEgQAAIBAgQCBwUFBAcIAQUAAAECEQADBBIhMQVBBiJRYXGBoRMykbHBI0Jy0fAUUmLhFRYzgpKy8QckQ1NUk6LT0jSUo8Lj/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQIDAAQF/8QAJhEAAgIBBQACAQUBAAAAAAAAAAECESEDEjFBUSJhMhNxkaHBUv/aAAwDAQACEQMRAD8AX",
+    "description": ""
+  },
+  {
+    "id": 130,
+    "state": "Gujarat",
     "city": "Porbandar",
     "locality": "Birthplace of Mahatma Gandhi and Sudama",
     "landmark": "Porbandar Beach",
@@ -696,7 +693,7 @@
     "description": "Porbandar is a city in the Indian state of Gujarat, perhaps best known for being the birthplace of Mahatma Gandhi and Sudama. It is the administrative center of the Porbandar District and it was the former capital of the Porbandar princely state."
   },
   {
-    "id": 128,
+    "id": 131,
     "state": "Gujarat",
     "city": "Anand",
     "locality": "Amul dairy and its milk revolution",
@@ -705,20 +702,45 @@
     "description": "Anand is the administrative centre of Anand District in the state of Gujarat, India. It is administered by Anand Municipality. It is part of the region known as Charotar, consisting of Anand and Kheda districts. Anand is known as Milk Capital of India."
   },
   {
-        "id":129,
-        "state":"Maharashtra",
-        "city":"Kolhapur",
-        "locality":"Pawangad",
-        "landmark":"Panhala",
-        "image":"https://www.nomadtrekkers.in/images/pavangad/pavangad.jpg"
-   },{
-    "id":130,
-    "state":"Odisha",
-    "city":"Cuttack",
-    "locality":"next to modern Barabati Stadium",
-    "landmark":"Barabati Fort",
-    "image":"https://s3.ap-south-1.amazonaws.com/img.livehistoryindia.com/wp-content/uploads/2020/10/Barabati_Fort___Ruins_of_the_Nine_Storied_Complex_and_Elephant_Stables__Source_Wiki_Commons_.jpg"
-   }
-
+    "id": 132,
+    "state": "Maharashtra",
+    "city": "Kolhapur",
+    "locality": "Pawangad",
+    "landmark": "Panhala",
+    "image": "https://www.nomadtrekkers.in/images/pavangad/pavangad.jpg"
+  },
+  {
+    "id": 133,
+    "state": "Odisha",
+    "city": "Cuttack",
+    "locality": "next to modern Barabati Stadium",
+    "landmark": "Barabati Fort",
+    "image": "https://s3.ap-south-1.amazonaws.com/img.livehistoryindia.com/wp-content/uploads/2020/10/Barabati_Fort___Ruins_of_the_Nine_Storied_Complex_and_Elephant_Stables__Source_Wiki_Commons_.jpg"
+  },
+  {
+    "id": 134,
+    "state": "Odisha",
+    "city": "Cuttack",
+    "locality": "next to modern Barabati Stadium",
+    "landmark": "Barabati Fort",
+    "image": "https://s3.ap-south-1.amazonaws.com/img.livehistoryindia.com/wp-content/uploads/2020/10/Barabati_Fort___Ruins_of_the_Nine_Storied_Complex_and_Elephant_Stables__Source_Wiki_Commons_.jpg"
+  },
+  {
+    "id": 135,
+    "state": "Mizoram",
+    "city": "Aizawl",
+    "locality": "Mizoram (“Land of the Mizos”) was known as the Lushai Hills District of Assam before it was renamed the Mizo Hills District in 1954.",
+    "landmark": "Mizoram State Museum",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d4/d5/99/from-the-top-of-reiek.jpg?w=700&h=-1&s=1",
+    "description": "Aizawl is the capital of the state of Mizoram in India. Aizawl was officially established on 25 February 1890"
+  },
+  {
+    "id": 136,
+    "state": "Mizoram",
+    "city": "Lunglei",
+    "locality": "Lunglei, literally meaning 'bridge of rock' ",
+    "landmark": "Bungalow of Pioneer Missionaries",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d4/d5/99/from-the-top-of-reiek.jpg?w=700&h=-1&s=1",
+    "description": "Lunglei is a town, situated in the south-central part of Mizoram state"
+  }
 ]
-
