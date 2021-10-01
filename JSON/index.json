@@ -289,12 +289,13 @@
         "description":"The Chintamani Temple of Theur is a Hindu temple dedicated to Ganesha"
     },
 {
-        "id":33,
-        "state":"Telangana",
-        "city":"Hyderabad",
-        "locality":"Ibrahim Bagh",
-        "landmark":"Golconda Fort",
-        "image":"https://en.wikipedia.org/wiki/File:Golconda_Fort-Hyderabad-Telangana-DSC001.jpg",
-        "description":""
+        "id":34,
+        "state":"Maharashtra",
+        "city":"Ahmednagar",
+        "locality":"Bhingar Nala",
+        "landmark":"Ahmednagar Fort",
+        "image":"https://www.google.com/maps/uv?pb=!1s0x3bdcb069126730a3%3A0x1e64ea12095ccce0!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO0Yca3Kn9cXdgYUdWKY0KsjkYDiI5V74h-90Sj%3Dw160-h160-k-no!5sbhuikot%20fort%20ahmednagar%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipO0Yca3Kn9cXdgYUdWKY0KsjkYDiI5V74h-90Sj&hl=en&sa=X&ved=2ahUKEwifgoK2r6jzAhXXgtgFHe8cBB8Qoip6BAhkEAM",
+        "description":"It was the headquarters of the Ahmednagar Sultanate. In 1803, it was taken by the British during the Second Anglo-Maratha War. It was used as a prison during the British Raj."
     }
+
 ]
