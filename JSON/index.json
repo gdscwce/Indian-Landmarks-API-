@@ -602,13 +602,25 @@
         "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tourmyindia.com%2Fweekend-tours%2Fsaputara-weekend-tour.html&psig=AOvVaw2gmziyRWMNFmkDFMZUKhfj&ust=1633165608561000&source=images&cd=vfe&ved=2ahUKEwi3l_eQ7qjzAhWOwTgGHSPaCDUQjRx6BAgAEAk",
         "description":"Saputara is a hill station located in Sahyadris or Western Ghats and is well known for it's sunset point"
      },
-     {
-        "id":151,
+     
+    {
+        "id":120,
+        "state":"Uttar Pradesh",
+        "city":"Varanasi",
+        "locality":" Varanasi",
+        "landmark":"Assi Ghat",
+        "image": "https://www.tourmyindia.com/states/uttarpradesh/images/assi-ghat-varanasi.jpg",
+        "description":"Assi Ghat is one of the most popular ghats in Varanasi, visited regularly by both tourists and locals. It is located in the southern part of the holy city of Varanasi at the confluence of Ganga and Assi rivers."
+
+     },
+  
+  {
+        "id":121,
         "state":"Gujrat",
         "city":"Gandhnagar",
         "locality":" greenest capital city",
         "landmark":"Akshar Dham",
         "image":"https://www.google.com/search?q=Gandhinagar+&hl=en&rlz=1C5GCEM_enIN971IN971&tbm=isch&source=iu&ictx=1&fir=uTbs2MSq6u16qM%252CDjQUZcV3M63tiM%252C_&vet=1&usg=AI4_-kRY4PMMoQ8K67mPD3rEtiBTW1z0Uw&sa=X&ved=2ahUKEwi3qOiy8ajzAhXDSH0KHXZGCVIQ_B16BAgYEAE#imgrc=uTbs2MSq6u16qM",
         "description":"Gandhinagar is a planned city in the western Indian state of Gujarat. The Akshardham is a massive Hindu temple with ornate carvings and sculpted pillars, plus a water show in its sprawling gardens. Dandi Kutir museum traces the life of leader Mahatma Gandhi, who was born in Gujarat. South, along the Sabarmati River, the Indroda Nature Park has a zoo and botanical gardens, plus an adjacent dinosaur and fossil park"
-     }
+  }
 ]
