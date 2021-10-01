@@ -550,9 +550,18 @@
         "image":"https://static.polibolly.in/wp-content/uploads/2016/01/kaas_flower_stream_2.jpg",
         "description":"This plateau is extremely famous for its picturesque bloom of wild flowers around the month of october"
      },
+  {
+        "id":116,
+        "state":"Maharashtra",
+        "city":"Raigad",
+        "locality":"Raigad",
+        "landmark":"Murud-Janjira Fort",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripiwiki.com%2FMaharashtra%2FJanjira-Fort-Attractions&psig=AOvVaw3TYeobSerRecNi9uxMRvjr&ust=1633165901787000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjClZ7vqPMCFQAAAAAdAAAAABAD",
+        "description":"Raja Ram Rao Patil was Patil of Janjira Island and a chief of Kolis who established and/or built this island in the 16th century for Kolis to live peacefully away from pirates. After gaining permission from the Sultan of the Ahmadnagar Sultanate, he built the island but later refused to obey the orders of the Sultan. So the Sultan sent his Admiral Piram Khan to capture the janjira."
+     },
     
     {
-        "id":116,
+        "id":117,
         "state":"Maharashtra",
         "city":"Chikhaldara",
         "locality":"Chikhaldara hill station",
@@ -562,7 +571,7 @@
    
     },
    {
-        "id":117,
+        "id":118,
         "state":"Maharashtra",
         "city":"Amravati",
         "locality":"Amravati",
@@ -571,7 +580,7 @@
         "description":"Chikhaldara is a hill station and a municipal council in Amravati district in the Indian state of Maharashtra. Featured in the epic of the Mahabharata, this is the place where Bheema killed the villainous Keechaka in a herculean bout and then threw him into the valley."
    },  
      {
-        "id":118,
+        "id":119,
         "state":"Gujarat",
         "city":"Saputara",
         "locality":" Dang",
@@ -579,5 +588,4 @@
         "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tourmyindia.com%2Fweekend-tours%2Fsaputara-weekend-tour.html&psig=AOvVaw2gmziyRWMNFmkDFMZUKhfj&ust=1633165608561000&source=images&cd=vfe&ved=2ahUKEwi3l_eQ7qjzAhWOwTgGHSPaCDUQjRx6BAgAEAk",
         "description":"Saputara is a hill station located in Sahyadris or Western Ghats and is well known for it's sunset point"
      }
-
 ]
