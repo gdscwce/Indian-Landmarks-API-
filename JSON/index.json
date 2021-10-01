@@ -516,10 +516,6 @@
         "image":"https://www.google.com/maps/uv?pb=!1s0x3bd1d5fedb42710f%3A0x80d8a2ca2e809d6f!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPvR3CnIbtYsdTuX7HD-I88U5LnmV0xL2kQOpTl%3Dw266-h200-k-no!5svishnupuri%20dam%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipPvR3CnIbtYsdTuX7HD-I88U5LnmV0xL2kQOpTl&hl=en&sa=X&ved=2ahUKEwjDh-mH1qjzAhW4xTgGHV8lAyoQoip6BAhYEAM",
         "description":"It is a dam in Nanded"
      },
-
-
-     
-
      {
         "id":111,
         "state":"Delhi",
@@ -605,5 +601,14 @@
         "landmark":"Sunset point",
         "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tourmyindia.com%2Fweekend-tours%2Fsaputara-weekend-tour.html&psig=AOvVaw2gmziyRWMNFmkDFMZUKhfj&ust=1633165608561000&source=images&cd=vfe&ved=2ahUKEwi3l_eQ7qjzAhWOwTgGHSPaCDUQjRx6BAgAEAk",
         "description":"Saputara is a hill station located in Sahyadris or Western Ghats and is well known for it's sunset point"
+     },
+     {
+        "id":151,
+        "state":"Gujrat",
+        "city":"Gandhnagar",
+        "locality":" greenest capital city",
+        "landmark":"Akshar Dham",
+        "image":"https://www.google.com/search?q=Gandhinagar+&hl=en&rlz=1C5GCEM_enIN971IN971&tbm=isch&source=iu&ictx=1&fir=uTbs2MSq6u16qM%252CDjQUZcV3M63tiM%252C_&vet=1&usg=AI4_-kRY4PMMoQ8K67mPD3rEtiBTW1z0Uw&sa=X&ved=2ahUKEwi3qOiy8ajzAhXDSH0KHXZGCVIQ_B16BAgYEAE#imgrc=uTbs2MSq6u16qM",
+        "description":"Gandhinagar is a planned city in the western Indian state of Gujarat. The Akshardham is a massive Hindu temple with ornate carvings and sculpted pillars, plus a water show in its sprawling gardens. Dandi Kutir museum traces the life of leader Mahatma Gandhi, who was born in Gujarat. South, along the Sabarmati River, the Indroda Nature Park has a zoo and botanical gardens, plus an adjacent dinosaur and fossil park"
      }
 ]
