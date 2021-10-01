@@ -418,6 +418,15 @@
         "landmark":"Gadhe Hospital",
         "image":"https://lh5.googleusercontent.com/p/AF1QipMsmx_LBYhqij59MAPcZXdkIzTwKt726RrCPfbT=w408-h544-k-no",
         "description":""
+    },
+    {
+        "id":46,
+        "state":"Maharashtra",
+        "city":"Nagpur",
+        "locality":"Nagpur",
+        "landmark":"Zero Mile Stone",
+        "image":"https://images.mid-day.com/images/images/2021/jul/Eastern-Express-a_d.jpg",
+        "description":""
     }
     
  
