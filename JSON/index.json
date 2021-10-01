@@ -297,4 +297,14 @@
         "image":"https://en.wikipedia.org/wiki/File:Golconda_Fort-Hyderabad-Telangana-DSC001.jpg",
         "description":""
     }
+{
+        "id":33,
+        "state":"Sikkim",
+        "city":"Tsomgo",
+        "locality":"Tsomgo",
+        "landmark":"Tsomgo Lake",
+        "image":"https://northbengaltourism.com/images/sikkim/tsomgo_changu_lake_1024.jpg",
+        "description":"Tsomgo Lake is situated in the East Sikkim district on the Gangtok-Nathu La Highway and is a part of the ancient southern Silk Route"
+    }
+
 ]
