@@ -529,6 +529,17 @@
         "landmark":"Jain Mandir",
         "image":"https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%8A%E0%B8%99%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99#/media/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:Templejaindanvers.jpg",
         "description":"It is a Jain temple incredibly carved using white marble within a span of more than 10 years."
-     }
+     },
+  {
+        "id":114,
+        "state":"Maharashtra",
+        "city":"Gondia",
+        "locality":"Gondia",
+        "landmark":"HazraFall",
+        "image":"https://www.google.com/search?q=Hazrafall&stick=H4sIAAAAAAAAAONgFuLVT9c3NEwzKC8vzsouU-IBcY0yytLzjKuMtASDM1NSyxMri_1SK0qCS1ILihexcnokVhUlpiXm5OxgZQQAhmwD1EEAAAA&sxsrf=AOaemvIKQBYL1_S-tBO9nPCOetAgz4Y2dA:1633077045274&source=lnms&tbm=isch&sa=X&ved=2ahUKEwidmrKJ5qjzAhWTA3IKHbsMD7AQ_AUoAnoECAEQBA&biw=1280&bih=657&dpr=1#imgrc=ca65ilSE7BFxsM",
+        "description":"The place is also ideal for camping as well as trekking activities.  It is a spectacular view covered with Dense forest and hills."
+
+   }
     
+
 ]
