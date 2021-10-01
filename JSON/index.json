@@ -497,6 +497,16 @@
         "landmark":"vishnupuri Dam",
         "image":"https://www.google.com/maps/uv?pb=!1s0x3bd1d5fedb42710f%3A0x80d8a2ca2e809d6f!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPvR3CnIbtYsdTuX7HD-I88U5LnmV0xL2kQOpTl%3Dw266-h200-k-no!5svishnupuri%20dam%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipPvR3CnIbtYsdTuX7HD-I88U5LnmV0xL2kQOpTl&hl=en&sa=X&ved=2ahUKEwjDh-mH1qjzAhW4xTgGHV8lAyoQoip6BAhYEAM",
         "description":"It is a dam in Nanded"
+     },
+
+    {
+        "id":111,
+        "state":"Maharashtra",
+        "city":"Satara",
+        "locality":"Kaas",
+        "landmark":"Kaas Plateau",
+        "image":"https://static.polibolly.in/wp-content/uploads/2016/01/kaas_flower_stream_2.jpg",
+        "description":"This plateau is extremely famous for its picturesque bloom of wild flowers around the month of october"
      }
     
 ]
