@@ -516,18 +516,14 @@
         "image":"https://www.google.com/maps/uv?pb=!1s0x3bd1d5fedb42710f%3A0x80d8a2ca2e809d6f!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPvR3CnIbtYsdTuX7HD-I88U5LnmV0xL2kQOpTl%3Dw266-h200-k-no!5svishnupuri%20dam%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipPvR3CnIbtYsdTuX7HD-I88U5LnmV0xL2kQOpTl&hl=en&sa=X&ved=2ahUKEwjDh-mH1qjzAhW4xTgGHV8lAyoQoip6BAhYEAM",
         "description":"It is a dam in Nanded"
      },
-
-
-     
-
-     {
+{
         "id":111,
-        "state":"Delhi",
-        "city":"Delhi",
-        "locality":"Mathura Road",
-        "landmark":"Humayun's Tomb",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tomb_of_Humayun%2C_Delhi.jpg/360px-Tomb_of_Humayun%2C_Delhi.jpg",
-        "description":"It is the tomb of the Mughal Emperor Humayun in Delhi, India."
+        "state":"Rajasthan",
+        "city":"Jaipur",
+        "locality":"Jaipur",
+        "landmark":"Tulasi Marg",
+        "image":"https://jaipurtourism.co.in/images/places-to-visit/header/city-palace-jaipur-entry-fee-timings-holidays-reviews-header.jpg",
+        "description":"Beautiful palace located in jaipur was establishedd by Maharaja Sawai Jai Singh II"
      },
 {
         "id":112,
@@ -578,7 +574,7 @@
         "description":"Barabati Fort is a 13th-century fort built by the rulers of the Eastern Ganga dynasty in Cuttack, Odisha, India. The ruins of the fort remain with its moat, gate, and the earthen mound of the nine-storied palace, which evokes the memories of past days."
      },
   {
-        "id":116,
+        "id":117,
         "state":"Maharashtra",
         "city":"Raigad",
         "locality":"Raigad",
@@ -588,7 +584,7 @@
      },
     
     {
-        "id":117,
+        "id":118,
         "state":"Maharashtra",
         "city":"Chikhaldara",
         "locality":"Chikhaldara hill station",
@@ -598,7 +594,7 @@
    
     },
    {
-        "id":118,
+        "id":119,
         "state":"Maharashtra",
         "city":"Amravati",
         "locality":"Amravati",
@@ -607,12 +603,21 @@
         "description":"Chikhaldara is a hill station and a municipal council in Amravati district in the Indian state of Maharashtra. Featured in the epic of the Mahabharata, this is the place where Bheema killed the villainous Keechaka in a herculean bout and then threw him into the valley."
    },  
      {
-        "id":119,
+        "id":120,
         "state":"Gujarat",
         "city":"Saputara",
         "locality":" Dang",
         "landmark":"Sunset point",
         "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tourmyindia.com%2Fweekend-tours%2Fsaputara-weekend-tour.html&psig=AOvVaw2gmziyRWMNFmkDFMZUKhfj&ust=1633165608561000&source=images&cd=vfe&ved=2ahUKEwi3l_eQ7qjzAhWOwTgGHSPaCDUQjRx6BAgAEAk",
         "description":"Saputara is a hill station located in Sahyadris or Western Ghats and is well known for it's sunset point"
+     },
+  {
+        "id":121,
+        "state":"Delhi",
+        "city":"Delhi",
+        "locality":"Mathura Road",
+        "landmark":"Humayun's Tomb",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tomb_of_Humayun%2C_Delhi.jpg/360px-Tomb_of_Humayun%2C_Delhi.jpg",
+        "description":"It is the tomb of the Mughal Emperor Humayun in Delhi, India."
      }
 ]
