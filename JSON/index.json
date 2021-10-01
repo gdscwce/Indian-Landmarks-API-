@@ -343,5 +343,15 @@
         "landmark":"City Palace of Udaipur",
         "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/2b/f0/f7/img-20181018-104236-01.jpg?w=1000&h=-1&s=1",
         "description":"City Palace, Udaipur is a palace complex situated in the city of Udaipur in the Indian state of Rajasthan. It was built over a period of nearly 400 years, with contributions from several rulers of the Mewar dynasty. Its construction began in 1553, started by Maharana Udai Singh II of the Sisodia Rajput family as he shifted his capital from the erstwhile Chittor to the new found city of Udaipur. The palace is located on the east bank of Lake Pichola and has several palaces built within its complex. The City Palace in Udaipur was built in a flamboyant style and is considered the largest of its type in the state of Rajasthan."
+    },
+    {
+
+        "id":39,
+        "state":"Maharastra",
+        "city":"pune",
+        "locality":"wagholi",
+        "landmark":"JSPM's BSIOTR",
+        "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flearningtelescope.com%2FLearningTelescope%2Finstitute%2FviewImage%3Fid%3D16&imgrefurl=https%3A%2F%2Flearningtelescope.com%2FLearningTelescope%2Finstitute%2Fname%2Fjspm-s-bsiotr-bhivarabai-sawant-institute-of-technology-and-research-pune&tbnid=qo_2Dx4VMxhwjM&vet=12ahUKEwi-_-mGxajzAhUjXnwKHSAvAyEQMygCegUIARC1AQ..i&docid=MLGaW2u_eUO5FM&w=1366&h=768&q=jspm%20bsiotr&client=safari&ved=2ahUKEwi-_-mGxajzAhUjXnwKHSAvAyEQMygCegUIARC1AQ",
+        "description":" BSIOTR has various industrial collaboration in respect of internships, recruitment and exchange programmes ."
     }
 ]
