@@ -82,7 +82,7 @@
     },
 
   {
-  "id": 10,
+        "id": 10,
         "state":"Maharashtra",
         "city":"Mumbai",
         "locality":"",
@@ -101,6 +101,15 @@
     },
     {
         "id":12,
+        "state":"Maharashtra",
+        "city":"Umarga",
+        "locality":"Umarga",
+        "landmark":"Mahadev Mandir",
+        "image":"https://1.bp.blogspot.com/-Gf_5lxFS2yw/X4QzaPipxcI/AAAAAAAAAFw/kNec8eWszXoVLgekJoiVFCMlGmCdhN8zQCLcBGAsYHQ/s600/Mahadev%2B%25281%2529.jpg",
+        "description":"Umarga has a 1000-year-old ancient magnificent Hemadpanthi Temple of Lord Shiva. This indicates its roots linked to the Shilahar, Rastrkuta, Chalukya Dynasty."
+    },
+    {
+        "id":13,
         "state":"Kerala",
         "city":"Thiruvananthapuram",
         "locality":"Peringamala",
@@ -109,7 +118,7 @@
         "description":""
     },
     {
-        "id":13,
+        "id":14,
         "state":"Telangana",
         "city":"Hyderabad",
         "locality":"Ghansi Bazaar",
@@ -118,7 +127,7 @@
         "description":""
     },
     {
-        "id":14,
+        "id":15,
         "state":"Telangana",
         "city":"Hyderabad",
         "locality":"Ibrahim Bagh",
@@ -127,7 +136,7 @@
         "description":""
     },
     {
-        "id":15,
+        "id":16,
         "state":"Kerala",
         "city":"Varkala",
         "locality":"Varkala Town",
@@ -136,7 +145,7 @@
         "description":""
     },
     {
-        "id":16,
+        "id":17,
         "state":"Kerala",
         "city":"Kottayam",
         "locality":"Kavanattinkara",
@@ -145,7 +154,7 @@
         "description":""
     },
     {
-        "id":17,
+        "id":18,
         "state":"Maharashtra",
         "city":"Nagpur",
         "locality":"",
@@ -154,7 +163,7 @@
         "description":"Situated inside a fort on a hillock, away from city crowd is Lord Rama’s temple , which has a rich mythological history. It is believed that Lord Rama along with Laxman stayed here before proceeding to conquer Lanka."
     },
 {
-  "id": 18,
+        "id": 19,
         "state":"Maharashtra",
         "city":"Mumbai",
         "locality":"",
@@ -163,7 +172,7 @@
         "description":"Marine Drive is a 3.6-kilometre-long Promenade along the Netaji Subhash Chandra Bose Road in Mumbai, India."
     },
 {
-        "id":19,
+        "id":20,
         "state":"Maharashtra",
         "city":"Kolhapur",
         "locality":"Rankala",
@@ -172,7 +181,7 @@
         "description":"Rankala Lake is on the western side of Ambabai temple , it is a popular evening spot and recreation centre. This lake was constructed by late Maharajah, Shri Shahu Chhatrapati. The Lake is surrounded by Chaupati and other gardens"
     },
   {
-        "id":20,
+        "id":21,
         "state":"Delhi",
         "city":"Delhi",
         "locality":"Mehrauli",
@@ -181,7 +190,7 @@
     
 },
     {
-        "id":21,
+        "id":22,
         "state":"Maharashtra",
         "city":"Aurangabad",
         "locality":"Begumpura",
@@ -190,7 +199,7 @@
         "description":""
     },
  {
-            "id":22,
+            "id":23,
             "state":"Maharashtra",
             "city":"Chandrapur",
             "locality":"Tadoba National Park",
@@ -199,7 +208,7 @@
             "description":"Notably Maharashtra's oldest and largest National Park, the \"Tadoba National Park\", also known as the \"Tadoba Andhari Tiger Reserve\" is one of India's 47 project tiger reserves existing in India. It lies in the Chandrapur district of Maharashtra state and is approximately 150 km from Nagpur city. The total area of the tiger reserve is 1,727 Sq.km, which includes the Tadoba National Park, created in the year 1955."
         },
   {
-        "id":23,
+        "id":24,
         "state":"Tamil Nadu",
         "city":"Kanchipuram",
         "locality":"",
@@ -208,7 +217,7 @@
         "description":"The Kamakshi Temple is an ancient Hindu Temple dedicated to Kamakshi, the ultimate form of Goddess Lalitha Maha Tripurasundari or Parvati. It is located in the historic city of Kanchipuram, near Chennai, India."
     },
     {
-        "id": 24,
+        "id": 25,
         "state":"Maharastra",
         "city":"Dhule",
         "locality":"",
@@ -217,7 +226,7 @@
         "description":"India."
     },
     {
-        "id":25,
+        "id":26,
         "state":"Maharastra",
         "city":"Mumbai",
         "locality":"Vasai",
@@ -226,7 +235,7 @@
         "description":"It is an ancient fort in Vasai which has been a tourist attraction for many decades now"
     },
 {
-        "id": 26,
+        "id": 27,
         "state":"Maharastra",
         "city":"Sangli",
         "locality":"Miraj",
@@ -235,7 +244,7 @@
     "description":"Gavbhag"
 },
     {
-        "id":27,
+        "id":28,
         "state":"Maharashtra",
         "city":"Pune",
         "locality":"PCMC",
@@ -244,7 +253,7 @@
         "description":""
     },
     {
-     "id": 28,
+     "id": 29,
         "state":"TamilNadu",
         "city":"Kanyakumari",
         "locality":" thiruvattar",
@@ -253,7 +262,7 @@
         "description":"The Adikesavaperumal Temple is a Hindu temple located in Thiruvattar, Kanyakumari district, Tamil Nadu, India and is one of the 108 Divya desams, the holy sites of Hindu Vaishnavism according to existing Tamil hymns from the seventh and eighth centuries C.E."
    },
     {
-     "id": 29,
+     "id": 30,
         "state":"TamilNadu",
         "city":"Niligiris",
         "locality":" Udagamandalam",
@@ -262,7 +271,7 @@
         "description":"Ooty lake is also called as ooty boat house is located in Ooty in the Nilgiris district and 1 km from ooty bus stand., Tamil Nadu, India. It covers an area of 65 acres. "
    },
    {
-        "id":30,
+        "id":31,
         "state":"Maharashtra",
         "city":"Kolhapur",
         "locality":"mahalaxmi road",
@@ -271,7 +280,7 @@
         "description":"karver"
     },
 {
-        "id":31,
+        "id":32,
         "state":"Maharashtra",
         "city":"pune",
         "locality":"Chhatrapati Shivaji Maharaj Rd, Mehunpura, Budhwar Peth, Pune, Maharashtra",
@@ -280,7 +289,7 @@
         "description":"best ganpati bapa"
     },
 {
-        "id":32,
+        "id":33,
         "state":"Maharashtra",
         "city":"pune",
         "locality":"Theur",
@@ -288,9 +297,8 @@
         "image":"https://en.wikipedia.org/wiki/Chintamani_Temple,_Theur#/media/File:Shri_Cintamani_of_Theur.jpg",
         "description":"The Chintamani Temple of Theur is a Hindu temple dedicated to Ganesha"
     },
-
   {
-        "id":33,
+        "id": 34,
         "state":"Telangana",
         "city":"Hyderabad",
         "locality":"Ibrahim Bagh",
@@ -299,7 +307,7 @@
         "description":""
     },
 {
-        "id":34,
+        "id":35,
         "state":"Odisha",
         "city":"Puri",
         "locality":"Puri Beach",
@@ -308,7 +316,7 @@
         "description":"Puri is a coastal city in the state of Odisha.It is known for the Shri Jagannath Temple, which is one of the original Char Dham pilgrimage sites for Hindus."
     },
 {
-        "id":35,
+        "id":36,
         "state":"Sikkim",
         "city":"Tsomgo",
         "locality":"Tsomgo",
@@ -318,7 +326,7 @@
     },
 {
 
-        "id":36,
+        "id":37,
         "state":"Maharashtra",
         "city":"Ahmednagar",
         "locality":"Bhingar Nala",
@@ -328,7 +336,7 @@
     },
     {
 
-        "id":37,
+        "id":38,
         "state":"Rajasthan",
         "city":"Udaipur",
         "locality":"Udaipur City",
@@ -336,5 +344,4 @@
         "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/2b/f0/f7/img-20181018-104236-01.jpg?w=1000&h=-1&s=1",
         "description":"City Palace, Udaipur is a palace complex situated in the city of Udaipur in the Indian state of Rajasthan. It was built over a period of nearly 400 years, with contributions from several rulers of the Mewar dynasty. Its construction began in 1553, started by Maharana Udai Singh II of the Sisodia Rajput family as he shifted his capital from the erstwhile Chittor to the new found city of Udaipur. The palace is located on the east bank of Lake Pichola and has several palaces built within its complex. The City Palace in Udaipur was built in a flamboyant style and is considered the largest of its type in the state of Rajasthan."
     }
-    City Palace of Udaipur
 ]
