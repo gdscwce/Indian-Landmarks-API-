@@ -306,4 +306,14 @@
         "image":"https://timesofindia.indiatimes.com/travel/Orissa/Puri-Beach/ps47121875.cms",
         "description":"Puri is a coastal city in the state of Odisha.It is known for the Shri Jagannath Temple, which is one of the original Char Dham pilgrimage sites for Hindus."
     }
+{
+        "id":33,
+        "state":"Sikkim",
+        "city":"Tsomgo",
+        "locality":"Tsomgo",
+        "landmark":"Tsomgo Lake",
+        "image":"https://northbengaltourism.com/images/sikkim/tsomgo_changu_lake_1024.jpg",
+        "description":"Tsomgo Lake is situated in the East Sikkim district on the Gangtok-Nathu La Highway and is a part of the ancient southern Silk Route"
+    }
+
 ]
