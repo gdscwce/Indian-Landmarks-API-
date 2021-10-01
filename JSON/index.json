@@ -56,7 +56,7 @@
   {
     "id": 6,
     "state": "Karnataka",
-    "city": "Bangaluru",
+    "city": "Bengaluru",
     "locality": "Mavalli",
     "landmark": "Lalbaugh Garden",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Glasshouse_and_fountain_at_lalbagh.jpg",
@@ -65,7 +65,7 @@
   {
     "id": 7,
     "state": "Karnataka",
-    "city": "Bangaluru",
+    "city": "Bengaluru",
     "locality": "",
     "landmark": "Cubbon Park",
     "image": "https://www.makemytrip.com/travel-guide/media/dg_image/bangalore/Cubbon-Park-Samuel-Jacob-Flickr-Creative-commons.jpg",
@@ -631,7 +631,7 @@
   },
  {
         "id":124,
-        "state":"Gujrat",
+        "state":"Gujarat",
         "city":"Gandhinagar",
         "locality":" greenest capital city",
         "landmark":"Akshar Dham",
