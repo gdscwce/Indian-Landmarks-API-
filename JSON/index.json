@@ -353,7 +353,14 @@
         "landmark":"Sangli Ganpati Temple",
         "image":"https://media-cdn.tripadvisor.com/media/photo-s/05/55/8a/80/ganapati-temple.jpg",
         "description":"The Sangli’s Ganapati Temple is situated on the eastern banks of the Krishna River. It is one of the most prominent temples in the Southern Maharashtra. This temple was constructed in the year 1843 by Thorle Chintamanrao Patwardhan so as to honor the guarding deity of the Sangli city. The king consecrated the idol of Lord Ganesha in this temple only. One of the most notable features of this temple is its architecture. The temple has been made of the black stones. These stones are attained from the Jyotiba hills, and the doors of the temple have been carved out of the multi-colored natural wood. The premises of the temple is spread over an area of 2 acres of land and comprises of a large hall, a platform and a ‘Nagarkhana’."
-
-
+     },
+       {
+        "id":39,
+        "state":"Maharastra",
+        "city":"pune",
+        "locality":"wagholi",
+        "landmark":"JSPM's BSIOTR",
+        "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flearningtelescope.com%2FLearningTelescope%2Finstitute%2FviewImage%3Fid%3D16&imgrefurl=https%3A%2F%2Flearningtelescope.com%2FLearningTelescope%2Finstitute%2Fname%2Fjspm-s-bsiotr-bhivarabai-sawant-institute-of-technology-and-research-pune&tbnid=qo_2Dx4VMxhwjM&vet=12ahUKEwi-_-mGxajzAhUjXnwKHSAvAyEQMygCegUIARC1AQ..i&docid=MLGaW2u_eUO5FM&w=1366&h=768&q=jspm%20bsiotr&client=safari&ved=2ahUKEwi-_-mGxajzAhUjXnwKHSAvAyEQMygCegUIARC1AQ",
+        "description":" BSIOTR has various industrial collaboration in respect of internships, recruitment and exchange programmes ."
     }
 ]
