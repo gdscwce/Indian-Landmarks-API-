@@ -559,8 +559,25 @@
         "landmark":"Gawigad Fort",
         "image":"https://www.localguidesconnect.com/t5/image/serverpage/image-id/855084i6210D35C60124256/image-size/large?v=v2&px=999",
         "description":"Chikhaldara is a hill station and a municipal council in Amravati district in the Indian state of Maharashtra.Featured in the epic of the Mahabharata, this is the place where Bheema killed the villainous Keechaka in a herculean bout and then threw him into the valley. It thus came to be known as Keechakadara—Chikhaldara is its corruption."
-    }
-
-    
+   
+    },
+   {
+        "id":117,
+        "state":"Maharashtra",
+        "city":"Amravati",
+        "locality":"Amravati",
+        "landmark":"Chikhaldara",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.holidaytravel.co%2Fpkg-dtl-chikhaldara-venture-village&psig=AOvVaw2LCM3Z3ldqlZG0dgKH7nyn&ust=1633165645734000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCbyKruqPMCFQAAAAAdAAAAABAD",
+        "description":"Chikhaldara is a hill station and a municipal council in Amravati district in the Indian state of Maharashtra. Featured in the epic of the Mahabharata, this is the place where Bheema killed the villainous Keechaka in a herculean bout and then threw him into the valley."
+   },  
+     {
+        "id":118,
+        "state":"Gujarat",
+        "city":"Saputara",
+        "locality":" Dang",
+        "landmark":"Sunset point",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tourmyindia.com%2Fweekend-tours%2Fsaputara-weekend-tour.html&psig=AOvVaw2gmziyRWMNFmkDFMZUKhfj&ust=1633165608561000&source=images&cd=vfe&ved=2ahUKEwi3l_eQ7qjzAhWOwTgGHSPaCDUQjRx6BAgAEAk",
+        "description":"Saputara is a hill station located in Sahyadris or Western Ghats and is well known for it's sunset point"
+     }
 
 ]
