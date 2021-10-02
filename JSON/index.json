@@ -816,8 +816,20 @@
     "state": "Delhi",
     "city": "New Delhi",
     "locality": "",
+
     "landmark": "Humayun’s Tomb",
     "image": "https://en.wikipedia.org/wiki/Humayun's_Tomb#/media/File:Tomb_of_Humayun,_Delhi.jpg",
     "description": "Humayun's tomb is the tomb of the Mughal Emperor Humayun in Delhi, India. The tomb was commissioned by Humayun's first wife and chief consort, Empress Bega Begum, in 1558, and designed by Mirak Mirza Ghiyas and his son, Sayyid Muhammad, Persian architects chosen by her."
+
+  },
+  {
+    "id": 147,
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "locality": "Hussaibad Rd",
+    "landmark": "Bada Imambara",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bara_Imambara_Lucknow.jpg/1920px-Bara_Imambara_Lucknow.jpg",
+    "description": "Bara Imambara, also known as Asfi Imambara is an imambara complex in Lucknow, India built by Asaf-ud-Daula, Nawab of Awadh in 1784. Bara means big. This imambara is the second largest after the Nizamat Imambara"
+
   }
 ]
