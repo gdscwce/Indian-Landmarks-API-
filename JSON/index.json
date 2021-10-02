@@ -817,13 +817,22 @@
     "city": "New Delhi",
     "locality": "",
 
-    "landmark": "Humayun’s Tomb",
-    "image": "https://en.wikipedia.org/wiki/Humayun's_Tomb#/media/File:Tomb_of_Humayun,_Delhi.jpg",
-    "description": "Humayun's tomb is the tomb of the Mughal Emperor Humayun in Delhi, India. The tomb was commissioned by Humayun's first wife and chief consort, Empress Bega Begum, in 1558, and designed by Mirak Mirza Ghiyas and his son, Sayyid Muhammad, Persian architects chosen by her."
-
+    "landmark": "Martand Sun Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Anantnag_J%26K.jpg/250px-Anantnag_J%26K.jpg",
+    "description": "Anantnag ('countless springs'), is the administrative headquarters of the Anantnag district in the Indian union territory of Jammu and Kashmir."
   },
   {
     "id": 147,
+    "state": "Bihar",
+    "city": "Patna",
+    "locality": "Muradpur",
+    "landmark": "Gandhi Maidan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Gandhi_Maidan.jpg",
+    "description": "Gandhi Maidan is a historic ground in Patna, near the banks of the Ganges River, in Bihar, India. The Golghar falls to its west. During the period of 1824–1833, under British rule, it was used as a golf course and horse racing track and was called Patna Lawns. It is spread across 60 acres of land."
+
+  },
+  {
+    "id": 148,
     "state": "Uttar Pradesh",
     "city": "Lucknow",
     "locality": "Hussaibad Rd",
