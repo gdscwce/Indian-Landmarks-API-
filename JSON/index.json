@@ -819,5 +819,14 @@
     "landmark": "Martand Sun Temple",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Anantnag_J%26K.jpg/250px-Anantnag_J%26K.jpg",
     "description": "Anantnag ('countless springs'), is the administrative headquarters of the Anantnag district in the Indian union territory of Jammu and Kashmir."
+  },
+  {
+    "id": 147,
+    "state": "Bihar",
+    "city": "Patna",
+    "locality": "Muradpur",
+    "landmark": "Gandhi Maidan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Gandhi_Maidan.jpg",
+    "description": "Gandhi Maidan is a historic ground in Patna, near the banks of the Ganges River, in Bihar, India. The Golghar falls to its west. During the period of 1824–1833, under British rule, it was used as a golf course and horse racing track and was called Patna Lawns. It is spread across 60 acres of land."
   }
 ]
