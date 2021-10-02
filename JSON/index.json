@@ -841,4 +841,14 @@
     "description": "Bara Imambara, also known as Asfi Imambara is an imambara complex in Lucknow, India built by Asaf-ud-Daula, Nawab of Awadh in 1784. Bara means big. This imambara is the second largest after the Nizamat Imambara"
 
   }
+  {
+    "id": 149,
+    "state": "Gujarat",
+    "city": "Kutch",
+    "locality": "Bhuj",
+    "landmark": "Rann of Kutch",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rann_Utsav_Begins_%2811475093753%29.jpg/330px-Rann_Utsav_Begins_%2811475093753%29.jpg",
+    "description": "The Rann of Kutch is a large area of salt marshes that span the border between India and Pakistan. It is located mostly in Gujarat (primarily the Kutch district), India, and in some parts of Sindh, Pakistan."
+
+  }
 ]
