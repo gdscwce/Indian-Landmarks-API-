@@ -813,9 +813,10 @@
   },
   {
     "id": 146,
-    "state": "Jammu & Kashmir",
-    "city": "Anantnag",
+    "state": "Delhi",
+    "city": "New Delhi",
     "locality": "",
+
     "landmark": "Martand Sun Temple",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Anantnag_J%26K.jpg/250px-Anantnag_J%26K.jpg",
     "description": "Anantnag ('countless springs'), is the administrative headquarters of the Anantnag district in the Indian union territory of Jammu and Kashmir."
@@ -828,5 +829,16 @@
     "landmark": "Gandhi Maidan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Gandhi_Maidan.jpg",
     "description": "Gandhi Maidan is a historic ground in Patna, near the banks of the Ganges River, in Bihar, India. The Golghar falls to its west. During the period of 1824–1833, under British rule, it was used as a golf course and horse racing track and was called Patna Lawns. It is spread across 60 acres of land."
+
+  },
+  {
+    "id": 148,
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "locality": "Hussaibad Rd",
+    "landmark": "Bada Imambara",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bara_Imambara_Lucknow.jpg/1920px-Bara_Imambara_Lucknow.jpg",
+    "description": "Bara Imambara, also known as Asfi Imambara is an imambara complex in Lucknow, India built by Asaf-ud-Daula, Nawab of Awadh in 1784. Bara means big. This imambara is the second largest after the Nizamat Imambara"
+
   }
 ]
