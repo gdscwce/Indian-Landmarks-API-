@@ -840,5 +840,15 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bara_Imambara_Lucknow.jpg/1920px-Bara_Imambara_Lucknow.jpg",
     "description": "Bara Imambara, also known as Asfi Imambara is an imambara complex in Lucknow, India built by Asaf-ud-Daula, Nawab of Awadh in 1784. Bara means big. This imambara is the second largest after the Nizamat Imambara"
 
+  },
+  {
+    "id": 149,
+    "state": "Uttar Pradesh",
+    "city": "Gorakhpur",
+    "locality": "Tara Mandal Road",
+    "landmark": "Ramgarh Tal Lake",
+    "image": "https://www.jagranimages.com/images/newimg/27112020/27_11_2020-ramghadhtal_gorakhpur_21106081.jpg",
+    "description": "Ramgarh Tal is a lake located in Gorakhpur, Uttar Pradesh, India. In 1970, at its largest size, the lake covered an area of 723 hectares (1,790 acres) with a circumference of 18 kilometres (11 mi). Today, it covers about 678 hectares (1,680 acres)."
+
   }
 ]
