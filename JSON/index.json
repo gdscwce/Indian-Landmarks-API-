@@ -1046,6 +1046,15 @@
     "landmark": "",
     "image": "",
     "description": "" 
-  }
+  },
+  {
+    "id": 171,
+    "state": "Maharashtra",
+    "city": "Pune",
+    "locality": "Gananjay Society, Kothrud",
+    "landmark": "Gananjay Badminton Hall",
+    "image": "https://playo.imgix.net/GANANJAYSOCIETYBADMINTONHALLNO2/1.JPG",
+    "description": "Gananjay Badminton Hall in Kothrud, Pune is one of the top Badminton Courts in Kothrud. It has synthetic court. It is well maintained by the Gananjay Society. It has all the required amenities. "
+   }
 
 ]
