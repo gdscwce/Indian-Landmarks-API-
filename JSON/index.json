@@ -900,6 +900,15 @@
   },
   {
     "id": 155,
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "locality": "",
+    "landmark": "Marina Beach",
+    "image": "https://www.google.com/search?q=marina+beach&tbm=isch&ved=2ahUKEwjy7dOT4q3zAhXy-nMBHePzDqsQ2-cCegQIABAA&oq=marina+&gs_lcp=CgNpbWcQARgAMggIABCABBCxAzIICAAQgAQQsQMyCwgAEIAEELEDEIMBMgUIABCABDIICAAQgAQQsQMyCwgAEIAEELEDEIMBMggIABCABBCxAzIFCAAQgAQyCAgAEIAEELEDMgUIABCABDoKCCMQ7wMQ6gIQJzoHCCMQ7wMQJzoKCAAQsQMQgwEQQzoECAAQQzoICAAQsQMQgwFQ7lVYhmBggmdoAXAAeACAAY4BiAGvBpIBAzIuNZgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=L2JZYbKaLfL1z7sP4-e72Ao&rlz=1C5GCEM_enIN971IN971&hl=en",
+    "description": "Marina Beach is a natural urban beach in Chennai, Tamil Nadu, India, along the Bay of Bengal.The beach runs from near Fort St. George in the north to Foreshore Estate in the south, a distance of 6.0 km (3.7 mi), making it the longest natural urban beach in the country"
+  },
+  {
+    "id": 156,
     "state": "Maharashtra",
     "city": "Mahabaleshwar",
     "locality": "",
@@ -908,7 +917,7 @@
     "description": "Venna Lake is one of the tourist attractions of Mahabaleshwar in Maharashtra state in India. The lake was constructed by Shri Appasaheb Maharaj, who was Raja of Satara in 1842. The lake is surrounded by trees. Tourists can enjoy a boat ride over the lake or a horse ride next to the lake."
   },
   {
-    "id": 156,
+    "id": 157,
     "state": "Delhi",
     "city": "New Delhi",
     "locality": "President's Estate",
