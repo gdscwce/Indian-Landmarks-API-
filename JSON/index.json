@@ -897,8 +897,6 @@
     "landmark": "Rann of Kutch",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rann_Utsav_Begins_%2811475093753%29.jpg/330px-Rann_Utsav_Begins_%2811475093753%29.jpg",
     "description": "The Rann of Kutch is a large area of salt marshes that span the border between India and Pakistan. It is located mostly in Gujarat (primarily the Kutch district), India, and in some parts of Sindh, Pakistan."
-
-
   },
   {
     "id": 155,
@@ -908,5 +906,23 @@
     "landmark": "Marina Beach",
     "image": "https://www.google.com/search?q=marina+beach&tbm=isch&ved=2ahUKEwjy7dOT4q3zAhXy-nMBHePzDqsQ2-cCegQIABAA&oq=marina+&gs_lcp=CgNpbWcQARgAMggIABCABBCxAzIICAAQgAQQsQMyCwgAEIAEELEDEIMBMgUIABCABDIICAAQgAQQsQMyCwgAEIAEELEDEIMBMggIABCABBCxAzIFCAAQgAQyCAgAEIAEELEDMgUIABCABDoKCCMQ7wMQ6gIQJzoHCCMQ7wMQJzoKCAAQsQMQgwEQQzoECAAQQzoICAAQsQMQgwFQ7lVYhmBggmdoAXAAeACAAY4BiAGvBpIBAzIuNZgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=L2JZYbKaLfL1z7sP4-e72Ao&rlz=1C5GCEM_enIN971IN971&hl=en",
     "description": "Marina Beach is a natural urban beach in Chennai, Tamil Nadu, India, along the Bay of Bengal.The beach runs from near Fort St. George in the north to Foreshore Estate in the south, a distance of 6.0 km (3.7 mi), making it the longest natural urban beach in the country"
+  },
+  {
+    "id": 156,
+    "state": "Maharashtra",
+    "city": "Mahabaleshwar",
+    "locality": "",
+    "landmark": "Venna Lake",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Boats_On_Venna_Lake.jpg/396px-Boats_On_Venna_Lake.jpg",
+    "description": "Venna Lake is one of the tourist attractions of Mahabaleshwar in Maharashtra state in India. The lake was constructed by Shri Appasaheb Maharaj, who was Raja of Satara in 1842. The lake is surrounded by trees. Tourists can enjoy a boat ride over the lake or a horse ride next to the lake."
+  },
+  {
+    "id": 157,
+    "state": "Delhi",
+    "city": "New Delhi",
+    "locality": "President's Estate",
+    "landmark": "Rashtrapati Bhavan",
+    "image": "https://rashtrapatisachivalaya.gov.in/rbtour/sites/default/files/banner_gallery/home-banner-02.jpg",
+    "description": "The Rashtrapati Bhavan, or president's house, in New Delhi serves as the official residence for the President of India. It comprises 340 rooms in the main building and is spread across a total area of five acres. It is built on an estate covering 330 acres and is the largest residential premises of any Head of the State in the world."
   }
 ]
