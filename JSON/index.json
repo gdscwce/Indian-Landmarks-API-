@@ -900,6 +900,15 @@
   },
   {
     "id": 155,
+    "state": "Maharashtra",
+    "city": "Mahabaleshwar",
+    "locality": "",
+    "landmark": "Venna Lake",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Boats_On_Venna_Lake.jpg/396px-Boats_On_Venna_Lake.jpg",
+    "description": "Venna Lake is one of the tourist attractions of Mahabaleshwar in Maharashtra state in India. The lake was constructed by Shri Appasaheb Maharaj, who was Raja of Satara in 1842. The lake is surrounded by trees. Tourists can enjoy a boat ride over the lake or a horse ride next to the lake."
+  },
+  {
+    "id": 156,
     "state": "Delhi",
     "city": "New Delhi",
     "locality": "President's Estate",
