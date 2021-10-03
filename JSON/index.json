@@ -937,11 +937,22 @@
   },
   {
     "id": 159,
+
     "state": "Haryana",
     "city": "Faridabad",
     "locality": "Ballabgarh",
     "landmark": "Raja Nahar Singh Palace",
     "image": "https://media-cdn.tripadvisor.com/media/photo-s/05/09/7e/57/raja-nahar-singh-palace.jpg",
     "description": "Located 15kms from South Delhi, this heritage property is a magnificent place to experience royalty. It has been renovated and converted into a motel-cum-restaurant."
+  },
+  {
+    "id":160,
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "locality": "Yamuna River Banks",
+    "landmark": "Taj Mahal",
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+    "description": "The first thing that comes to a visitor’s mind when they think about India is, undoubtedly, the Taj Mahal. Located in the city of Agra, it is an architectural masterpiece made completely with white marble."
+
   }
 ]
