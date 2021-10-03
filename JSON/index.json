@@ -842,7 +842,16 @@
 
   },
   {
-    "id": 149,
+    "id" : 149,
+    "state" : "Maharashtra",
+    "city" : "Pune",
+    "locality" : "Pashan",
+    "landmark" : "Pashan Lake",
+    "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pashan_Lake.jpg/264px-Pashan_Lake.jpg",
+    "description" : "Pashan Lake is an artificial lake near the suburb of Pashan, about 12 km from the city center of Pune, India. The lake was built in the British era to accommodate the water requirement of the neighbourhood. The main inlet of the lake is a small river (Ramnadi), which is even controlled by the barrage located to the north of the lake."
+  },
+  {
+    "id": 150,
     "state": "Uttar Pradesh",
     "city": "Gorakhpur",
     "locality": "Tara Mandal Road",
