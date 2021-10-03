@@ -897,7 +897,14 @@
     "landmark": "Rann of Kutch",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rann_Utsav_Begins_%2811475093753%29.jpg/330px-Rann_Utsav_Begins_%2811475093753%29.jpg",
     "description": "The Rann of Kutch is a large area of salt marshes that span the border between India and Pakistan. It is located mostly in Gujarat (primarily the Kutch district), India, and in some parts of Sindh, Pakistan."
-
-
+  },
+  {
+    "id": 155,
+    "state": "Delhi",
+    "city": "New Delhi",
+    "locality": "President's Estate",
+    "landmark": "Rashtrapati Bhavan",
+    "image": "https://rashtrapatisachivalaya.gov.in/rbtour/sites/default/files/banner_gallery/home-banner-02.jpg",
+    "description": "The Rashtrapati Bhavan, or president's house, in New Delhi serves as the official residence for the President of India. It comprises 340 rooms in the main building and is spread across a total area of five acres. It is built on an estate covering 330 acres and is the largest residential premises of any Head of the State in the world."
   }
 ]
