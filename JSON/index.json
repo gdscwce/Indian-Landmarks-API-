@@ -906,5 +906,14 @@
     "landmark": "Venna Lake",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Boats_On_Venna_Lake.jpg/396px-Boats_On_Venna_Lake.jpg",
     "description": "Venna Lake is one of the tourist attractions of Mahabaleshwar in Maharashtra state in India. The lake was constructed by Shri Appasaheb Maharaj, who was Raja of Satara in 1842. The lake is surrounded by trees. Tourists can enjoy a boat ride over the lake or a horse ride next to the lake."
+  },
+  {
+    "id": 156,
+    "state": "Delhi",
+    "city": "New Delhi",
+    "locality": "President's Estate",
+    "landmark": "Rashtrapati Bhavan",
+    "image": "https://rashtrapatisachivalaya.gov.in/rbtour/sites/default/files/banner_gallery/home-banner-02.jpg",
+    "description": "The Rashtrapati Bhavan, or president's house, in New Delhi serves as the official residence for the President of India. It comprises 340 rooms in the main building and is spread across a total area of five acres. It is built on an estate covering 330 acres and is the largest residential premises of any Head of the State in the world."
   }
 ]
