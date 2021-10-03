@@ -936,7 +936,17 @@
 
   },
   {
+
     "id": 159,
+    "state": "Maharashtra",
+    "city": "Panchgani",
+    "locality": "",
+    "landmark": "Mapro Garden",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Strawberry_farming_at_Mapro_Garden%2C_Panchgani.JPG/330px-Strawberry_farming_at_Mapro_Garden%2C_Panchgani.JPG",
+    "description": "Mapro Garden is a famous tourist attraction nestled in the beautiful hill station of Panchgani. Mapro is short for Mahabaleshwar Products, a brand name associated with delicious fruit-based products. With greenery all around, one will find a chocolate factory, a restaurant, a small nursery, children's play area and retail outlet selling Mapro products."
+  },
+  {
+    "id": 160,
 
     "state": "Haryana",
     "city": "Faridabad",
@@ -946,13 +956,14 @@
     "description": "Located 15kms from South Delhi, this heritage property is a magnificent place to experience royalty. It has been renovated and converted into a motel-cum-restaurant."
   },
   {
-    "id":160,
+    "id":161,
     "state": "Uttar Pradesh",
     "city": "Agra",
     "locality": "Yamuna River Banks",
     "landmark": "Taj Mahal",
     "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
     "description": "The first thing that comes to a visitor’s mind when they think about India is, undoubtedly, the Taj Mahal. Located in the city of Agra, it is an architectural masterpiece made completely with white marble."
+
 
   }
 ]
