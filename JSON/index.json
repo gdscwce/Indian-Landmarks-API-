@@ -849,5 +849,15 @@
     "landmark" : "Pashan Lake",
     "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pashan_Lake.jpg/264px-Pashan_Lake.jpg",
     "description" : "Pashan Lake is an artificial lake near the suburb of Pashan, about 12 km from the city center of Pune, India. The lake was built in the British era to accommodate the water requirement of the neighbourhood. The main inlet of the lake is a small river (Ramnadi), which is even controlled by the barrage located to the north of the lake."
+  },
+  {
+    "id": 150,
+    "state": "Uttar Pradesh",
+    "city": "Gorakhpur",
+    "locality": "Tara Mandal Road",
+    "landmark": "Ramgarh Tal Lake",
+    "image": "https://www.jagranimages.com/images/newimg/27112020/27_11_2020-ramghadhtal_gorakhpur_21106081.jpg",
+    "description": "Ramgarh Tal is a lake located in Gorakhpur, Uttar Pradesh, India. In 1970, at its largest size, the lake covered an area of 723 hectares (1,790 acres) with a circumference of 18 kilometres (11 mi). Today, it covers about 678 hectares (1,680 acres)."
+
   }
 ]
