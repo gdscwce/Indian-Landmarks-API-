@@ -965,7 +965,16 @@
     "description": "The first thing that comes to a visitor’s mind when they think about India is, undoubtedly, the Taj Mahal. Located in the city of Agra, it is an architectural masterpiece made completely with white marble."
 
 
-  }
-  
+
+  },
+  {
+    "id": 162,
+    "state": "Maharashtra",
+    "city": "Pune",
+    "locality": "Gananjay Society, Kothrud",
+    "landmark": "Gananjay Badminton Hall",
+    "image": "https://playo.imgix.net/GANANJAYSOCIETYBADMINTONHALLNO2/1.JPG",
+    "description": "Gananjay Badminton Hall in Kothrud, Pune is one of the top Badminton Courts in Kothrud. It has synthetic court. It is well maintained by the Gananjay Society. It has all the required amenities. "
+   }
 
 ]
