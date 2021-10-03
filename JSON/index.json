@@ -897,7 +897,14 @@
     "landmark": "Rann of Kutch",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rann_Utsav_Begins_%2811475093753%29.jpg/330px-Rann_Utsav_Begins_%2811475093753%29.jpg",
     "description": "The Rann of Kutch is a large area of salt marshes that span the border between India and Pakistan. It is located mostly in Gujarat (primarily the Kutch district), India, and in some parts of Sindh, Pakistan."
-
-
+  },
+  {
+    "id": 155,
+    "state": "Maharashtra",
+    "city": "Mahabaleshwar",
+    "locality": "",
+    "landmark": "Venna Lake",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Boats_On_Venna_Lake.jpg/396px-Boats_On_Venna_Lake.jpg",
+    "description": "Venna Lake is one of the tourist attractions of Mahabaleshwar in Maharashtra state in India. The lake was constructed by Shri Appasaheb Maharaj, who was Raja of Satara in 1842. The lake is surrounded by trees. Tourists can enjoy a boat ride over the lake or a horse ride next to the lake."
   }
 ]
