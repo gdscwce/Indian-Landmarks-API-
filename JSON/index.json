@@ -924,7 +924,7 @@
     "landmark": "Rashtrapati Bhavan",
     "image": "https://rashtrapatisachivalaya.gov.in/rbtour/sites/default/files/banner_gallery/home-banner-02.jpg",
     "description": "The Rashtrapati Bhavan, or president's house, in New Delhi serves as the official residence for the President of India. It comprises 340 rooms in the main building and is spread across a total area of five acres. It is built on an estate covering 330 acres and is the largest residential premises of any Head of the State in the world."
-  }
+  },
   {
     "id": 155,
     "state": "Andhra Pradesh",
@@ -934,5 +934,14 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Tirumala_gopurams.JPG/375px-Tirumala_gopurams.JPG",
     "description": "Tirumala is a census town in Chittoor district of the Indian state of Andhra Pradesh. The town is a part of Tirupati Urban Development Authority and located in Tirupati mandal of Tirupati revenue division. It is a hill town where Tirumala Venkateswara Temple is located, which is the abode of Lord Venkateswara."
 
+  },
+  {
+    "id": 158,
+    "state": "Maharashtra",
+    "city": "Panchgani",
+    "locality": "",
+    "landmark": "Mapro Garden",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Strawberry_farming_at_Mapro_Garden%2C_Panchgani.JPG/330px-Strawberry_farming_at_Mapro_Garden%2C_Panchgani.JPG",
+    "description": "Mapro Garden is a famous tourist attraction nestled in the beautiful hill station of Panchgani. Mapro is short for Mahabaleshwar Products, a brand name associated with delicious fruit-based products. With greenery all around, one will find a chocolate factory, a restaurant, a small nursery, children's play area and retail outlet selling Mapro products."
   }
 ]
