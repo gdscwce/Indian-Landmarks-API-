@@ -986,5 +986,15 @@
     "description": "Patna Museum is the state museum of the Indian state of Bihar. Started on 3 April 1917 during the British Raj to house the historical artefacts found in the vicinity of Patna, it is in the style of Mughal and Rajput architecture and is known locally as the Jadu Ghar. Most of the early collections have now been transferred to Bihar Museum."
 
   },
+  {
+    "id": 164,
+    "state": "Andhra Pradesh",
+    "city": "Chittoor",
+    "locality": "",
+    "landmark": "Kanipakam Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Galipgopuram_of_Kanipakam_temple_%28May_2019%29_4.jpg/375px-Galipgopuram_of_Kanipakam_temple_%28May_2019%29_4.jpg",
+    "description": "Kanipakam is a small mini town in Irala mandal, located in Chittoor district of the Indian state of Andhra Pradesh. Kanipakam is situated at a distance of 11 km from Chittoor city on chittoor-Irala road"
+
+  },
 
 ]
