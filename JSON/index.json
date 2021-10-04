@@ -986,5 +986,14 @@
     "description": "Patna Museum is the state museum of the Indian state of Bihar. Started on 3 April 1917 during the British Raj to house the historical artefacts found in the vicinity of Patna, it is in the style of Mughal and Rajput architecture and is known locally as the Jadu Ghar. Most of the early collections have now been transferred to Bihar Museum."
 
   },
+  {
+    "id": 164,
+    "state": "Haryana",
+    "city": "Bhiwani",
+    "locality": "Devsar Village",
+    "landmark": "Star Monument",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Star_Monument_2.jpg",
+    "description": "A magnificent architecture, star monument is the Samadhi Sthal of 5th Radha Swami Guru, Shri Param Sant Tarachandji Maharaj who is renowned as Bade Maharaj ji."
 
+  }
 ]
