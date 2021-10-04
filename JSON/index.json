@@ -1004,5 +1004,14 @@
     "landmark": "Star Monument",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Star_Monument_2.jpg",
     "description": "A magnificent architecture, star monument is the Samadhi Sthal of 5th Radha Swami Guru, Shri Param Sant Tarachandji Maharaj who is renowned as Bade Maharaj ji."
+  },
+   {
+    "id":166,
+    "state": "Maharashtra",
+    "city": "Nashik",
+    "locality": "Trimbak road",
+    "landmark": "Trimbakeswar Shiv Mandir",
+    "image": "https://cdn.s3waas.gov.in/s3b3967a0e938dc2a6340e258630febd5a/uploads/bfi_thumb/2019011843-1-olwbulmmeklk3exiotgql930vls7weqlk9jiu0qoi2.jpg",
+    "description": "Trimbakeshwar Shiva JyotirlingaTemple is an ancient Hindu temple in the town of Trimbak, in the Trimbakeshwar tehsil in the Nashik District of Maharashtra, India, 28 km from the city of Nashik and 40 km from Nashik road."
   }
 ]
