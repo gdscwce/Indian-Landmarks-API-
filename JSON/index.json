@@ -975,6 +975,16 @@
     "landmark": "Gananjay Badminton Hall",
     "image": "https://playo.imgix.net/GANANJAYSOCIETYBADMINTONHALLNO2/1.JPG",
     "description": "Gananjay Badminton Hall in Kothrud, Pune is one of the top Badminton Courts in Kothrud. It has synthetic court. It is well maintained by the Gananjay Society. It has all the required amenities. "
-   }
+   },
+   {
+    "id": 163,
+    "state": "Bihar",
+    "city": "Patna",
+    "locality": "Madiri kat pur musuam k bagl m",
+    "landmark": "Patna Museum",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Patnamuseum1.JPG/220px-Patnamuseum1.JPG",
+    "description": "Patna Museum is the state museum of the Indian state of Bihar. Started on 3 April 1917 during the British Raj to house the historical artefacts found in the vicinity of Patna, it is in the style of Mughal and Rajput architecture and is known locally as the Jadu Ghar. Most of the early collections have now been transferred to Bihar Museum."
+
+  },
 
 ]
