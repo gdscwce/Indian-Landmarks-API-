@@ -996,5 +996,13 @@
     "description": "Kanipakam is a small mini town in Irala mandal, located in Chittoor district of the Indian state of Andhra Pradesh. Kanipakam is situated at a distance of 11 km from Chittoor city on chittoor-Irala road"
 
   },
-
+  {
+    "id":165,
+    "state": "Haryana",
+    "city": "Bhiwani",
+    "locality": "Devsar Village",
+    "landmark": "Star Monument",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Star_Monument_2.jpg",
+    "description": "A magnificent architecture, star monument is the Samadhi Sthal of 5th Radha Swami Guru, Shri Param Sant Tarachandji Maharaj who is renowned as Bade Maharaj ji."
+  }
 ]
