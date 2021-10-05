@@ -1034,11 +1034,22 @@
   },
   {
     "id": 169,
+
+    "state": "Delhi",
+    "city": "Delhi",
+    "locality": "Sansad Marg, Parliament Street",
+    "landmark": "Jantar Mantar",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.OlchD6sqaWM0ruNLWSfxBQHaE8%26pid%3DApi&f=1",
+    "description": "Jantar Mantar is located in the modern city of New Delhi. “Jantar Mantar” literally means “instruments for measuring the harmony of the heavens”."
+  },
+  {
+    "id":170,
     "state": "Maharashtra",
     "city": "Lonavla",
     "locality": "",
     "landmark": "Kune Falls",
     "image": "https://www.hlimg.com/images/things2do/738X538/ttd_1507816803m1.jpg",
     "description": "The Kune Falls is a waterfall at Lonavla in Pune district in the Indian state of Maharashtra. It is the 14th highest waterfall in India."
+
   }
 ]
