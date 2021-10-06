@@ -1060,5 +1060,14 @@
     "landmark": "Ramoji film city",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ramoji_Film_City.jpg/330px-Ramoji_Film_City.jpg",
     "description": "Ramoji Film City is an integrated film studio complex located in Hyderabad, India. Spread over 1,666 acres, it is the largest integrated film city in the world and as such has been certified by the Guinness World Records as the largest studio complex in the world."
+  },
+    {
+    "id": 173,
+    "state": "Arunachal Pradesh",
+    "city": "Bomdila",
+    "locality": "western Kameng district",
+    "landmark": "Bomdila Monastery",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.qwxO2RLpNbOqm331AkuvvQHaE8&pid=Api&P=0&w=258&h=173",
+    "description": "The monastery of Bomdila is an imitation of the Tsona Gontse Monastery, located at Tsona in South Tibet"
   }
 ]
