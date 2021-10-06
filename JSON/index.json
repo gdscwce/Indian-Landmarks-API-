@@ -1108,7 +1108,25 @@
     "landmark": "Chhatrapati Shivaji Terminus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/CSTM_Mumbai_Panoramic_view_by_Dr._Raju_Kasambe_20190712_%284%29_%28cropped_and_fixed_angles%29.jpg",
     "description": "Chhatrapati Shivaji Terminus, is a historic terminal train station and UNESCO World Heritage Site in Mumbai, Maharashtra, India. The terminus was designed by British born architectural engineer Frederick William Stevens from an initial design by Axel Haig, in an exuberant Italian Gothic style."
-  }
+  },
+  {
+  "id": 177,
+  "state": "Karnataka",
+  "city": "Bengaluru",
+  "locality": "Cubbon Road, Shivajinagar",
+  "landmark": "M Chinnaswamy Stadium",
+  "image": "https://images.cricket.com/stadiums/90_actionshot_safari.jpg",
+  "description": "The M. Chinnaswamy Stadium is a cricket stadium located in Bangalore, Karnataka. Flanked by the picturesque Cubbon Park, Queen's Road, Cubbon and uptown MG Road, this five-decade old stadium is situated in the heart of the city of Bangalore It has a seating capacity of 40,000.The stadium is the home ground of IPL franchise Royal Challengers Bangalore."
+},
+{
+  "id": 178,
+  "state": "",
+  "city": "",
+  "locality": "",
+  "landmark": "",
+  "image": "",
+  "description": ""
+}
 
 
 ]
