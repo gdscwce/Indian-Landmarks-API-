@@ -1060,5 +1060,24 @@
     "landmark": "Ramoji film city",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ramoji_Film_City.jpg/330px-Ramoji_Film_City.jpg",
     "description": "Ramoji Film City is an integrated film studio complex located in Hyderabad, India. Spread over 1,666 acres, it is the largest integrated film city in the world and as such has been certified by the Guinness World Records as the largest studio complex in the world."
-  }
+  },
+  {
+  "id": 172,
+  "state": "Karnataka",
+  "city": "Bengaluru",
+  "locality": "Shivajinagar",
+  "landmark": "St. Mary's Basilica Church",
+  "image": "https://en.wikipedia.org/wiki/St._Mary%27s_Basilica,_Bangalore#/media/File:St.Mary's_Basilica.jpg",
+  "description": "St. Mary's Basilica is located in Shivajinagar of Bangalore in the state of Karnataka. It is among the oldest churches in Bangalore and the first church in the state that has been elevated to the status of a minor basilica.It is famous for festivities held during the St. Mary's Feast in the month of September each year, attracting devotees from the entire region of Bangalore."
+},
+  {
+  "id": "",
+  "state": "",
+  "city": "",
+  "locality": "",
+  "landmark": "",
+  "image": "",
+  "description": ""
+}
+
 ]
