@@ -1061,10 +1061,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ramoji_Film_City.jpg/330px-Ramoji_Film_City.jpg",
     "description": "Ramoji Film City is an integrated film studio complex located in Hyderabad, India. Spread over 1,666 acres, it is the largest integrated film city in the world and as such has been certified by the Guinness World Records as the largest studio complex in the world."
   },
-
-  
-
-
   {
 
     "id": 172,
@@ -1103,9 +1099,16 @@
     "landmark": "Namdapha National Park",
     "image": "https://tse3.mm.bing.net/th?id=OIP.vpwqPJNhN_9aa8p7kImFxwHaEG&pid=Api&P=0&w=323&h=180",
     "description": "Namdapha National Park is located at a few kilometre away from Miao amidst misty blue hills along the turbulent Noa-Dihing river lies in the sprawling tropical rain forest."
+  },
+  {
+    "id": 176,
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "locality": "",
+    "landmark": "Chhatrapati Shivaji Terminus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/CSTM_Mumbai_Panoramic_view_by_Dr._Raju_Kasambe_20190712_%284%29_%28cropped_and_fixed_angles%29.jpg",
+    "description": "Chhatrapati Shivaji Terminus, is a historic terminal train station and UNESCO World Heritage Site in Mumbai, Maharashtra, India. The terminus was designed by British born architectural engineer Frederick William Stevens from an initial design by Axel Haig, in an exuberant Italian Gothic style."
   }
-
-
 
 
 ]
