@@ -1061,6 +1061,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ramoji_Film_City.jpg/330px-Ramoji_Film_City.jpg",
     "description": "Ramoji Film City is an integrated film studio complex located in Hyderabad, India. Spread over 1,666 acres, it is the largest integrated film city in the world and as such has been certified by the Guinness World Records as the largest studio complex in the world."
   },
+
+  
+  {
+    "id": 172,
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "locality": "Raja Park,Ramganj,Sanganer",
+    "landmark": "City Palace, Hawa Mahal, Jantar Mantar",
+    "image": "https://www.jaipur.org.uk/jaipur-photo-gallery.html",
+    "description": "Jaipur, popularly known as the Pink City of India, is the largest city in the state of Rajasthan. It is also the capital of Rajasthan."
+
   {
 
     "id": 172,
@@ -1108,6 +1119,7 @@
     "landmark": "Chhatrapati Shivaji Terminus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/CSTM_Mumbai_Panoramic_view_by_Dr._Raju_Kasambe_20190712_%284%29_%28cropped_and_fixed_angles%29.jpg",
     "description": "Chhatrapati Shivaji Terminus, is a historic terminal train station and UNESCO World Heritage Site in Mumbai, Maharashtra, India. The terminus was designed by British born architectural engineer Frederick William Stevens from an initial design by Axel Haig, in an exuberant Italian Gothic style."
+
   },
   {
   "id": 177,
@@ -1118,15 +1130,17 @@
   "image": "https://images.cricket.com/stadiums/90_actionshot_safari.jpg",
   "description": "The M. Chinnaswamy Stadium is a cricket stadium located in Bangalore, Karnataka. Flanked by the picturesque Cubbon Park, Queen's Road, Cubbon and uptown MG Road, this five-decade old stadium is situated in the heart of the city of Bangalore It has a seating capacity of 40,000.The stadium is the home ground of IPL franchise Royal Challengers Bangalore."
 },
-{
-  "id": 178,
-  "state": "",
-  "city": "",
-  "locality": "",
-  "landmark": "",
-  "image": "",
-  "description": ""
-}
+
+  {
+    "id": 178,
+    "state": "Andhra Pradesh",
+    "city": "Chittoor",
+    "locality": "",
+    "landmark": "Sri Kala Hasti",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sri_Kala_Hasti.jpg/390px-Sri_Kala_Hasti.jpg",
+    "description": "Srikalahasti Temple is located in the town of Srikalahasti, in the state of Andhra Pradesh, India. It is one of the most famous Shiva temples in South India, and is said to be the site where Kannappa was ready to offer both his eyes to cover blood flowing from the Siva linga before the Siva stopped him and granted him moksha."
+  }
+
 
 
 ]
