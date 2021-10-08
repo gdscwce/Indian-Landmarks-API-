@@ -1122,7 +1122,17 @@
 
   },
   {
-    "id": 177,
+  "id": 177,
+  "state": "Karnataka",
+  "city": "Bengaluru",
+  "locality": "Cubbon Road, Shivajinagar",
+  "landmark": "M Chinnaswamy Stadium",
+  "image": "https://images.cricket.com/stadiums/90_actionshot_safari.jpg",
+  "description": "The M. Chinnaswamy Stadium is a cricket stadium located in Bangalore, Karnataka. Flanked by the picturesque Cubbon Park, Queen's Road, Cubbon and uptown MG Road, this five-decade old stadium is situated in the heart of the city of Bangalore It has a seating capacity of 40,000.The stadium is the home ground of IPL franchise Royal Challengers Bangalore."
+},
+
+  {
+    "id": 178,
     "state": "Andhra Pradesh",
     "city": "Chittoor",
     "locality": "",
