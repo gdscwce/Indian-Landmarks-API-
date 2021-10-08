@@ -1122,7 +1122,16 @@
 
   },
   {
-  "id": 177,
+    "id": 177,
+    "state": "Maharashtra",
+    "city": "Nagpur",
+    "locality": "",
+    "landmark": "Swaminarayan Temple",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/5f/34/eb/swaminarayan-temple.jpg?w=1200&h=-1&s=1",
+    "description": "Pramukh Swami Maharaj sowed the seeds of satsang in 1976 when he visited the Vidarbha region. In 1993, Pramukh Swami Maharaj performed the hari mandir murti-pratishtha in the suburbs of Vardhmannagar. Later, in 1997, Swamishri inaugurated the Swaminarayan School. In 2004, the inauguration ceremony of the mandir shikharbaddh took place in the suburbs of Wathoda. The newly constructed murti-pratishtha of the mandir shikharbaddh was made in 2013."
+  },
+  {
+  "id": 178,
   "state": "Karnataka",
   "city": "Bengaluru",
   "locality": "Cubbon Road, Shivajinagar",
@@ -1132,13 +1141,14 @@
 },
 
   {
-    "id": 178,
+    "id": 179,
     "state": "Andhra Pradesh",
     "city": "Chittoor",
     "locality": "",
     "landmark": "Sri Kala Hasti",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sri_Kala_Hasti.jpg/390px-Sri_Kala_Hasti.jpg",
     "description": "Srikalahasti Temple is located in the town of Srikalahasti, in the state of Andhra Pradesh, India. It is one of the most famous Shiva temples in South India, and is said to be the site where Kannappa was ready to offer both his eyes to cover blood flowing from the Siva linga before the Siva stopped him and granted him moksha."
+
   }
 
 
