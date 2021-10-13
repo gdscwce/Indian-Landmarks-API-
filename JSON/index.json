@@ -1149,7 +1149,25 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sri_Kala_Hasti.jpg/390px-Sri_Kala_Hasti.jpg",
     "description": "Srikalahasti Temple is located in the town of Srikalahasti, in the state of Andhra Pradesh, India. It is one of the most famous Shiva temples in South India, and is said to be the site where Kannappa was ready to offer both his eyes to cover blood flowing from the Siva linga before the Siva stopped him and granted him moksha."
 
-  }
+  },
+   {
+  "id": 180,
+  "state": "Karnataka",
+  "city": "Bengaluru",
+  "locality": "Mavalli",
+  "landmark": "Lalbagh",
+  "image": "https://horticulturedir.karnataka.gov.in/storage/pdf-files/Lalbagh%20images/map%20edited.jpg",
+  "description": "Lalbagh is an old botanical garden in Bengaluru, India. First planned and laid out during the dalavaiship of Hyder Ali and later adorned with unique plant species by his son Tippu"
+},
+ {
+  "id": 181,
+  "state": "",
+  "city": "",
+  "locality": "",
+  "landmark": "",
+  "image": "",
+  "description": ""
+},
 
 
 
