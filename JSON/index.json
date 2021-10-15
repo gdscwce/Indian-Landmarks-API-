@@ -1144,8 +1144,26 @@
     "description": "Gool Poonawalla Garden is located in Pune City, Maharashtra India. The place is very peaceful and tranquil. It has got a pagoda for exercise as well as mud track for jogging. It is covered with trees all around."
 
   },
+   {
+  "id": 182,
+  "state": "Karnataka",
+  "city": "Bengaluru",
+  "locality": "Mavalli",
+  "landmark": "Lalbagh",
+  "image": "https://horticulturedir.karnataka.gov.in/storage/pdf-files/Lalbagh%20images/map%20edited.jpg",
+  "description": "Lalbagh is an old botanical garden in Bengaluru, India. First planned and laid out during the dalavaiship of Hyder Ali and later adorned with unique plant species by his son Tippu"
+},
+ {
+  "id": 183,
+  "state": "",
+  "city": "",
+  "locality": "",
+  "landmark": "",
+  "image": "",
+  "description": ""
+},
   {
-    "id": 182,
+    "id": 184,
     "state": "Andhra Pradesh",
     "city": "East Godavari",
     "locality": "Annavaram",
@@ -1154,7 +1172,7 @@
     "description": "Annavaram is a temple town on the banks of the Pampa River. It is located in East Godavari of the Indian state of Andhra Pradesh.[2] The village has the temple of Veera Venkata Satyanarayana, a form of Vishnu on the Ratnagiri Hill.[3]"
   },
   {
-    "id": 183,
+    "id": 185,
     "state": "Haryana",
     "city": "Hisar",
     "locality": "",
@@ -1163,12 +1181,12 @@
     "description": "Hisar is also known as the City Of Steel.OP JINDAL GYAN KENDRA is the world's 2nd highest steel structure of its kind.Its gives a full view of hisar and nearby villages.It is the best place for morning walk and also for spending sunday evening .This Kendra have a Library and Skating Ground , Swings , Museum etc.Park have a long tower which is 24 floor and the view from the last floor is amazing."
   },
    {
-    "id": 184,
+    "id": 186,
     "state": "Maharashtra",
     "city": "Ahamednagar",
     "locality": "Akole",
     "landmark": "Kalasubai",
     "image": "https://cdn.s3waas.gov.in/s345fbc6d3e05ebd93369ce542e8f2322d/uploads/bfi_thumb/2018030657-1-olw8smiese1tpuocva44v05isnu7ba56fxqdgjswi2.jpg",
     "description": "Kalsubai is a mountain in the Western Ghats, located in the Indian state of Maharashtra. Its summit, situated at an elevation of 1,646 metres, is the highest point in Maharashtra."
-  },
+  }
 ]
