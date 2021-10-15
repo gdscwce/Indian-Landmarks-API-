@@ -1188,5 +1188,14 @@
     "landmark": "Kalasubai",
     "image": "https://cdn.s3waas.gov.in/s345fbc6d3e05ebd93369ce542e8f2322d/uploads/bfi_thumb/2018030657-1-olw8smiese1tpuocva44v05isnu7ba56fxqdgjswi2.jpg",
     "description": "Kalsubai is a mountain in the Western Ghats, located in the Indian state of Maharashtra. Its summit, situated at an elevation of 1,646 metres, is the highest point in Maharashtra."
+  },
+  {
+    "id": 187,
+    "state": "Ladakh",
+    "city": "Leh district",
+    "locality": "",
+    "landmark": "Pangong Tso",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Pangong_Tso_2.jpg/1920px-Pangong_Tso_2.jpg",
+    "description": "Pangong Lake is an endorheic lake spanning eastern Ladakh and West Tibet situated at an elevation of 4,225 m (13,862 ft). It is 134 km (83 mi) long and divided into five sublakes, called Pangong Tso, Tso Nyak, Rum Tso (twin lakes) and Nyak Tso"
   }
 ]
