@@ -629,7 +629,6 @@
     "image": "https://www.dlfmallofindia.com/wp-content/uploads/2020/02/1.jpg",
     "description": "The DLF Mall of India is a shopping mall situated in Sector 18, Noida, Uttar Pradesh, India. The mall is spread over 7 floors, and includes 330 brands, 80 kiosks, 5 customized shopping zones, along with 75 food and beverages options and a movie theatre with 7 screens."
   },
-
   {
     "id": 124,
     "state": "Gujrat",
@@ -816,7 +815,6 @@
     "state": "Delhi",
     "city": "New Delhi",
     "locality": "",
-
     "landmark": "Martand Sun Temple",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Anantnag_J%26K.jpg/250px-Anantnag_J%26K.jpg",
     "description": "Anantnag ('countless springs'), is the administrative headquarters of the Anantnag district in the Indian union territory of Jammu and Kashmir."
@@ -829,7 +827,6 @@
     "landmark": "Gandhi Maidan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Gandhi_Maidan.jpg",
     "description": "Gandhi Maidan is a historic ground in Patna, near the banks of the Ganges River, in Bihar, India. The Golghar falls to its west. During the period of 1824–1833, under British rule, it was used as a golf course and horse racing track and was called Patna Lawns. It is spread across 60 acres of land."
-
   },
   {
     "id": 148,
@@ -839,17 +836,15 @@
     "landmark": "Bada Imambara",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bara_Imambara_Lucknow.jpg/1920px-Bara_Imambara_Lucknow.jpg",
     "description": "Bara Imambara, also known as Asfi Imambara is an imambara complex in Lucknow, India built by Asaf-ud-Daula, Nawab of Awadh in 1784. Bara means big. This imambara is the second largest after the Nizamat Imambara"
-
   },
-
   {
-    "id" : 149,
-    "state" : "Maharashtra",
-    "city" : "Pune",
-    "locality" : "Pashan",
-    "landmark" : "Pashan Lake",
-    "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pashan_Lake.jpg/264px-Pashan_Lake.jpg",
-    "description" : "Pashan Lake is an artificial lake near the suburb of Pashan, about 12 km from the city center of Pune, India. The lake was built in the British era to accommodate the water requirement of the neighbourhood. The main inlet of the lake is a small river (Ramnadi), which is even controlled by the barrage located to the north of the lake."
+    "id": 149,
+    "state": "Maharashtra",
+    "city": "Pune",
+    "locality": "Pashan",
+    "landmark": "Pashan Lake",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pashan_Lake.jpg/264px-Pashan_Lake.jpg",
+    "description": "Pashan Lake is an artificial lake near the suburb of Pashan, about 12 km from the city center of Pune, India. The lake was built in the British era to accommodate the water requirement of the neighbourhood. The main inlet of the lake is a small river (Ramnadi), which is even controlled by the barrage located to the north of the lake."
   },
   {
     "id": 150,
@@ -859,9 +854,8 @@
     "landmark": "Ramgarh Tal Lake",
     "image": "https://www.jagranimages.com/images/newimg/27112020/27_11_2020-ramghadhtal_gorakhpur_21106081.jpg",
     "description": "Ramgarh Tal is a lake located in Gorakhpur, Uttar Pradesh, India. In 1970, at its largest size, the lake covered an area of 723 hectares (1,790 acres) with a circumference of 18 kilometres (11 mi). Today, it covers about 678 hectares (1,680 acres)."
-
   },
-   {
+  {
     "id": 151,
     "state": "Uttar Pradesh",
     "city": "Prayagraj",
@@ -870,8 +864,7 @@
     "image": "http://www.jaintirthtourism.com/mandir_photo/rishabhdev%20tapasthali.jpg",
     "description": "No of Temples: 3+1 (Kirtistambh/Glory pillar), Pahaad/Mountain: An artificial hillock 127 steps. Historical Importance: As per Jain Scriptures, this is the place where the Jungle namely Siddharth exited before in which Lord Vrushabhnath accepted Jain Diksha attained omniscience. A beautiful construction is done under motivation of Aaryika Gyanmatiji in February 2001. The ordination (Dikasha) , Tapowan, Samavsaran, Kailash mountain, cave Temple, Glory pillar are worth to see and bow. A 14 feet tall sitting posture (Padmasan) Idol, Trikal Choubisin 72 Temples are worth to see. Annual Fair: Lord Vrushabdev Diksha Kalyanak- Chaitra Vadi 9 to 11, annual fair. Lord Vrushabdev Nirwan Kalyanak- Magh K.14. Tirthkshetra established day- Magh Shukl 13."
   },
-
-   {
+  {
     "id": 152,
     "state": "Uttar Pradesh",
     "city": "Mathura",
@@ -879,7 +872,7 @@
     "landmark": "Prem Mandir",
     "image": "https://cdn.s3waas.gov.in/s326e359e83860db1d11b6acca57d8ea88/uploads/bfi_thumb/2018082346-olw7gw9fr8po6o07kne491qwwb38gknujp6s6qkkga.jpg",
     "description": "Prem Mandir is a Hindu temple in Vrindavan, Mathura, India. It is maintained by Jagadguru Kripalu Parishat, an international non-profit, educational, spiritual, charitable trust. The complex is on a 55-acre site on the outskirts of Vrindavan. It is dedicated to Radha Krishna and Sita Ram."
-   },
+  },
   {
     "id": 153,
     "state": "Maharashtra",
@@ -933,10 +926,8 @@
     "landmark": "Tirumala",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Tirumala_gopurams.JPG/375px-Tirumala_gopurams.JPG",
     "description": "Tirumala is a census town in Chittoor district of the Indian state of Andhra Pradesh. The town is a part of Tirupati Urban Development Authority and located in Tirupati mandal of Tirupati revenue division. It is a hill town where Tirumala Venkateswara Temple is located, which is the abode of Lord Venkateswara."
-
   },
   {
-
     "id": 159,
     "state": "Maharashtra",
     "city": "Panchgani",
@@ -947,7 +938,6 @@
   },
   {
     "id": 160,
-
     "state": "Haryana",
     "city": "Faridabad",
     "locality": "Ballabgarh",
@@ -956,16 +946,13 @@
     "description": "Located 15kms from South Delhi, this heritage property is a magnificent place to experience royalty. It has been renovated and converted into a motel-cum-restaurant."
   },
   {
-    "id":161,
+    "id": 161,
     "state": "Uttar Pradesh",
     "city": "Agra",
     "locality": "Yamuna River Banks",
     "landmark": "Taj Mahal",
     "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
     "description": "The first thing that comes to a visitor’s mind when they think about India is, undoubtedly, the Taj Mahal. Located in the city of Agra, it is an architectural masterpiece made completely with white marble."
-
-
-
   },
   {
     "id": 162,
@@ -975,8 +962,8 @@
     "landmark": "Gananjay Badminton Hall",
     "image": "https://playo.imgix.net/GANANJAYSOCIETYBADMINTONHALLNO2/1.JPG",
     "description": "Gananjay Badminton Hall in Kothrud, Pune is one of the top Badminton Courts in Kothrud. It has synthetic court. It is well maintained by the Gananjay Society. It has all the required amenities. "
-   },
-   {
+  },
+  {
     "id": 163,
     "state": "Bihar",
     "city": "Patna",
@@ -984,7 +971,6 @@
     "landmark": "Patna Museum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Patnamuseum1.JPG/220px-Patnamuseum1.JPG",
     "description": "Patna Museum is the state museum of the Indian state of Bihar. Started on 3 April 1917 during the British Raj to house the historical artefacts found in the vicinity of Patna, it is in the style of Mughal and Rajput architecture and is known locally as the Jadu Ghar. Most of the early collections have now been transferred to Bihar Museum."
-
   },
   {
     "id": 164,
@@ -994,10 +980,9 @@
     "landmark": "Kanipakam Temple",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Galipgopuram_of_Kanipakam_temple_%28May_2019%29_4.jpg/375px-Galipgopuram_of_Kanipakam_temple_%28May_2019%29_4.jpg",
     "description": "Kanipakam is a small mini town in Irala mandal, located in Chittoor district of the Indian state of Andhra Pradesh. Kanipakam is situated at a distance of 11 km from Chittoor city on chittoor-Irala road"
-
   },
   {
-    "id":165,
+    "id": 165,
     "state": "Haryana",
     "city": "Bhiwani",
     "locality": "Devsar Village",
@@ -1005,8 +990,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Star_Monument_2.jpg",
     "description": "A magnificent architecture, star monument is the Samadhi Sthal of 5th Radha Swami Guru, Shri Param Sant Tarachandji Maharaj who is renowned as Bade Maharaj ji."
   },
-   {
-    "id":166,
+  {
+    "id": 166,
     "state": "Maharashtra",
     "city": "Nashik",
     "locality": "Trimbak road",
@@ -1015,7 +1000,7 @@
     "description": "Trimbakeshwar Shiva JyotirlingaTemple is an ancient Hindu temple in the town of Trimbak, in the Trimbakeshwar tehsil in the Nashik District of Maharashtra, India, 28 km from the city of Nashik and 40 km from Nashik road."
   },
   {
-    "id":167,
+    "id": 167,
     "state": "Kerala",
     "city": "Chalakudy",
     "locality": "Athirappilly",
@@ -1034,7 +1019,6 @@
   },
   {
     "id": 169,
-
     "state": "Delhi",
     "city": "Delhi",
     "locality": "Sansad Marg, Parliament Street",
@@ -1043,14 +1027,13 @@
     "description": "Jantar Mantar is located in the modern city of New Delhi. “Jantar Mantar” literally means “instruments for measuring the harmony of the heavens”."
   },
   {
-    "id":170,
+    "id": 170,
     "state": "Maharashtra",
     "city": "Lonavla",
     "locality": "",
     "landmark": "Kune Falls",
     "image": "https://www.hlimg.com/images/things2do/738X538/ttd_1507816803m1.jpg",
     "description": "The Kune Falls is a waterfall at Lonavla in Pune district in the Indian state of Maharashtra. It is the 14th highest waterfall in India."
-
   },
   {
     "id": 171,
@@ -1061,8 +1044,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ramoji_Film_City.jpg/330px-Ramoji_Film_City.jpg",
     "description": "Ramoji Film City is an integrated film studio complex located in Hyderabad, India. Spread over 1,666 acres, it is the largest integrated film city in the world and as such has been certified by the Guinness World Records as the largest studio complex in the world."
   },
-
-  
   {
     "id": 172,
     "state": "Rajasthan",
@@ -1073,7 +1054,6 @@
     "description": "Jaipur, popularly known as the Pink City of India, is the largest city in the state of Rajasthan. It is also the capital of Rajasthan."
   },
   {
-
     "id": 172,
     "state": "Madhya Pradesh",
     "city": "Sanchi Town",
@@ -1082,17 +1062,16 @@
     "image": "https://2.bp.blogspot.com/-fVBHMT9lOy8/W0yBpG9XZvI/AAAAAAAAH-k/NQq8FcydsTwNmL5a-qovdFYROEGDxxEbgCLcBGAs/s1600/The-Great-Sanchi-Stupa-MP%2B%25281%2529.jpg",
     "description": "The Sanchi Stupa has been the focal point of the Buddhist faith for centuries. Built-in the third century BC by Emperor Ashoka, this grand structure sits on top of a hill and inspires awe even today."
   },
-  
   {
-  "id": 173,
-  "state": "Karnataka",
-  "city": "Bengaluru",
-  "locality": "Shivajinagar",
-  "landmark": "St. Mary's Basilica Church",
-  "image": "https://en.wikipedia.org/wiki/St._Mary%27s_Basilica,_Bangalore#/media/File:St.Mary's_Basilica.jpg",
-  "description": "St. Mary's Basilica is located in Shivajinagar of Bangalore in the state of Karnataka. It is among the oldest churches in Bangalore and the first church in the state that has been elevated to the status of a minor basilica.It is famous for festivities held during the St. Mary's Feast in the month of September each year, attracting devotees from the entire region of Bangalore."
-},
-   {
+    "id": 173,
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "locality": "Shivajinagar",
+    "landmark": "St. Mary's Basilica Church",
+    "image": "https://en.wikipedia.org/wiki/St._Mary%27s_Basilica,_Bangalore#/media/File:St.Mary's_Basilica.jpg",
+    "description": "St. Mary's Basilica is located in Shivajinagar of Bangalore in the state of Karnataka. It is among the oldest churches in Bangalore and the first church in the state that has been elevated to the status of a minor basilica.It is famous for festivities held during the St. Mary's Feast in the month of September each year, attracting devotees from the entire region of Bangalore."
+  },
+  {
     "id": 174,
     "state": "Arunachal Pradesh",
     "city": "Bomdila",
@@ -1101,7 +1080,6 @@
     "image": "https://tse2.mm.bing.net/th?id=OIP.qwxO2RLpNbOqm331AkuvvQHaE8&pid=Api&P=0&w=258&h=173",
     "description": "The monastery of Bomdila is an imitation of the Tsona Gontse Monastery, located at Tsona in South Tibet"
   },
-  
   {
     "id": 175,
     "state": "Arunachal pradesh",
@@ -1119,7 +1097,6 @@
     "landmark": "Chhatrapati Shivaji Terminus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/CSTM_Mumbai_Panoramic_view_by_Dr._Raju_Kasambe_20190712_%284%29_%28cropped_and_fixed_angles%29.jpg",
     "description": "Chhatrapati Shivaji Terminus, is a historic terminal train station and UNESCO World Heritage Site in Mumbai, Maharashtra, India. The terminus was designed by British born architectural engineer Frederick William Stevens from an initial design by Axel Haig, in an exuberant Italian Gothic style."
-
   },
   {
     "id": 177,
@@ -1131,15 +1108,14 @@
     "description": "Pramukh Swami Maharaj sowed the seeds of satsang in 1976 when he visited the Vidarbha region. In 1993, Pramukh Swami Maharaj performed the hari mandir murti-pratishtha in the suburbs of Vardhmannagar. Later, in 1997, Swamishri inaugurated the Swaminarayan School. In 2004, the inauguration ceremony of the mandir shikharbaddh took place in the suburbs of Wathoda. The newly constructed murti-pratishtha of the mandir shikharbaddh was made in 2013."
   },
   {
-  "id": 178,
-  "state": "Karnataka",
-  "city": "Bengaluru",
-  "locality": "Cubbon Road, Shivajinagar",
-  "landmark": "M Chinnaswamy Stadium",
-  "image": "https://images.cricket.com/stadiums/90_actionshot_safari.jpg",
-  "description": "The M. Chinnaswamy Stadium is a cricket stadium located in Bangalore, Karnataka. Flanked by the picturesque Cubbon Park, Queen's Road, Cubbon and uptown MG Road, this five-decade old stadium is situated in the heart of the city of Bangalore It has a seating capacity of 40,000.The stadium is the home ground of IPL franchise Royal Challengers Bangalore."
-},
-
+    "id": 178,
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "locality": "Cubbon Road, Shivajinagar",
+    "landmark": "M Chinnaswamy Stadium",
+    "image": "https://images.cricket.com/stadiums/90_actionshot_safari.jpg",
+    "description": "The M. Chinnaswamy Stadium is a cricket stadium located in Bangalore, Karnataka. Flanked by the picturesque Cubbon Park, Queen's Road, Cubbon and uptown MG Road, this five-decade old stadium is situated in the heart of the city of Bangalore It has a seating capacity of 40,000.The stadium is the home ground of IPL franchise Royal Challengers Bangalore."
+  },
   {
     "id": 179,
     "state": "Andhra Pradesh",
@@ -1148,10 +1124,28 @@
     "landmark": "Sri Kala Hasti",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sri_Kala_Hasti.jpg/390px-Sri_Kala_Hasti.jpg",
     "description": "Srikalahasti Temple is located in the town of Srikalahasti, in the state of Andhra Pradesh, India. It is one of the most famous Shiva temples in South India, and is said to be the site where Kannappa was ready to offer both his eyes to cover blood flowing from the Siva linga before the Siva stopped him and granted him moksha."
+  },
+  {
+    "id": 180,
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "locality": "Verul",
+    "landmark": "Ellora Caves",
+    "image": "https://swastiktourism.net/wp-content/uploads/2019/10/kailasa-temple-at-ellora-caves-aurangabad-jy8ujdjd.jpeg",
+    "description": "Ellora is a UNESCO World Heritage Site located in the Aurangabad district of Maharashtra, India. It is one of the largest rock-cut Hindu temple cave complexes in the world, featuring Hinduism in particular and few Buddhist and Jain monuments with Artwork dating from the 600–1000 CE period.Cave 16 features the largest single monolithic rock excavation in the world, the Kailash temple, a chariot shaped monument dedicated to Lord Shiva. The Kailash temple excavation also features sculptures depicting the gods, goddesses found in Hinduism as well as relief panels summarizing the two major Hindu Epics."
+  },
+  {
+    "id": 181,
+    "state": "Maharashtra",
+    "city": "Pune",
+    "locality": "Salisbury Park",
+    "landmark": "Gool Poonawalla Garden",
+    "image": "https://lh5.googleusercontent.com/-pi9HsuO6oS0/WLzXful9xzI/AAAAAAAAfVI/CpfcZsMSXisNXTvJat9TvHJgRAIqIN9nwCLIB/photo.jpg",
+    "description": "Gool Poonawalla Garden is located in Pune City, Maharashtra India. The place is very peaceful and tranquil. It has got a pagoda for exercise as well as mud track for jogging. It is covered with trees all around."
 
   },
    {
-  "id": 180,
+  "id": 182,
   "state": "Karnataka",
   "city": "Bengaluru",
   "locality": "Mavalli",
@@ -1160,7 +1154,7 @@
   "description": "Lalbagh is an old botanical garden in Bengaluru, India. First planned and laid out during the dalavaiship of Hyder Ali and later adorned with unique plant species by his son Tippu"
 },
  {
-  "id": 181,
+  "id": 183,
   "state": "",
   "city": "",
   "locality": "",
@@ -1168,7 +1162,31 @@
   "image": "",
   "description": ""
 },
-
-
-
+  {
+    "id": 184,
+    "state": "Andhra Pradesh",
+    "city": "East Godavari",
+    "locality": "Annavaram",
+    "landmark": "Annavaram",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/AnnavaramTemple.jpg/375px-AnnavaramTemple.jpg",
+    "description": "Annavaram is a temple town on the banks of the Pampa River. It is located in East Godavari of the Indian state of Andhra Pradesh.[2] The village has the temple of Veera Venkata Satyanarayana, a form of Vishnu on the Ratnagiri Hill.[3]"
+  },
+  {
+    "id": 185,
+    "state": "Haryana",
+    "city": "Hisar",
+    "locality": "",
+    "landmark": "O P Jindal Gyan Kendra",
+    "image": "https://mapio.net/images-p/23204089.jpg",
+    "description": "Hisar is also known as the City Of Steel.OP JINDAL GYAN KENDRA is the world's 2nd highest steel structure of its kind.Its gives a full view of hisar and nearby villages.It is the best place for morning walk and also for spending sunday evening .This Kendra have a Library and Skating Ground , Swings , Museum etc.Park have a long tower which is 24 floor and the view from the last floor is amazing."
+  },
+   {
+    "id": 186,
+    "state": "Maharashtra",
+    "city": "Ahamednagar",
+    "locality": "Akole",
+    "landmark": "Kalasubai",
+    "image": "https://cdn.s3waas.gov.in/s345fbc6d3e05ebd93369ce542e8f2322d/uploads/bfi_thumb/2018030657-1-olw8smiese1tpuocva44v05isnu7ba56fxqdgjswi2.jpg",
+    "description": "Kalsubai is a mountain in the Western Ghats, located in the Indian state of Maharashtra. Its summit, situated at an elevation of 1,646 metres, is the highest point in Maharashtra."
+  }
 ]
