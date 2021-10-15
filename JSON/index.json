@@ -1126,12 +1126,49 @@
     "description": "Srikalahasti Temple is located in the town of Srikalahasti, in the state of Andhra Pradesh, India. It is one of the most famous Shiva temples in South India, and is said to be the site where Kannappa was ready to offer both his eyes to cover blood flowing from the Siva linga before the Siva stopped him and granted him moksha."
   },
   {
-    "id": 185,
+    "id": 180,
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "locality": "Verul",
+    "landmark": "Ellora Caves",
+    "image": "https://swastiktourism.net/wp-content/uploads/2019/10/kailasa-temple-at-ellora-caves-aurangabad-jy8ujdjd.jpeg",
+    "description": "Ellora is a UNESCO World Heritage Site located in the Aurangabad district of Maharashtra, India. It is one of the largest rock-cut Hindu temple cave complexes in the world, featuring Hinduism in particular and few Buddhist and Jain monuments with Artwork dating from the 600–1000 CE period.Cave 16 features the largest single monolithic rock excavation in the world, the Kailash temple, a chariot shaped monument dedicated to Lord Shiva. The Kailash temple excavation also features sculptures depicting the gods, goddesses found in Hinduism as well as relief panels summarizing the two major Hindu Epics."
+  },
+  {
+    "id": 181,
+    "state": "Maharashtra",
+    "city": "Pune",
+    "locality": "Salisbury Park",
+    "landmark": "Gool Poonawalla Garden",
+    "image": "https://lh5.googleusercontent.com/-pi9HsuO6oS0/WLzXful9xzI/AAAAAAAAfVI/CpfcZsMSXisNXTvJat9TvHJgRAIqIN9nwCLIB/photo.jpg",
+    "description": "Gool Poonawalla Garden is located in Pune City, Maharashtra India. The place is very peaceful and tranquil. It has got a pagoda for exercise as well as mud track for jogging. It is covered with trees all around."
+
+  },
+  {
+    "id": 182,
+    "state": "Andhra Pradesh",
+    "city": "East Godavari",
+    "locality": "Annavaram",
+    "landmark": "Annavaram",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/AnnavaramTemple.jpg/375px-AnnavaramTemple.jpg",
+    "description": "Annavaram is a temple town on the banks of the Pampa River. It is located in East Godavari of the Indian state of Andhra Pradesh.[2] The village has the temple of Veera Venkata Satyanarayana, a form of Vishnu on the Ratnagiri Hill.[3]"
+  },
+  {
+    "id": 183,
+    "state": "Haryana",
+    "city": "Hisar",
+    "locality": "",
+    "landmark": "O P Jindal Gyan Kendra",
+    "image": "https://mapio.net/images-p/23204089.jpg",
+    "description": "Hisar is also known as the City Of Steel.OP JINDAL GYAN KENDRA is the world's 2nd highest steel structure of its kind.Its gives a full view of hisar and nearby villages.It is the best place for morning walk and also for spending sunday evening .This Kendra have a Library and Skating Ground , Swings , Museum etc.Park have a long tower which is 24 floor and the view from the last floor is amazing."
+  },
+   {
+    "id": 184,
     "state": "Maharashtra",
     "city": "Ahamednagar",
     "locality": "Akole",
     "landmark": "Kalasubai",
     "image": "https://cdn.s3waas.gov.in/s345fbc6d3e05ebd93369ce542e8f2322d/uploads/bfi_thumb/2018030657-1-olw8smiese1tpuocva44v05isnu7ba56fxqdgjswi2.jpg",
     "description": "Kalsubai is a mountain in the Western Ghats, located in the Indian state of Maharashtra. Its summit, situated at an elevation of 1,646 metres, is the highest point in Maharashtra."
-  }
+  },
 ]
