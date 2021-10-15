@@ -1150,9 +1150,18 @@
     "description": "Srikalahasti Temple is located in the town of Srikalahasti, in the state of Andhra Pradesh, India. It is one of the most famous Shiva temples in South India, and is said to be the site where Kannappa was ready to offer both his eyes to cover blood flowing from the Siva linga before the Siva stopped him and granted him moksha."
 
   },
-
   {
     "id": 180,
+    "state": "Andhra Pradesh",
+    "city": "East Godavari",
+    "locality": "",
+    "landmark": "Annavaram",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/AnnavaramTemple.jpg/375px-AnnavaramTemple.jpg",
+    "description": "Annavaram is a temple town on the banks of the Pampa River. It is located in East Godavari of the Indian state of Andhra Pradesh.[2] The village has the temple of Veera Venkata Satyanarayana, a form of Vishnu on the Ratnagiri Hill.[3]"
+
+  },
+  {
+    "id": 181,
     "state": "Haryana",
     "city": "Hisar",
     "locality": "",
