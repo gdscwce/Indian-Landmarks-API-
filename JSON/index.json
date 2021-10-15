@@ -629,7 +629,6 @@
     "image": "https://www.dlfmallofindia.com/wp-content/uploads/2020/02/1.jpg",
     "description": "The DLF Mall of India is a shopping mall situated in Sector 18, Noida, Uttar Pradesh, India. The mall is spread over 7 floors, and includes 330 brands, 80 kiosks, 5 customized shopping zones, along with 75 food and beverages options and a movie theatre with 7 screens."
   },
-
   {
     "id": 124,
     "state": "Gujrat",
@@ -816,7 +815,6 @@
     "state": "Delhi",
     "city": "New Delhi",
     "locality": "",
-
     "landmark": "Martand Sun Temple",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Anantnag_J%26K.jpg/250px-Anantnag_J%26K.jpg",
     "description": "Anantnag ('countless springs'), is the administrative headquarters of the Anantnag district in the Indian union territory of Jammu and Kashmir."
@@ -839,7 +837,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bara_Imambara_Lucknow.jpg/1920px-Bara_Imambara_Lucknow.jpg",
     "description": "Bara Imambara, also known as Asfi Imambara is an imambara complex in Lucknow, India built by Asaf-ud-Daula, Nawab of Awadh in 1784. Bara means big. This imambara is the second largest after the Nizamat Imambara"
   },
-
   {
     "id": 149,
     "state": "Maharashtra",
@@ -867,7 +864,6 @@
     "image": "http://www.jaintirthtourism.com/mandir_photo/rishabhdev%20tapasthali.jpg",
     "description": "No of Temples: 3+1 (Kirtistambh/Glory pillar), Pahaad/Mountain: An artificial hillock 127 steps. Historical Importance: As per Jain Scriptures, this is the place where the Jungle namely Siddharth exited before in which Lord Vrushabhnath accepted Jain Diksha attained omniscience. A beautiful construction is done under motivation of Aaryika Gyanmatiji in February 2001. The ordination (Dikasha) , Tapowan, Samavsaran, Kailash mountain, cave Temple, Glory pillar are worth to see and bow. A 14 feet tall sitting posture (Padmasan) Idol, Trikal Choubisin 72 Temples are worth to see. Annual Fair: Lord Vrushabdev Diksha Kalyanak- Chaitra Vadi 9 to 11, annual fair. Lord Vrushabdev Nirwan Kalyanak- Magh K.14. Tirthkshetra established day- Magh Shukl 13."
   },
-
   {
     "id": 152,
     "state": "Uttar Pradesh",
@@ -942,7 +938,6 @@
   },
   {
     "id": 160,
-
     "state": "Haryana",
     "city": "Faridabad",
     "locality": "Ballabgarh",
@@ -1024,7 +1019,6 @@
   },
   {
     "id": 169,
-
     "state": "Delhi",
     "city": "Delhi",
     "locality": "Sansad Marg, Parliament Street",
@@ -1050,7 +1044,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ramoji_Film_City.jpg/330px-Ramoji_Film_City.jpg",
     "description": "Ramoji Film City is an integrated film studio complex located in Hyderabad, India. Spread over 1,666 acres, it is the largest integrated film city in the world and as such has been certified by the Guinness World Records as the largest studio complex in the world."
   },
-
   {
     "id": 172,
     "state": "Rajasthan",
@@ -1069,7 +1062,6 @@
     "image": "https://2.bp.blogspot.com/-fVBHMT9lOy8/W0yBpG9XZvI/AAAAAAAAH-k/NQq8FcydsTwNmL5a-qovdFYROEGDxxEbgCLcBGAs/s1600/The-Great-Sanchi-Stupa-MP%2B%25281%2529.jpg",
     "description": "The Sanchi Stupa has been the focal point of the Buddhist faith for centuries. Built-in the third century BC by Emperor Ashoka, this grand structure sits on top of a hill and inspires awe even today."
   },
-
   {
     "id": 173,
     "state": "Karnataka",
@@ -1088,7 +1080,6 @@
     "image": "https://tse2.mm.bing.net/th?id=OIP.qwxO2RLpNbOqm331AkuvvQHaE8&pid=Api&P=0&w=258&h=173",
     "description": "The monastery of Bomdila is an imitation of the Tsona Gontse Monastery, located at Tsona in South Tibet"
   },
-
   {
     "id": 175,
     "state": "Arunachal pradesh",
@@ -1125,7 +1116,6 @@
     "image": "https://images.cricket.com/stadiums/90_actionshot_safari.jpg",
     "description": "The M. Chinnaswamy Stadium is a cricket stadium located in Bangalore, Karnataka. Flanked by the picturesque Cubbon Park, Queen's Road, Cubbon and uptown MG Road, this five-decade old stadium is situated in the heart of the city of Bangalore It has a seating capacity of 40,000.The stadium is the home ground of IPL franchise Royal Challengers Bangalore."
   },
-
   {
     "id": 179,
     "state": "Andhra Pradesh",
@@ -1171,5 +1161,14 @@
     "landmark": "O P Jindal Gyan Kendra",
     "image": "https://mapio.net/images-p/23204089.jpg",
     "description": "Hisar is also known as the City Of Steel.OP JINDAL GYAN KENDRA is the world's 2nd highest steel structure of its kind.Its gives a full view of hisar and nearby villages.It is the best place for morning walk and also for spending sunday evening .This Kendra have a Library and Skating Ground , Swings , Museum etc.Park have a long tower which is 24 floor and the view from the last floor is amazing."
-  }
+  },
+   {
+    "id": 184,
+    "state": "Maharashtra",
+    "city": "Ahamednagar",
+    "locality": "Akole",
+    "landmark": "Kalasubai",
+    "image": "https://cdn.s3waas.gov.in/s345fbc6d3e05ebd93369ce542e8f2322d/uploads/bfi_thumb/2018030657-1-olw8smiese1tpuocva44v05isnu7ba56fxqdgjswi2.jpg",
+    "description": "Kalsubai is a mountain in the Western Ghats, located in the Indian state of Maharashtra. Its summit, situated at an elevation of 1,646 metres, is the highest point in Maharashtra."
+  },
 ]
