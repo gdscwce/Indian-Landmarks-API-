@@ -1187,7 +1187,7 @@
     "landmark": "Pangong Tso",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Pangong_Tso_2.jpg/1920px-Pangong_Tso_2.jpg",
     "description": "Pangong Lake is an endorheic lake spanning eastern Ladakh and West Tibet situated at an elevation of 4,225 m (13,862 ft). It is 134 km (83 mi) long and divided into five sublakes, called Pangong Tso, Tso Nyak, Rum Tso (twin lakes) and Nyak Tso"
-  }
+  },
    {
     "id": 187,
     "state": "Maharashtra",
@@ -1197,4 +1197,22 @@
     "image": "https://2.bp.blogspot.com/-0diF2fuQZsg/VMxiniZWzEI/AAAAAAAAAgE/OzYPjFniZNQ/s1600/Sai_Chowk_Pimpri_Street_Food.png",
     "description": ""
   },
+  {
+    "id": 188,
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "locality": "Malleswaram",
+    "landmark": "World Trade Center Bangalore",
+    "image": "https://en.wikipedia.org/wiki/World_Trade_Center_Bangalore#/media/File:World_Trade_Center_Banglore.jpg",
+    "description": "The World Trade Center Bangalore (WTCB) is a building complex located in Malleswaram West, Bangalore, India, which was opened for operation in 2010. Built by Brigade Group who obtained the WTCA license for its construction, the building became the second World Trade Center in India after the one in Mumbai."
+  },
+   {
+    "id": 189,
+    "state": "",
+    "city": "",
+    "locality": "",
+    "landmark": "",
+    "image": "",
+    "description": ""
+  }
 ]
