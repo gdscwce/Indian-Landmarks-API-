@@ -1143,15 +1143,15 @@
     "image": "https://lh5.googleusercontent.com/-pi9HsuO6oS0/WLzXful9xzI/AAAAAAAAfVI/CpfcZsMSXisNXTvJat9TvHJgRAIqIN9nwCLIB/photo.jpg",
     "description": "Gool Poonawalla Garden is located in Pune City, Maharashtra India. The place is very peaceful and tranquil. It has got a pagoda for exercise as well as mud track for jogging. It is covered with trees all around."
   },
-   {
-  "id": 182,
-  "state": "Karnataka",
-  "city": "Bengaluru",
-  "locality": "Mavalli",
-  "landmark": "Lalbagh",
-  "image": "https://horticulturedir.karnataka.gov.in/storage/pdf-files/Lalbagh%20images/map%20edited.jpg",
-  "description": "Lalbagh is an old botanical garden in Bengaluru, India. First planned and laid out during the dalavaiship of Hyder Ali and later adorned with unique plant species by his son Tippu"
-},
+  {
+    "id": 182,
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "locality": "Mavalli",
+    "landmark": "Lalbagh",
+    "image": "https://horticulturedir.karnataka.gov.in/storage/pdf-files/Lalbagh%20images/map%20edited.jpg",
+    "description": "Lalbagh is an old botanical garden in Bengaluru, India. First planned and laid out during the dalavaiship of Hyder Ali and later adorned with unique plant species by his son Tippu"
+  },
   {
     "id": 183,
     "state": "Andhra Pradesh",
@@ -1170,7 +1170,7 @@
     "image": "https://mapio.net/images-p/23204089.jpg",
     "description": "Hisar is also known as the City Of Steel.OP JINDAL GYAN KENDRA is the world's 2nd highest steel structure of its kind.Its gives a full view of hisar and nearby villages.It is the best place for morning walk and also for spending sunday evening .This Kendra have a Library and Skating Ground , Swings , Museum etc.Park have a long tower which is 24 floor and the view from the last floor is amazing."
   },
-   {
+  {
     "id": 185,
     "state": "Maharashtra",
     "city": "Ahamednagar",
@@ -1187,7 +1187,7 @@
     "landmark": "Pangong Tso",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Pangong_Tso_2.jpg/1920px-Pangong_Tso_2.jpg",
     "description": "Pangong Lake is an endorheic lake spanning eastern Ladakh and West Tibet situated at an elevation of 4,225 m (13,862 ft). It is 134 km (83 mi) long and divided into five sublakes, called Pangong Tso, Tso Nyak, Rum Tso (twin lakes) and Nyak Tso"
-  }
+  },
   {
     "id": 187,
     "state": "Maharashtra",
@@ -1214,5 +1214,67 @@
     "landmark": "",
     "image": "",
     "description": ""
-  }
+  },
+  {
+    "id": 190,
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "locality": "Samhaji Nagar",
+    "landmark": "Khadkeshwar",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipNr0fz8dQfKYsrupkzqKdFboVntTAr3CXDwGW5J=h100-k-no",
+    "description": "Aurangabad is known as the city of gates, as the place is well known for its large number of gates and arches around it. The place gets its name from the Mughal Emperor, Aurangzeb, and is home to a large number of historical monuments. The place was originally named Khadki by Malik Ambar"
+  },
+  {
+    "id": 191,
+    "state": "Maharashtra",
+    "city": "Pune",
+    "locality": "Khadakwasla Village",
+    "landmark": "Khadakwasla Dam",
+    "image": "https://misfitwanderers.com/wp-content/uploads/2019/10/Sunset-At-Khadakwasla-Dam.jpg",
+    "description": "Built on Mutha river, Khadakwasla Dam is a 1.6 km dam situated approximately 20 km from the city. A lake is created by the dam, also known by the name of Khadakwasla. It is actually the prime water source for the city of Pune and itsy-bitsy around."
+  },
+  {
+    "id": 192,
+    "state": "Bihar",
+    "city": "Patna",
+    "locality": "West Gandhi Maidan",
+    "landmark": "Golghar",
+    "image": "https://tourism.bihar.gov.in/content/dam/bihar-tourism/images/category_a/patna/golghar/06.-Gol-Ghar.jpg/jcr:content/renditions/cq5dam.web.1280.765.jpeg",
+    "description": "The Golghar or Gol Ghar (गोलघर), is a large granary located to the west of the Gandhi Maidan in Patna, capital of Bihar state, India."
+  },
+{
+    "id": 193,
+    "state": "Maharashtra",
+    "city": "Deulgaon Raja",
+    "locality": "Balaji Faras",
+    "landmark": "Balaji Temple",
+    "image": "https://twitter.com/micnewdelhi/status/952015749689651200/photo/3",
+    "description": "Balaji temple is among the popular religious places of Maharastra and more important is that it is in Deulgaon Raja. Balaji temple has its own festival of "Lalit", celebrated by all Deulgaon Rajakars."
+  },{
+    "id": 194,
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "locality": "Ratu",
+    "landmark": "Fun castle",
+    "image": "https://www.hlimg.com/images/things2do/738X538/ttd_201811251308071543131487752747t.jpg",
+    "description": "Simple amusement park with go-karts, boating, various kids' rides & a small cafe."
+  },{
+    
+    "id": 195,
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "locality": "Ratu Road",
+    "landmark": "Gari Khana chowk",
+    "image": "https://www.ranchimunicipal.com/images/paharimandir.jpg",
+    "description": "Hillside Hindu temple dedicated to Lord Shankara, offering sweeping views of the countryside."
+  },
+{
+    "id": 196,
+    "state": "Maharashtra",
+    "city": "Ahmednagar",
+    "locality": "Khireswar Village",
+    "landmark": "Harishchandragad Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kalbhairav_pinnacle_Scj.jpg/408px-Kalbhairav_pinnacle_Scj.jpg",
+    "description": "Harishchandragad is a hill fort in the Ahmednagar district of India. Its history is linked with that of Malshej Ghat, kothale village and it has played a major role in guarding and controlling the surrounding region."
+  },
 ]
