@@ -1187,6 +1187,7 @@
     "landmark": "Pangong Tso",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Pangong_Tso_2.jpg/1920px-Pangong_Tso_2.jpg",
     "description": "Pangong Lake is an endorheic lake spanning eastern Ladakh and West Tibet situated at an elevation of 4,225 m (13,862 ft). It is 134 km (83 mi) long and divided into five sublakes, called Pangong Tso, Tso Nyak, Rum Tso (twin lakes) and Nyak Tso"
+
   },   {
     "id": 187,
     "state": "Maharashtra",
@@ -1198,22 +1199,14 @@
   },
   {
     "id": 188,
-    "state": "Maharashtra",
-    "city": "Aurangabad",
-    "locality": "Daulatabad",
-    "landmark": "Deogiri Fort",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Daulatabad_Fort_a_view.JPG",
-    "description": "Deogiri Fort, also known as Devagiri or Deogiri, is a historic fortified citadel located in Devagiri village near Aurangabad, Maharashtra, India. It was the capital of the Yadava dynasty Dhangar Gavali (9th century–14th century CE), for a brief time the capital of the Delhi Sultanate (1327–1334), and later a secondary capital of the Ahmadnagar Sultanate (1499–1636)."
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "locality": "Malleswaram",
+    "landmark": "World Trade Center Bangalore",
+    "image": "https://en.wikipedia.org/wiki/World_Trade_Center_Bangalore#/media/File:World_Trade_Center_Banglore.jpg",
+    "description": "The World Trade Center Bangalore (WTCB) is a building complex located in Malleswaram West, Bangalore, India, which was opened for operation in 2010. Built by Brigade Group who obtained the WTCA license for its construction, the building became the second World Trade Center in India after the one in Mumbai."
   },
-  {
-    "id": 189,
-    "state": "",
-    "city": "",
-    "locality": "",
-    "landmark": "",
-    "image": "",
-    "description": ""
-  },
+   
   {
     "id": 190,
     "state": "Maharashtra",
@@ -1275,5 +1268,14 @@
     "landmark": "Harishchandragad Fort",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kalbhairav_pinnacle_Scj.jpg/408px-Kalbhairav_pinnacle_Scj.jpg",
     "description": "Harishchandragad is a hill fort in the Ahmednagar district of India. Its history is linked with that of Malshej Ghat, kothale village and it has played a major role in guarding and controlling the surrounding region."
+  },
+{
+  "id": 197,
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "locality": "Daulatabad",
+    "landmark": "Deogiri Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Daulatabad_Fort_a_view.JPG",
+    "description": "Deogiri Fort, also known as Devagiri or Deogiri, is a historic fortified citadel located in Devagiri village near Aurangabad, Maharashtra, India. It was the capital of the Yadava dynasty Dhangar Gavali (9th century–14th century CE), for a brief time the capital of the Delhi Sultanate (1327–1334), and later a secondary capital of the Ahmadnagar Sultanate (1499–1636)."
   },
 ]
