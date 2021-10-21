@@ -1197,8 +1197,17 @@
     "image": "https://2.bp.blogspot.com/-0diF2fuQZsg/VMxiniZWzEI/AAAAAAAAAgE/OzYPjFniZNQ/s1600/Sai_Chowk_Pimpri_Street_Food.png",
     "description": ""
   },
-{
+  {
     "id": 188,
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "locality": "Ratu Road",
+    "landmark": "Gari Khana chowk",
+    "image": "https://www.ranchimunicipal.com/images/paharimandir.jpg",
+    "description": "Hillside Hindu temple dedicated to Lord Shankara, offering sweeping views of the countryside."
+  },
+{
+    "id": 189,
     "state": "Maharashtra",
     "city": "Ahmednagar",
     "locality": "Khireswar Village",
@@ -1207,7 +1216,7 @@
     "description": "Harishchandragad is a hill fort in the Ahmednagar district of India. Its history is linked with that of Malshej Ghat, kothale village and it has played a major role in guarding and controlling the surrounding region."
   },
   {
-    "id": 189,
+    "id": 190,
     "state": "Maharashtra",
     "city": "Aurangabad",
     "locality": "Samhaji Nagar",
@@ -1216,7 +1225,7 @@
     "description": "Aurangabad is known as the city of gates, as the place is well known for its large number of gates and arches around it. The place gets its name from the Mughal Emperor, Aurangzeb, and is home to a large number of historical monuments. The place was originally named Khadki by Malik Ambar"
   },
   {
-    "id": 190,
+    "id": 191,
     "state": "Maharashtra",
     "city": "Pune",
     "locality": "Khadakwasla Village",
@@ -1225,7 +1234,7 @@
     "description": "Built on Mutha river, Khadakwasla Dam is a 1.6 km dam situated approximately 20 km from the city. A lake is created by the dam, also known by the name of Khadakwasla. It is actually the prime water source for the city of Pune and itsy-bitsy around."
   },
   {
-    "id": 191,
+    "id": 192,
     "state": "Bihar",
     "city": "Patna",
     "locality": "West Gandhi Maidan",
@@ -1234,7 +1243,7 @@
     "description": "The Golghar or Gol Ghar (गोलघर), is a large granary located to the west of the Gandhi Maidan in Patna, capital of Bihar state, India."
   },
 {
-    "id": 192,
+    "id": 193,
     "state": "Maharashtra",
     "city": "Deulgaon Raja",
     "locality": "Balaji Faras",
