@@ -1198,23 +1198,22 @@
     "description": ""
   },
   {
-    
     "id": 188,
-    "state": "Jharkhand",
-    "city": "Ranchi",
-    "locality": "Ratu Road",
-    "landmark": "Gari Khana chowk",
-    "image": "https://www.ranchimunicipal.com/images/paharimandir.jpg",
-    "description": "Hillside Hindu temple dedicated to Lord Shankara, offering sweeping views of the countryside."
-  },
-{
-    "id": 189,
     "state": "Maharashtra",
-    "city": "Ahmednagar",
-    "locality": "Khireswar Village",
-    "landmark": "Harishchandragad Fort",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kalbhairav_pinnacle_Scj.jpg/408px-Kalbhairav_pinnacle_Scj.jpg",
-    "description": "Harishchandragad is a hill fort in the Ahmednagar district of India. Its history is linked with that of Malshej Ghat, kothale village and it has played a major role in guarding and controlling the surrounding region."
+    "city": "Aurangabad",
+    "locality": "Daulatabad",
+    "landmark": "Deogiri Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Daulatabad_Fort_a_view.JPG",
+    "description": "Deogiri Fort, also known as Devagiri or Deogiri, is a historic fortified citadel located in Devagiri village near Aurangabad, Maharashtra, India. It was the capital of the Yadava dynasty Dhangar Gavali (9th century–14th century CE), for a brief time the capital of the Delhi Sultanate (1327–1334), and later a secondary capital of the Ahmadnagar Sultanate (1499–1636)."
+  },
+  {
+    "id": 189,
+    "state": "",
+    "city": "",
+    "locality": "",
+    "landmark": "",
+    "image": "",
+    "description": ""
   },
   {
     "id": 190,
@@ -1259,5 +1258,23 @@
     "landmark": "Fun castle",
     "image": "https://www.hlimg.com/images/things2do/738X538/ttd_201811251308071543131487752747t.jpg",
     "description": "Simple amusement park with go-karts, boating, various kids' rides & a small cafe."
-  }
+  },{
+    
+    "id": 195,
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "locality": "Ratu Road",
+    "landmark": "Gari Khana chowk",
+    "image": "https://www.ranchimunicipal.com/images/paharimandir.jpg",
+    "description": "Hillside Hindu temple dedicated to Lord Shankara, offering sweeping views of the countryside."
+  },
+{
+    "id": 196,
+    "state": "Maharashtra",
+    "city": "Ahmednagar",
+    "locality": "Khireswar Village",
+    "landmark": "Harishchandragad Fort",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kalbhairav_pinnacle_Scj.jpg/408px-Kalbhairav_pinnacle_Scj.jpg",
+    "description": "Harishchandragad is a hill fort in the Ahmednagar district of India. Its history is linked with that of Malshej Ghat, kothale village and it has played a major role in guarding and controlling the surrounding region."
+  },
 ]
