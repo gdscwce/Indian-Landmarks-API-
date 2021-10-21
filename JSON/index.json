@@ -1198,6 +1198,7 @@
     "description": ""
   },
   {
+    
     "id": 188,
     "state": "Jharkhand",
     "city": "Ranchi",
@@ -1250,6 +1251,13 @@
     "landmark": "Balaji Temple",
     "image": "https://twitter.com/micnewdelhi/status/952015749689651200/photo/3",
     "description": "Balaji temple is among the popular religious places of Maharastra and more important is that it is in Deulgaon Raja. Balaji temple has its own festival of "Lalit", celebrated by all Deulgaon Rajakars."
-
-  },
+  },{
+    "id": 194,
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "locality": "Ratu",
+    "landmark": "Fun castle",
+    "image": "https://www.hlimg.com/images/things2do/738X538/ttd_201811251308071543131487752747t.jpg",
+    "description": "Simple amusement park with go-karts, boating, various kids' rides & a small cafe."
+  }
 ]
