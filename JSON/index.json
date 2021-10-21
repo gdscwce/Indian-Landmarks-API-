@@ -1208,11 +1208,21 @@
   },
   {
     "id": 189,
-    "state": "",
-    "city": "",
-    "locality": "",
-    "landmark": "",
-    "image": "",
-    "description": ""
-  }
+    "state": "Bihar",
+    "city": "Patna",
+    "locality": "West Gandhi Maidan",
+    "landmark": "Golghar",
+    "image": "https://tourism.bihar.gov.in/content/dam/bihar-tourism/images/category_a/patna/golghar/06.-Gol-Ghar.jpg/jcr:content/renditions/cq5dam.web.1280.765.jpeg",
+    "description": "The Golghar or Gol Ghar (गोलघर), is a large granary located to the west of the Gandhi Maidan in Patna, capital of Bihar state, India."
+  },
+{
+    "id": 190,
+    "state": "Maharashtra",
+    "city": "Deulgaon Raja",
+    "locality": "Balaji Faras",
+    "landmark": "Balaji Temple",
+    "image": "https://twitter.com/micnewdelhi/status/952015749689651200/photo/3",
+    "description": "Balaji temple is among the popular religious places of Maharastra and more important is that it is in Deulgaon Raja. Balaji temple has its own festival of "Lalit", celebrated by all Deulgaon Rajakars."
+
+  },
 ]
