@@ -1284,7 +1284,7 @@
     "city": "Nanded",
     "locality": "Bhokar",
     "landmark": "Sachkhand Gurudwara",
-    "image": "https://nanded.gov.in/tourist-place/sachkhand-gurudwara/,
+    "image": "https://nanded.gov.in/tourist-place/sachkhand-gurudwara/",
     "description": "Takhat Sachkhand Shri Hazur Abchalnagar Sahib is the main Gurudwara of Nanded and is one of the five High seats of Authority of the sikhs. This is the place where Shri GuruGobind Singhji breathed his last.The Gurudwara is situated in Nanded Town. The Gurudwara was built by Maharaja Ranjit Singhji, The great Ruler of Punjab between 1830 to 1839 A.D. Inside the Gurudwara, which contains the mortal remains of the 10th Guru, there are exhibited a number of weapons of various kinds."
   },
   { "id": 199,
@@ -1295,6 +1295,23 @@
     "image": "https://lh5.googleusercontent.com/p/AF1QipMbOumW5Gq2k6QSxFJICoah2HmV7WlcPSvm7GA7=w580-h325-n-k-no",
     "description": "Dalma Wildlife Sanctuary is located 10 km from the city of Jamshedpur in the state of Jharkhand. Inaugurated in 1975 it is a notable wildlife sanctuary and contains significant population of Indian Elephants."
 
-  }
+  },{
+  "id": 200,
+  "state": "Uttarakhand",
+  "city": "Satpuli",
+  "locality": "Satpuli",
+  "landmark": "Has seven bridges ",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/View_Satpuli_Banghat_SIde.jpg",
+  "description": "Satpuli is located on the southern banks of the Nayaar (East) river, a kilometer away from the confluence of the Nayaar (East) and Nayaar (West) rivers. It is also connected to Banghat, which is where the unified Nayaar river meets the Ganga river."
+},
+{
+  "id": 201,
+  "state": "",
+  "city": "",
+  "locality": "",
+  "landmark": "",
+  "image": "",
+  "description": ""
+}
 
 ]
