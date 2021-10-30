@@ -1241,7 +1241,7 @@
     "locality": "Balaji Faras",
     "landmark": "Balaji Temple",
     "image": "https://twitter.com/micnewdelhi/status/952015749689651200/photo/3",
-    "description": "Balaji temple is among the popular religious places of Maharastra and more important is that it is in Deulgaon Raja. Balaji temple has its own festival of "Lalit", celebrated by all Deulgaon Rajakars."
+    "description": "Balaji temple is among the popular religious places of Maharastra and more important is that it is in Deulgaon Raja. Balaji temple has its own festival of Lalit, celebrated by all Deulgaon Rajakars."
   },{
     "id": 194,
     "state": "Jharkhand",
@@ -1284,7 +1284,7 @@
     "city": "Nanded",
     "locality": "Bhokar",
     "landmark": "Sachkhand Gurudwara",
-    "image": "https://nanded.gov.in/tourist-place/sachkhand-gurudwara/,
+    "image": "https://nanded.gov.in/tourist-place/sachkhand-gurudwara/",
     "description": "Takhat Sachkhand Shri Hazur Abchalnagar Sahib is the main Gurudwara of Nanded and is one of the five High seats of Authority of the sikhs. This is the place where Shri GuruGobind Singhji breathed his last.The Gurudwara is situated in Nanded Town. The Gurudwara was built by Maharaja Ranjit Singhji, The great Ruler of Punjab between 1830 to 1839 A.D. Inside the Gurudwara, which contains the mortal remains of the 10th Guru, there are exhibited a number of weapons of various kinds."
   },
   { "id": 199,
@@ -1294,6 +1294,25 @@
     "landmark": "Dalma Wildlife Sanctuary",
     "image": "https://lh5.googleusercontent.com/p/AF1QipMbOumW5Gq2k6QSxFJICoah2HmV7WlcPSvm7GA7=w580-h325-n-k-no",
     "description": "Dalma Wildlife Sanctuary is located 10 km from the city of Jamshedpur in the state of Jharkhand. Inaugurated in 1975 it is a notable wildlife sanctuary and contains significant population of Indian Elephants."
+
+  },
+  {
+    "id": 200,
+    "state": "Himachal Pradesh",
+    "city": "Manali",
+    "locality": "",
+    "landmark": "Hidimba Devi Temple",
+    "image": "https://hellolife4u.com/wp-content/uploads/2020/09/hadimba1-1050x675.jpg",
+    "description": "Hidimba Devi Temple, locally known as Dhungari Temple,also known variously as the Hadimba Temple, is located in Manāli, a hill station in the State of Himāchal Pradesh in north India. It is an ancient cave temple dedicated to Hidimbi Devi, wife of Bhima, a figure in the Indian epic Mahābhārata."
+  },
+  {
+    "id": 201,
+    "state": "West Bengal",
+    "city": "Siliguri",
+    "locality": "",
+    "landmark": "ISKCON Siliguri, Sri Sri Radha Madhavsundara",
+    "image": "https://youimg1.c-ctrip.com/target/ww0f1f000001gnkui6BA3_C_750_500.png?proc=source%2ftrip",
+    "description": "Sri Sri Radha Madhava Sundar Mandir (ISKCON Siliguri) is one of the biggest Krishna centres in the North-Eastern region of India."
 
   }
 
