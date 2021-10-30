@@ -1188,7 +1188,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Pangong_Tso_2.jpg/1920px-Pangong_Tso_2.jpg",
     "description": "Pangong Lake is an endorheic lake spanning eastern Ladakh and West Tibet situated at an elevation of 4,225 m (13,862 ft). It is 134 km (83 mi) long and divided into five sublakes, called Pangong Tso, Tso Nyak, Rum Tso (twin lakes) and Nyak Tso"
 
-  },   {
+  },   
+  {
     "id": 187,
     "state": "Maharashtra",
     "city": "Pune",
@@ -1242,7 +1243,8 @@
     "landmark": "Balaji Temple",
     "image": "https://twitter.com/micnewdelhi/status/952015749689651200/photo/3",
     "description": "Balaji temple is among the popular religious places of Maharastra and more important is that it is in Deulgaon Raja. Balaji temple has its own festival of Lalit, celebrated by all Deulgaon Rajakars."
-  },{
+  },
+  {
     "id": 194,
     "state": "Jharkhand",
     "city": "Ranchi",
@@ -1250,8 +1252,8 @@
     "landmark": "Fun castle",
     "image": "https://www.hlimg.com/images/things2do/738X538/ttd_201811251308071543131487752747t.jpg",
     "description": "Simple amusement park with go-karts, boating, various kids' rides & a small cafe."
-  },{
-    
+  },
+{    
     "id": 195,
     "state": "Jharkhand",
     "city": "Ranchi",
@@ -1294,7 +1296,24 @@
     "landmark": "Dalma Wildlife Sanctuary",
     "image": "https://lh5.googleusercontent.com/p/AF1QipMbOumW5Gq2k6QSxFJICoah2HmV7WlcPSvm7GA7=w580-h325-n-k-no",
     "description": "Dalma Wildlife Sanctuary is located 10 km from the city of Jamshedpur in the state of Jharkhand. Inaugurated in 1975 it is a notable wildlife sanctuary and contains significant population of Indian Elephants."
-
+  },
+{
+  "id": 200,
+  "state": "Uttarakhand",
+  "city": "Satpuli",
+  "locality": "Satpuli",
+  "landmark": "Has seven bridges ",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/View_Satpuli_Banghat_SIde.jpg",
+  "description": "Satpuli is located on the southern banks of the Nayaar (East) river, a kilometer away from the confluence of the Nayaar (East) and Nayaar (West) rivers. It is also connected to Banghat, which is where the unified Nayaar river meets the Ganga river."
+},
+{
+  "id": 201,
+  "state": "",
+  "city": "",
+  "locality": "",
+  "landmark": "",
+  "image": "",
+  "description": ""
   },
   {
     "id": 200,
@@ -1315,5 +1334,4 @@
     "description": "Sri Sri Radha Madhava Sundar Mandir (ISKCON Siliguri) is one of the biggest Krishna centres in the North-Eastern region of India."
 
   }
-
 ]
