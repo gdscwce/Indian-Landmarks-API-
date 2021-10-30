@@ -1188,7 +1188,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Pangong_Tso_2.jpg/1920px-Pangong_Tso_2.jpg",
     "description": "Pangong Lake is an endorheic lake spanning eastern Ladakh and West Tibet situated at an elevation of 4,225 m (13,862 ft). It is 134 km (83 mi) long and divided into five sublakes, called Pangong Tso, Tso Nyak, Rum Tso (twin lakes) and Nyak Tso"
 
-  },   {
+  },   
+  {
     "id": 187,
     "state": "Maharashtra",
     "city": "Pune",
@@ -1241,8 +1242,9 @@
     "locality": "Balaji Faras",
     "landmark": "Balaji Temple",
     "image": "https://twitter.com/micnewdelhi/status/952015749689651200/photo/3",
-    "description": "Balaji temple is among the popular religious places of Maharastra and more important is that it is in Deulgaon Raja. Balaji temple has its own festival of "Lalit", celebrated by all Deulgaon Rajakars."
-  },{
+    "description": "Balaji temple is among the popular religious places of Maharastra and more important is that it is in Deulgaon Raja. Balaji temple has its own festival of Lalit, celebrated by all Deulgaon Rajakars."
+  },
+  {
     "id": 194,
     "state": "Jharkhand",
     "city": "Ranchi",
@@ -1250,8 +1252,8 @@
     "landmark": "Fun castle",
     "image": "https://www.hlimg.com/images/things2do/738X538/ttd_201811251308071543131487752747t.jpg",
     "description": "Simple amusement park with go-karts, boating, various kids' rides & a small cafe."
-  },{
-    
+  },
+{    
     "id": 195,
     "state": "Jharkhand",
     "city": "Ranchi",
@@ -1294,8 +1296,8 @@
     "landmark": "Dalma Wildlife Sanctuary",
     "image": "https://lh5.googleusercontent.com/p/AF1QipMbOumW5Gq2k6QSxFJICoah2HmV7WlcPSvm7GA7=w580-h325-n-k-no",
     "description": "Dalma Wildlife Sanctuary is located 10 km from the city of Jamshedpur in the state of Jharkhand. Inaugurated in 1975 it is a notable wildlife sanctuary and contains significant population of Indian Elephants."
-
-  },{
+  },
+{
   "id": 200,
   "state": "Uttarakhand",
   "city": "Satpuli",
@@ -1312,6 +1314,24 @@
   "landmark": "",
   "image": "",
   "description": ""
-}
+  },
+  {
+    "id": 200,
+    "state": "Himachal Pradesh",
+    "city": "Manali",
+    "locality": "",
+    "landmark": "Hidimba Devi Temple",
+    "image": "https://hellolife4u.com/wp-content/uploads/2020/09/hadimba1-1050x675.jpg",
+    "description": "Hidimba Devi Temple, locally known as Dhungari Temple,also known variously as the Hadimba Temple, is located in Manāli, a hill station in the State of Himāchal Pradesh in north India. It is an ancient cave temple dedicated to Hidimbi Devi, wife of Bhima, a figure in the Indian epic Mahābhārata."
+  },
+  {
+    "id": 201,
+    "state": "West Bengal",
+    "city": "Siliguri",
+    "locality": "",
+    "landmark": "ISKCON Siliguri, Sri Sri Radha Madhavsundara",
+    "image": "https://youimg1.c-ctrip.com/target/ww0f1f000001gnkui6BA3_C_750_500.png?proc=source%2ftrip",
+    "description": "Sri Sri Radha Madhava Sundar Mandir (ISKCON Siliguri) is one of the biggest Krishna centres in the North-Eastern region of India."
 
+  }
 ]
