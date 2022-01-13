@@ -1248,8 +1248,9 @@
     "locality": "Balaji Faras",
     "landmark": "Balaji Temple",
     "image": "https://twitter.com/micnewdelhi/status/952015749689651200/photo/3",
-    "description": "Balaji temple is among the popular religious places of Maharastra and more important is that it is in Deulgaon Raja. Balaji temple has its own festival of "Lalit", celebrated by all Deulgaon Rajakars."
-  },{
+    "description": "Balaji temple is among the popular religious places of Maharashtra and more important is that it is in Deulgaon Raja. Balaji temple has its own festival of "Lalit", celebrated by all Deulgaon Rajakars."
+  },
+  {
     "id": 194,
     "state": "Jharkhand",
     "city": "Ranchi",
@@ -1257,7 +1258,8 @@
     "landmark": "Fun castle",
     "image": "https://www.hlimg.com/images/things2do/738X538/ttd_201811251308071543131487752747t.jpg",
     "description": "Simple amusement park with go-karts, boating, various kids' rides & a small cafe."
-  },{
+  },
+  {
     
     "id": 195,
     "state": "Jharkhand",
@@ -1275,5 +1277,5 @@
     "landmark": "Harishchandragad Fort",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kalbhairav_pinnacle_Scj.jpg/408px-Kalbhairav_pinnacle_Scj.jpg",
     "description": "Harishchandragad is a hill fort in the Ahmednagar district of India. Its history is linked with that of Malshej Ghat, kothale village and it has played a major role in guarding and controlling the surrounding region."
-  },
+  }
 ]
