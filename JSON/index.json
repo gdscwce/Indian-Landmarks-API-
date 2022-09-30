@@ -1301,6 +1301,15 @@
     "image": "https://www.southerntravelsindia.com/EntityImage/2868.jpg",
     "description": " Buddha Smrithi temple along with fabulous view of whole city from the unexpressible cave chamar leni"
   },
+{
+    "id": 209,
+    "state": "Maharashtra",
+    "city": "Gadchiroli",
+    "locality": "Gadchiroli",
+    "landmark": "Semana Park",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFE4Epq3qQF8MeuXARGd6Z-X6yD4H3ab3cFQ&usqp=CAU",
+    "description": "Gadchiroli district was carved out on the 26th of August 1982 by the division of erstwhile Chandrapur district."
+},
   {
     "id": 203,
     "state": "maharashtra",
@@ -1319,6 +1328,7 @@
     "landmark": "Mahankali Temple",
     "image": "https://thumbs.dreamstime.com/b/entrance-shree-mahakali-temple-chandrapur-entrance-shree-mahakali-temple-chandrapur-chanda-maharashtra-india-asia-251094390.jpg",
     "description": ""
+
   }
     ]
 
