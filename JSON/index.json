@@ -1366,4 +1366,14 @@
     "description": "Airoli lies in the middle connecting two og the biggest cities, Mumbai & Navi Mumbai. Has awsome sceneries"
 
   }
+{
+    "id": 203,
+    "state": "Maharashtra",
+    "city": "Jalgaon",
+    "locality": "Jalgaon",
+    "landmark": "Ajanta Caves",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fplace%2FAjanta-Caves&psig=AOvVaw0NsEGupyi8tyODo5QuQSQN&ust=1664642136208000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICqnqv5vPoCFQAAAAAdAAAAABAD",
+    "description": "Ajanta Caves is the most ancient caves of whole Indian history which clearly depicts the buddhist culture through their paintings."
+
+  }
 ]
