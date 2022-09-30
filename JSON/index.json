@@ -1428,6 +1428,15 @@
     "landmark": "Chamar Cave",
     "image": "https://www.southerntravelsindia.com/EntityImage/2868.jpg",
     "description": " Buddha Smrithi temple along with fabulous view of whole city from the unexpressible cave chamar leni"
-  }
+  } 
+ {
+    "id": 207,
+    "state": "Rajasthan",
+    "city": "jaypur",
+    "locality": "Near Jaypur",
+    "landmark": "Tualja Palace",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kochi%2C_Fishing_nets_at_sunset%2C_Kerala%2C_India.jpg/1280px-Kochi%2C_Fishing_nets_at_sunset%2C_Kerala%2C_India.jpg",
+    "description": "Tulaja Palace has played an important role in the history of Kerala. Fort Kochi also has several attractions like the Santa Cruz Basilica. Fort Kochi also houses many historical monuments such as the St. Francis Church, the first church of Vasco da Gama, the Dutch Seminary, the China Vela and many others."
+  },
     ]
 
