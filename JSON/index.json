@@ -1235,15 +1235,6 @@
     "image": "https://tourism.bihar.gov.in/content/dam/bihar-tourism/images/category_a/patna/golghar/06.-Gol-Ghar.jpg/jcr:content/renditions/cq5dam.web.1280.765.jpeg",
     "description": "The Golghar or Gol Ghar (गोलघर), is a large granary located to the west of the Gandhi Maidan in Patna, capital of Bihar state, India."
   },
-{
-    "id": 193,
-    "state": "Maharashtra",
-    "city": "Deulgaon Raja",
-    "locality": "Balaji Faras",
-    "landmark": "Balaji Temple",
-    "image": "https://twitter.com/micnewdelhi/status/952015749689651200/photo/3",
-    "description": "Balaji temple is among the popular religious places of Maharastra and more important is that it is in Deulgaon Raja. Balaji temple has its own festival of Lalit, celebrated by all Deulgaon Rajakars."
-  },
   {
     "id": 194,
     "state": "Jharkhand",
@@ -1253,7 +1244,7 @@
     "image": "https://www.hlimg.com/images/things2do/738X538/ttd_201811251308071543131487752747t.jpg",
     "description": "Simple amusement park with go-karts, boating, various kids' rides & a small cafe."
   },
-{    
+{
     "id": 195,
     "state": "Jharkhand",
     "city": "Ranchi",
@@ -1271,125 +1262,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kalbhairav_pinnacle_Scj.jpg/408px-Kalbhairav_pinnacle_Scj.jpg",
     "description": "Harishchandragad is a hill fort in the Ahmednagar district of India. Its history is linked with that of Malshej Ghat, kothale village and it has played a major role in guarding and controlling the surrounding region."
   },
-{
-  "id": 197,
-    "state": "Maharashtra",
-    "city": "Aurangabad",
-    "locality": "Daulatabad",
-    "landmark": "Deogiri Fort",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Daulatabad_Fort_a_view.JPG",
-    "description": "Deogiri Fort, also known as Devagiri or Deogiri, is a historic fortified citadel located in Devagiri village near Aurangabad, Maharashtra, India. It was the capital of the Yadava dynasty Dhangar Gavali (9th century–14th century CE), for a brief time the capital of the Delhi Sultanate (1327–1334), and later a secondary capital of the Ahmadnagar Sultanate (1499–1636)."
-  },
-  {
-  "id": 198,
-    "state": "Maharashtra",
-    "city": "Nanded",
-    "locality": "Bhokar",
-    "landmark": "Sachkhand Gurudwara",
-    "image": "https://nanded.gov.in/tourist-place/sachkhand-gurudwara/",
-    "description": "Takhat Sachkhand Shri Hazur Abchalnagar Sahib is the main Gurudwara of Nanded and is one of the five High seats of Authority of the sikhs. This is the place where Shri GuruGobind Singhji breathed his last.The Gurudwara is situated in Nanded Town. The Gurudwara was built by Maharaja Ranjit Singhji, The great Ruler of Punjab between 1830 to 1839 A.D. Inside the Gurudwara, which contains the mortal remains of the 10th Guru, there are exhibited a number of weapons of various kinds."
-  },
-  { "id": 199,
-    "state": "Jharkhand",
-      "city": "Jamshedpur",
-    "locality": "Jamshedpur",
-    "landmark": "Dalma Wildlife Sanctuary",
-    "image": "https://lh5.googleusercontent.com/p/AF1QipMbOumW5Gq2k6QSxFJICoah2HmV7WlcPSvm7GA7=w580-h325-n-k-no",
-    "description": "Dalma Wildlife Sanctuary is located 10 km from the city of Jamshedpur in the state of Jharkhand. Inaugurated in 1975 it is a notable wildlife sanctuary and contains significant population of Indian Elephants."
-  },
-{
-  "id": 200,
-  "state": "Uttarakhand",
-  "city": "Satpuli",
-  "locality": "Satpuli",
-  "landmark": "Has seven bridges ",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/View_Satpuli_Banghat_SIde.jpg",
-  "description": "Satpuli is located on the southern banks of the Nayaar (East) river, a kilometer away from the confluence of the Nayaar (East) and Nayaar (West) rivers. It is also connected to Banghat, which is where the unified Nayaar river meets the Ganga river."
-},
-{
-  "id": 201,
-  "state": "",
-  "city": "",
-  "locality": "",
-  "landmark": "",
-  "image": "",
-  "description": ""
-  },
-  {
-    "id": 200,
-    "state": "Himachal Pradesh",
-    "city": "Manali",
-    "locality": "",
-    "landmark": "Hidimba Devi Temple",
-    "image": "https://hellolife4u.com/wp-content/uploads/2020/09/hadimba1-1050x675.jpg",
-    "description": "Hidimba Devi Temple, locally known as Dhungari Temple,also known variously as the Hadimba Temple, is located in Manāli, a hill station in the State of Himāchal Pradesh in north India. It is an ancient cave temple dedicated to Hidimbi Devi, wife of Bhima, a figure in the Indian epic Mahābhārata."
-  },
-  {
-    "id": 201,
-    "state": "West Bengal",
-    "city": "Siliguri",
-    "locality": "",
-    "landmark": "ISKCON Siliguri, Sri Sri Radha Madhavsundara",
-    "image": "https://youimg1.c-ctrip.com/target/ww0f1f000001gnkui6BA3_C_750_500.png?proc=source%2ftrip",
-    "description": "Sri Sri Radha Madhava Sundar Mandir (ISKCON Siliguri) is one of the biggest Krishna centres in the North-Eastern region of India."
-
-  },
-
-  
-    {
-    "id": 202,
-    "state": "West Bengal",
-    "city": "howrah",
-    "locality": "",
-    "landmark": "ISKCON Siliguri, Sri Sri Radha Madhavsundara",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/1200px-Howrah_bridge_betwixt_Lights.jpg",
-    "description": "nice bridge."
-},
-  {
-    "id": 202,
-    "state": "India",
-    "city": "Nagpur",
-    "locality": "manevada",
-    "landmark": "Haldiram",
-    "image": "https://youimg1.c-ctrip.com/target/ww0f1f000001gnkui6BA3_C_750_500.png?proc=source%2ftrip",
-    "description": "centre of india "
-
-
-  },
-  {
-    "id": 202,
-    "state": "Maharashtra",
-    "city": "Navi Mumbai",
-    "locality": "",
-    "landmark": "National Burns Hospital, Gawli Devi",
-    "image": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.punitdubey.in%2F2012%2F09%2Ftrekking-ghansoli-gawli-dev-parsik-hill.html&psig=AOvVaw2lorGTBf3WWRHVxejdlYkm&ust=1664632017329000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjXgtTTvPoCFQAAAAAdAAAAABAD",
-    "description": "Airoli lies in the middle connecting two og the biggest cities, Mumbai & Navi Mumbai. Has awsome sceneries"
-
-  }
-{
-    "id": 203,
-    "state": "Maharashtra",
-    "city": "Jalgaon",
-    "locality": "Jalgaon",
-    "landmark": "Ajanta Caves",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fplace%2FAjanta-Caves&psig=AOvVaw0NsEGupyi8tyODo5QuQSQN&ust=1664642136208000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICqnqv5vPoCFQAAAAAdAAAAABAD",
-    "description": "Ajanta Caves is the most ancient caves of whole Indian history which clearly depicts the buddhist culture through their paintings."
-
-  }
-
-  },
-
-{
-  "id":203,
-  "state":"Maharashtra",
-  "city":"Tasgaon",
-  locality="",
-  "landmark":"Ganapati Mandir",
-  "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F05%2Fbe%2F26%2F35%2Fsangli-fort.jpg%3Fw%3D400%26h%3D300%26s%3D1&imgrefurl=https%3A%2F%2Fwww.tripadvisor.in%2FTourism-g8521067-Tasgaon_Sangli_District_Maharashtra-Vacations.html&tbnid=yo4A6iUOAlnsMM&vet=12ahUKEwi_6oOggr36AhWsKbcAHfqgCNEQMygAegUIARDfAQ..i&docid=ultJenGKWKvbAM&w=400&h=300&q=tasgaon&ved=2ahUKEwi_6oOggr36AhWsKbcAHfqgCNEQMygAegUIARDfAQ",
-  "description":"Tasgaon is city in maharashtra and a municipal council in sangli district"
-  
-}
-
 ]
 
   {
