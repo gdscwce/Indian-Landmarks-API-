@@ -1355,7 +1355,7 @@
     "description": "centre of india "
 
 
-  }
+  },
   {
     "id": 202,
     "state": "Maharashtra",
@@ -1376,4 +1376,58 @@
     "description": "Ajanta Caves is the most ancient caves of whole Indian history which clearly depicts the buddhist culture through their paintings."
 
   }
+
+  },
+
+{
+  "id":203,
+  "state":"Maharashtra",
+  "city":"Tasgaon",
+  locality="",
+  "landmark":"Ganapati Mandir",
+  "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F05%2Fbe%2F26%2F35%2Fsangli-fort.jpg%3Fw%3D400%26h%3D300%26s%3D1&imgrefurl=https%3A%2F%2Fwww.tripadvisor.in%2FTourism-g8521067-Tasgaon_Sangli_District_Maharashtra-Vacations.html&tbnid=yo4A6iUOAlnsMM&vet=12ahUKEwi_6oOggr36AhWsKbcAHfqgCNEQMygAegUIARDfAQ..i&docid=ultJenGKWKvbAM&w=400&h=300&q=tasgaon&ved=2ahUKEwi_6oOggr36AhWsKbcAHfqgCNEQMygAegUIARDfAQ",
+  "description":"Tasgaon is city in maharashtra and a municipal council in sangli district"
+  
+}
+
 ]
+
+  {
+    "id": 203,
+    "state": "Maharashtra",
+    "city": "Satara",
+    "locality": "",
+    "landmark": "Kas Plateau Reserved Forest",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Kaas-7016.jpg/1920px-Kaas-7016.jpg",
+    "description": "The Kas Plateau Reserved Forest, also known as the Kaas Pathar, is a plateau situated 25 kilometres west from Satara city in Maharashtra, India. It falls under the Sahyadri Sub Cluster of the Western Ghats, and it became a part of a UNESCO World Natural Heritage Site in 2012."
+
+  },
+  {
+    "id": 204,
+    "state": "Kerala",
+    "city": "Cochin",
+    "locality": "Emakulam",
+    "landmark": "Fort Kochi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kochi%2C_Fishing_nets_at_sunset%2C_Kerala%2C_India.jpg/1280px-Kochi%2C_Fishing_nets_at_sunset%2C_Kerala%2C_India.jpg",
+    "description": "Fort Kochi has played an important role in the history of Kerala. Fort Kochi also has several attractions like the Santa Cruz Basilica. Fort Kochi also houses many historical monuments such as the St. Francis Church, the first church of Vasco da Gama, the Dutch Seminary, the China Vela and many others."
+  },
+    {
+    "id": 205,
+    "state": "Maharashtra",
+    "city": "Nashik",
+    "locality": "Bombay Naka",
+    "landmark": "Chamar Cave",
+    "image": "https://www.southerntravelsindia.com/EntityImage/2868.jpg",
+    "description": " Buddha Smrithi temple along with fabulous view of whole city from the unexpressible cave chamar leni"
+  },
+   {
+    "id": 206,
+    "state": "Maharashtra",
+    "city": "amravati",
+    "locality": "ahamadnagar",
+    "landmark": "Chamar Cave",
+    "image": "https://www.southerntravelsindia.com/EntityImage/2868.jpg",
+    "description": " Buddha Smrithi temple along with fabulous view of whole city from the unexpressible cave chamar leni"
+  }
+    ]
+
