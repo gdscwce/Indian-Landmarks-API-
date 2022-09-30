@@ -1365,6 +1365,18 @@
     "image": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.punitdubey.in%2F2012%2F09%2Ftrekking-ghansoli-gawli-dev-parsik-hill.html&psig=AOvVaw2lorGTBf3WWRHVxejdlYkm&ust=1664632017329000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjXgtTTvPoCFQAAAAAdAAAAABAD",
     "description": "Airoli lies in the middle connecting two og the biggest cities, Mumbai & Navi Mumbai. Has awsome sceneries"
 
+  }
+{
+    "id": 203,
+    "state": "Maharashtra",
+    "city": "Jalgaon",
+    "locality": "Jalgaon",
+    "landmark": "Ajanta Caves",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fplace%2FAjanta-Caves&psig=AOvVaw0NsEGupyi8tyODo5QuQSQN&ust=1664642136208000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICqnqv5vPoCFQAAAAAdAAAAABAD",
+    "description": "Ajanta Caves is the most ancient caves of whole Indian history which clearly depicts the buddhist culture through their paintings."
+
+  }
+
   },
 
 {
@@ -1377,6 +1389,7 @@
   "description":"Tasgaon is city in maharashtra and a municipal council in sangli district"
   
 }
+
 ]
 
   {
