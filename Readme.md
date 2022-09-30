@@ -23,6 +23,9 @@
 <li>GET Landmark by Country/ZipCode --- 
     Country/ZipCode
 </li>
+<li>GET Landmark by Country/State/ZipCode --- 
+    Country/State/ZipCode
+</li>
 
 ### Make a contribution
 Submit a Pull Request, with your landmark added to the JSON/index.json file. Make sure the landmark is in this format:
