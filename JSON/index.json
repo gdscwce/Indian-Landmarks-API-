@@ -1366,6 +1366,19 @@
     "description": "Airoli lies in the middle connecting two og the biggest cities, Mumbai & Navi Mumbai. Has awsome sceneries"
 
   },
+
+{
+  "id":203,
+  "state":"Maharashtra",
+  "city":"Tasgaon",
+  locality="",
+  "landmark":"Ganapati Mandir",
+  "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F05%2Fbe%2F26%2F35%2Fsangli-fort.jpg%3Fw%3D400%26h%3D300%26s%3D1&imgrefurl=https%3A%2F%2Fwww.tripadvisor.in%2FTourism-g8521067-Tasgaon_Sangli_District_Maharashtra-Vacations.html&tbnid=yo4A6iUOAlnsMM&vet=12ahUKEwi_6oOggr36AhWsKbcAHfqgCNEQMygAegUIARDfAQ..i&docid=ultJenGKWKvbAM&w=400&h=300&q=tasgaon&ved=2ahUKEwi_6oOggr36AhWsKbcAHfqgCNEQMygAegUIARDfAQ",
+  "description":"Tasgaon is city in maharashtra and a municipal council in sangli district"
+  
+}
+]
+
   {
     "id": 203,
     "state": "Maharashtra",
@@ -1404,3 +1417,4 @@
     "description": " Buddha Smrithi temple along with fabulous view of whole city from the unexpressible cave chamar leni"
   }
     ]
+
