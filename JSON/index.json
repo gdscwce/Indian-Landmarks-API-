@@ -1355,7 +1355,7 @@
     "description": "centre of india "
 
 
-  }
+  },
   {
     "id": 202,
     "state": "Maharashtra",
@@ -1364,6 +1364,16 @@
     "landmark": "National Burns Hospital, Gawli Devi",
     "image": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.punitdubey.in%2F2012%2F09%2Ftrekking-ghansoli-gawli-dev-parsik-hill.html&psig=AOvVaw2lorGTBf3WWRHVxejdlYkm&ust=1664632017329000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjXgtTTvPoCFQAAAAAdAAAAABAD",
     "description": "Airoli lies in the middle connecting two og the biggest cities, Mumbai & Navi Mumbai. Has awsome sceneries"
+
+  },
+  {
+    "id": 203,
+    "state": "Maharashtra",
+    "city": "Satara",
+    "locality": "",
+    "landmark": "Kas Plateau Reserved Forest",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Kaas-7016.jpg/1920px-Kaas-7016.jpg",
+    "description": "The Kas Plateau Reserved Forest, also known as the Kaas Pathar, is a plateau situated 25 kilometres west from Satara city in Maharashtra, India. It falls under the Sahyadri Sub Cluster of the Western Ghats, and it became a part of a UNESCO World Natural Heritage Site in 2012."
 
   }
 ]
