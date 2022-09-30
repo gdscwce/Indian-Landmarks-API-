@@ -1187,7 +1187,9 @@
     "landmark": "Pangong Tso",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Pangong_Tso_2.jpg/1920px-Pangong_Tso_2.jpg",
     "description": "Pangong Lake is an endorheic lake spanning eastern Ladakh and West Tibet situated at an elevation of 4,225 m (13,862 ft). It is 134 km (83 mi) long and divided into five sublakes, called Pangong Tso, Tso Nyak, Rum Tso (twin lakes) and Nyak Tso"
-  },   {
+
+  },   
+  {
     "id": 187,
     "state": "Maharashtra",
     "city": "Pune",
@@ -1198,22 +1200,14 @@
   },
   {
     "id": 188,
-    "state": "Maharashtra",
-    "city": "Aurangabad",
-    "locality": "Daulatabad",
-    "landmark": "Deogiri Fort",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Daulatabad_Fort_a_view.JPG",
-    "description": "Deogiri Fort, also known as Devagiri or Deogiri, is a historic fortified citadel located in Devagiri village near Aurangabad, Maharashtra, India. It was the capital of the Yadava dynasty Dhangar Gavali (9th century–14th century CE), for a brief time the capital of the Delhi Sultanate (1327–1334), and later a secondary capital of the Ahmadnagar Sultanate (1499–1636)."
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "locality": "Malleswaram",
+    "landmark": "World Trade Center Bangalore",
+    "image": "https://en.wikipedia.org/wiki/World_Trade_Center_Bangalore#/media/File:World_Trade_Center_Banglore.jpg",
+    "description": "The World Trade Center Bangalore (WTCB) is a building complex located in Malleswaram West, Bangalore, India, which was opened for operation in 2010. Built by Brigade Group who obtained the WTCA license for its construction, the building became the second World Trade Center in India after the one in Mumbai."
   },
-  {
-    "id": 189,
-    "state": "",
-    "city": "",
-    "locality": "",
-    "landmark": "",
-    "image": "",
-    "description": ""
-  },
+   
   {
     "id": 190,
     "state": "Maharashtra",
@@ -1241,15 +1235,6 @@
     "image": "https://tourism.bihar.gov.in/content/dam/bihar-tourism/images/category_a/patna/golghar/06.-Gol-Ghar.jpg/jcr:content/renditions/cq5dam.web.1280.765.jpeg",
     "description": "The Golghar or Gol Ghar (गोलघर), is a large granary located to the west of the Gandhi Maidan in Patna, capital of Bihar state, India."
   },
-{
-    "id": 193,
-    "state": "Maharashtra",
-    "city": "Deulgaon Raja",
-    "locality": "Balaji Faras",
-    "landmark": "Balaji Temple",
-    "image": "https://twitter.com/micnewdelhi/status/952015749689651200/photo/3",
-    "description": "Balaji temple is among the popular religious places of Maharashtra and more important is that it is in Deulgaon Raja. Balaji temple has its own festival of "Lalit", celebrated by all Deulgaon Rajakars."
-  },
   {
     "id": 194,
     "state": "Jharkhand",
@@ -1259,8 +1244,7 @@
     "image": "https://www.hlimg.com/images/things2do/738X538/ttd_201811251308071543131487752747t.jpg",
     "description": "Simple amusement park with go-karts, boating, various kids' rides & a small cafe."
   },
-  {
-    
+{
     "id": 195,
     "state": "Jharkhand",
     "city": "Ranchi",
@@ -1277,5 +1261,45 @@
     "landmark": "Harishchandragad Fort",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kalbhairav_pinnacle_Scj.jpg/408px-Kalbhairav_pinnacle_Scj.jpg",
     "description": "Harishchandragad is a hill fort in the Ahmednagar district of India. Its history is linked with that of Malshej Ghat, kothale village and it has played a major role in guarding and controlling the surrounding region."
-  }
+  },
 ]
+
+  {
+    "id": 203,
+    "state": "Maharashtra",
+    "city": "Satara",
+    "locality": "",
+    "landmark": "Kas Plateau Reserved Forest",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Kaas-7016.jpg/1920px-Kaas-7016.jpg",
+    "description": "The Kas Plateau Reserved Forest, also known as the Kaas Pathar, is a plateau situated 25 kilometres west from Satara city in Maharashtra, India. It falls under the Sahyadri Sub Cluster of the Western Ghats, and it became a part of a UNESCO World Natural Heritage Site in 2012."
+
+  },
+  {
+    "id": 204,
+    "state": "Kerala",
+    "city": "Cochin",
+    "locality": "Emakulam",
+    "landmark": "Fort Kochi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kochi%2C_Fishing_nets_at_sunset%2C_Kerala%2C_India.jpg/1280px-Kochi%2C_Fishing_nets_at_sunset%2C_Kerala%2C_India.jpg",
+    "description": "Fort Kochi has played an important role in the history of Kerala. Fort Kochi also has several attractions like the Santa Cruz Basilica. Fort Kochi also houses many historical monuments such as the St. Francis Church, the first church of Vasco da Gama, the Dutch Seminary, the China Vela and many others."
+  },
+    {
+    "id": 205,
+    "state": "Maharashtra",
+    "city": "Nashik",
+    "locality": "Bombay Naka",
+    "landmark": "Chamar Cave",
+    "image": "https://www.southerntravelsindia.com/EntityImage/2868.jpg",
+    "description": " Buddha Smrithi temple along with fabulous view of whole city from the unexpressible cave chamar leni"
+  },
+   {
+    "id": 206,
+    "state": "Maharashtra",
+    "city": "amravati",
+    "locality": "ahamadnagar",
+    "landmark": "Chamar Cave",
+    "image": "https://www.southerntravelsindia.com/EntityImage/2868.jpg",
+    "description": " Buddha Smrithi temple along with fabulous view of whole city from the unexpressible cave chamar leni"
+  }
+    ]
+
