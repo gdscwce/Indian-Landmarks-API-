@@ -1334,6 +1334,7 @@
     "description": "Sri Sri Radha Madhava Sundar Mandir (ISKCON Siliguri) is one of the biggest Krishna centres in the North-Eastern region of India."
 
   },
+
   
     {
     "id": 202,
@@ -1343,6 +1344,16 @@
     "landmark": "ISKCON Siliguri, Sri Sri Radha Madhavsundara",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/1200px-Howrah_bridge_betwixt_Lights.jpg",
     "description": "nice bridge."
+},
+  {
+    "id": 202,
+    "state": "India",
+    "city": "Nagpur",
+    "locality": "manevada",
+    "landmark": "Haldiram",
+    "image": "https://youimg1.c-ctrip.com/target/ww0f1f000001gnkui6BA3_C_750_500.png?proc=source%2ftrip",
+    "description": "centre of india "
+
 
   }
 ]
