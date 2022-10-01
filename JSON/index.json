@@ -1339,7 +1339,17 @@
     "image": "https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_auto,h_600,q_auto,w_auto/v1/filestore/vpehzlwshbgnzw9cj04pk90sia73_shutterstock_1573930555.jpg",
     "description": "Harihar fort is located in the Nashik district of Maharashtra. It lies at an altitude of 3,676 ft from sea level.",
 
-  }
+  },
+
+   {
+    "id": 205,
+    "state": "Gujrat",
+    "city": "Himmatnagar",
+    "locality": "Mahavirnagar",
+    "landmark": "RiverFront",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipNrQF3X2a6cNvgoXpsiGnPLLRkyYpuOfi5-VuZp=w408-h306-k-no",
+    "description": "RiverFront is a great location to chill with people with a water canal in between and a lot of shops surrounding it.",
+  },
     ]
 
 
