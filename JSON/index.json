@@ -1339,7 +1339,17 @@
     "image": "https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_auto,h_600,q_auto,w_auto/v1/filestore/vpehzlwshbgnzw9cj04pk90sia73_shutterstock_1573930555.jpg",
     "description": "Harihar fort is located in the Nashik district of Maharashtra. It lies at an altitude of 3,676 ft from sea level.",
 
-  }
+  },
+
+  {
+      "id": 205,
+      "state": "Uttar Pradesh",
+      "city": "Gorakhpur",
+      "locality": "Tara Mandal Road",
+      "landmark": "Ramgarh Tal Lake",
+      "image": "https://www.jagranimages.com/images/newimg/27112020/27_11_2020-ramghadhtal_gorakhpur_21106081.jpg",
+      "description": "Located in the city of Gorakhpur, Uttar Pradesh, India; Ramghar Tal is a beautiful lake. In 1970, at its largest size, the lake covered an area of 723 hectares (1,790 acres) with a circumference of 18 kilometres (11 mi). Today, it covers about 678 hectares (1,680 acres)."
+    },
     ]
 
 
