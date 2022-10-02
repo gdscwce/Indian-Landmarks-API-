@@ -1261,6 +1261,16 @@
     "description": "Harishchandragad is a hill fort in the Ahmednagar district of India. Its history is linked with that of Malshej Ghat, kothale village and it has played a major role in guarding and controlling the surrounding region."
   },
   {
+    "id": 203,
+    "state": "Maharashtra",
+    "city": "Satara",
+    "locality": "",
+    "landmark": "Kas Plateau Reserved Forest",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Kaas-7016.jpg/1920px-Kaas-7016.jpg",
+    "description": "The Kas Plateau Reserved Forest, also known as the Kaas Pathar, is a plateau situated 25 kilometres west from Satara city in Maharashtra, India. It falls under the Sahyadri Sub Cluster of the Western Ghats, and it became a part of a UNESCO World Natural Heritage Site in 2012."
+
+  },
+  {
   "id": 203,
   "state": "Maharashtra",
   "city": "Satara",
@@ -1363,6 +1373,19 @@
     "description": "Harihar fort is located in the Nashik district of Maharashtra. It lies at an altitude of 3,676 ft from sea level."
 
   },
+  {
+    "id": 205,
+    "state" : "New Delhi",
+    "city" : "South Delhi",
+    "locality": "Kalkaji",
+    "image": "https://cdn.britannica.com/37/189837-050-F0AF383E/New-Delhi-India-War-Memorial-arch-Sir.jpg",
+    "description": "Delhi, India’s capital territory, is a massive metropolitan area in the country’s north. In Old Delhi, a neighborhood dating to the 1600s, stands the imposing Mughal-era Red Fort, a symbol of India, and the sprawling Jama Masjid mosque, whose courtyard accommodates 25,000 people. Nearby is Chandni Chowk, a vibrant bazaar filled with food carts, sweets shops and spice stalls."
+  }
+    
+
+
+  },
+
 
   {
     "id": 205,
