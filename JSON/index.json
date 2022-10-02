@@ -1339,6 +1339,17 @@
     "description": "Harihar fort is located in the Nashik district of Maharashtra. It lies at an altitude of 3,676 ft from sea level."
 
   },
+
+
+  {
+    "id": 205,
+    "state": "Gujarat",
+    "city": "Saputara",
+    "locality": "Dang District",
+    "landmark": "Saputara Hill Station",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlyyoEpHzlpE_bGE60KxoiTbsBySO6dBqdhw&usqp=CAU",
+    "description": "Saputara is a hill station located in Sahyadris or Western Ghats. Saputara town is part of Dang district in Gujarat, India. It is a tourist destination."
+  },
    {
     "id": 205,
     "state": "Gujrat",
