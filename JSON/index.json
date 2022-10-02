@@ -1262,7 +1262,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kalbhairav_pinnacle_Scj.jpg/408px-Kalbhairav_pinnacle_Scj.jpg",
     "description": "Harishchandragad is a hill fort in the Ahmednagar district of India. Its history is linked with that of Malshej Ghat, kothale village and it has played a major role in guarding and controlling the surrounding region."
   },
-]
 
   {
     "id": 203,
@@ -1350,6 +1349,13 @@
       "image": "https://www.jagranimages.com/images/newimg/27112020/27_11_2020-ramghadhtal_gorakhpur_21106081.jpg",
       "description": "Located in the city of Gorakhpur, Uttar Pradesh, India; Ramghar Tal is a beautiful lake. In 1970, at its largest size, the lake covered an area of 723 hectares (1,790 acres) with a circumference of 18 kilometres (11 mi). Today, it covers about 678 hectares (1,680 acres)."
     },
-    ]
-
-
+{
+    "id": 205,
+    "state": "Maharashtra",
+    "city": "Ausa",
+    "locality": "Khandal Galli",
+    "landmark": "Ausa Fort",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/India2012_Maharashtra_Ausa_Fort_20190314110026.JPG",
+    "description": "The fort featured prominently in the conflicts between the Deccan Sultanates in the post Bahamani period. In later days it was captured by Malik Ambar in 1014 Hijri and was renamed by him as Ambarapur which was later changed to Amrapur."
+  }
+]
