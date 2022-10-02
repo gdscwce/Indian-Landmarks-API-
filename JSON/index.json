@@ -1262,7 +1262,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kalbhairav_pinnacle_Scj.jpg/408px-Kalbhairav_pinnacle_Scj.jpg",
     "description": "Harishchandragad is a hill fort in the Ahmednagar district of India. Its history is linked with that of Malshej Ghat, kothale village and it has played a major role in guarding and controlling the surrounding region."
   },
-
   {
     "id": 203,
     "state": "Maharashtra",
@@ -1339,8 +1338,15 @@
     "description": "Harihar fort is located in the Nashik district of Maharashtra. It lies at an altitude of 3,676 ft from sea level."
 
   },
-
-
+  {
+    "id": 205,
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "locality": "Dipatoli",
+    "landmark": "Ranchi War Memorial",
+    "image": "https://www.tripadvisor.in/Attraction_Review-g662320-d12311598-Reviews-Ranchi_War_Cemetery-Ranchi_Ranchi_District_Jharkhand.html#/media-atf/12311598/317614177:p/?albumid=-160&type=0&category=-160",
+    "description": "Jharkhand War Memorial is a war memorial as a tribute to the martyrs of Jharkhand. It was established in 2008, near the Booty Chowk, Ranchi."
+  },
   {
     "id": 205,
     "state": "Gujarat",
