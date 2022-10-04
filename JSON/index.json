@@ -1487,5 +1487,14 @@
     "landmark": "Ausa Fort",
     "image": "https://www.holidify.com/images/cmsuploads/compressed/India2012_Maharashtra_Ausa_Fort_20190314110026.JPG",
     "description": "The fort featured prominently in the conflicts between the Deccan Sultanates in the post Bahamani period. In later days it was captured by Malik Ambar in 1014 Hijri and was renamed by him as Ambarapur which was later changed to Amrapur."
+  },
+{
+    "id": 206,
+    "state": "Karnataka",
+    "city": "Mangalore",
+    "locality": "Kudroli",
+    "landmark": "Sri Vidya Jewellers",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Gokarnatheshwara_Temple_7042008.jpg",
+    "description": "The Gokarnanatheshwara Temple, otherwise known as Kudroli Sri Gokarnanatha Kshetra, is in the Kudroli area of Mangalore in Karnataka, India. It was consecrated by Narayana Guru. It is dedicated to Gokarnanatha, a form of Lord Shiva."
   }
 ]
