@@ -1488,13 +1488,107 @@
     "image": "https://www.holidify.com/images/cmsuploads/compressed/India2012_Maharashtra_Ausa_Fort_20190314110026.JPG",
     "description": "The fort featured prominently in the conflicts between the Deccan Sultanates in the post Bahamani period. In later days it was captured by Malik Ambar in 1014 Hijri and was renamed by him as Ambarapur which was later changed to Amrapur."
   },
-{
+
+  {
     "id": 206,
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "locality": "Lahori Tola",
+    "landmark": "Kashi Vishwanath Temple",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202112/kashi-vishwanath-IT.jpg?DMA5M2PFycnAIh7pDUwDnVzUwdu7cYKV&size=1200:675",
+    "description": "The Kashi Vishwanath Temple is a famous Hindu temple dedicated to Lord Shiva. It is located in Vishwanath Gali of Varanasi, Uttar Pradesh in India. The temple stands on the western bank of the holy river Ganga, and is one of the twelve Jyotirlingas, the holiest of Shiva temples."
+  },
+  {
+    "id": 207,
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "locality": "Godowlia",
+    "landmark": "Dashashwamedh Ghat",
+    "image": "https://www.varanasiguru.com/wp-content/uploads/2021/03/Dashashwamedh-Ghat.jpg",
+    "description": "Dashashwamedh Ghat is one of the oldest, sacred, and most visited Ghat in Varanasi. Dashashwamedh which precisely means the Ghat of 10 sacrificed horses (Dash  ten, AshwaHorses, Medh Sacrifice). It is famous for hosting the Ganga Aarti event where hundreds of devotees and travelers participate every evening throughout the year. "
+  },
+  {
+    "id": 208,
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "locality": "Rustampur",
+    "landmark": "Sarnath",
+    "image": "https://data.agatetravel.com/images/photogallery/2019/sarnath-india.jpg",
+    "description": "Sarnath is a place located 10 kilometres northeast of Varanasi near the confluence of the Ganges and the Varuna rivers in Uttar Pradesh, India. The Deer Park in Sarnath is where Gautama Buddha first taught the Dharma, and where the Buddhist Sangha came into existence through the enlightenment of Kondanna "
+  },
+  {
+    "id": 209,
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "locality": "Jalalipura",
+    "landmark": "Namo Ghat",
+    "image": "https://images.hindustantimes.com/img/2022/04/27/1600x900/b2883a46-c630-11ec-8f8e-c061a3f3e6da_1651067394291.jpg",
+    "description": "Varanasi’s 85th ghat will be a spellbinding one after the ₹34-crore project gets completed. The renovated  ‘Khidkiya ghat’ is also known as ‘Namo Ghat’ thanks to the three large sculptures of folded hands. Don’t be surprised if Namo ghat will be the top tourist attraction in Varanasi in the coming years. Here’s what’s in store for you at Namo ghat."
+  },
+  {
+    "id": 210,
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "locality": "BHU Campus",
+    "landmark": "IIT Varnasi Gymkhana",
+    "image": "https://www.iitbhu.ac.in/sites/default/files/institute/deans/dosa/img/students_gymkhana02.jpg",
+    "description": "The Students Gymkhana manages all student activities at the prestigious IIT Varnasi campus thorough its executive and non-executive wings, the Gymkhana councils and the Students’Parliament respectively. The Director of the Institute is the patron of the Gymkhana while the Dean of Student Affairs (DoSA) acts as the ex-officio President of the Gymkhana. The Gymkhana consists of 5 Councils namely, the Cultural Council, the Science and Technology Council, the Film and Media Council, the Sports Council and the Social Service Council. Each council is headed by a General Secretary and 2 Joint General Secretaries elected by the Councils and a faculty member serving as the Counsellor."
+  },
+  {
+    "id": 211,
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "locality": "BHU Campus",
+    "landmark": "Institute of Medical Sciences(IMS BHU)",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.careerindia.com%2Fcolleges%2Fims-bhu-varanasi-uttar-pradesh-cp18813%2F&psig=AOvVaw2czOS6Ms88babjtRgJQRrz&ust=1664810317820000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMi59pGiwfoCFQAAAAAdAAAAABAD",
+    "description": "Medical education in Varanasi, the oldest living city of the world, dates from the days of Sushruta 500 BC. Infact this is also the history of Medical education in India. The great treatise - 'Sushruta Samhita' is a living testimony of contributions to Medical education that originated in Varanasi, Sushruta was the first to perform cadaver dissections and described a number of operating instruments and surgical operations. Perhaps it is a continuation of this historical perspective that Medical education in Banaras Hindu University took roots in 1920 with the establishment of Department of Ayurveda under Faculty of Oriental Learning and Theology (1922-1927)."
+  },
+  {
+    "id": 212,
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "locality": "BHU Campus",
+    "landmark": "Shri Vishwanath Mandir",
+    "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/New_Vishwanath_Temple_at_BHU.jpg/1920px-New_Vishwanath_Temple_at_BHU.jpg",
+    "description": "Shri Vishwanath Mandir also known as Vishwanath Mandir, Vishwanath Temple, New Vishwanath Temple and Birla Temple is one of the most famous Hindu temples and biggest tourist attractions in the holy city of Varanasi. The temple is situated in Banaras Hindu University and is dedicated to the Lord Shiva. Shri Vishwanath Mandir has the tallest temple tower in the world with the Shikhara's height being around 250 feet.The temple is colloquially called VT, an acronym of Vishwanath Temple."
+  },
+  {
+    "id": 213,
+    "state": "Uttar Pradesh",
+    "city": "Kanpur",
+    "locality": "GT Road, Khyora",
+    "landmark": "JK Temple",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amarujala.com%2Fphoto-gallery%2Futtar-pradesh%2Fkanpur%2Fspecial-story-about-jk-temple-kanpur&psig=AOvVaw0JI-PoGV5gXd55zaXLNRez&ust=1664810549669000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOimwpejwfoCFQAAAAAdAAAAABAF",
+    "description": "JK Temple (Juggilal Kamlapat temple) is a Hindu temple in the Indian city of Kanpur, Uttar Pradesh, India. It is considered to be a unique blend of ancient and modern architecture. The mandapa of the temple has been constructed with high roof for adequate ventilation of light and air. The temple was constructed by JK Trust and major maintenance expenses of the temple also comes from the trust fund. The temple is also popularly known as Radhakrishna Temple."
+  },
+  {
+    "id": 214,
+    "state": "Uttar Pradesh",
+    "city": "Kanpur",
+    "locality": "HighWay Bypass NH91",
+    "landmark": "Ganga Bairaj",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.timesnowhindi.com%2Fkanpur%2Farticle%2Fboat-club-will-start-next-month-at-kanpur-ganga-barrage%2F410226&psig=AOvVaw25Sk3Vk3yKPeBiFUMiZSbF&ust=1664810789169000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODtue-jwfoCFQAAAAAdAAAAABADF",
+    "description": "The Ganges Barrage, officially named as the Lav Khush Barrage, this bridge across the Ganges river lies at Azad Nagar-Nawabganj in Kanpur. The construction started in 1995 and it was inaugurated in May 2000. The total length is 621 m and the bridge serves as a four lane Highway Bypass for NH 91."
+  },
+  {
+    "id": 215,
+    "state": "Uttar Pradesh",
+    "city": "Kanpur",
+    "locality": "Kalyanpur",
+    "landmark": "IIT Kanpur",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hindustantimes.com%2Feducation%2Fadmissions%2Fiit-kanpur-introduces-new-courses-in-statistics-and-data-science-101634356921072.html&psig=AOvVaw27XNUUTyvZ5xN_XXHmfHLc&ust=1664810961513000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLjUscCkwfoCFQAAAAAdAAAAABAD",
+    "description": "ndian Institute of Technology Kanpur is a public research university located in Kanpur, Uttar Pradesh, India. It was declared to be an Institute of National Importance by the Government of India under the Institutes of Technology Act. The institution was established in 1959. "
+},
+{
+    "id": 216,
     "state": "Karnataka",
     "city": "Mangalore",
     "locality": "Kudroli",
     "landmark": "Sri Vidya Jewellers",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Gokarnatheshwara_Temple_7042008.jpg",
     "description": "The Gokarnanatheshwara Temple, otherwise known as Kudroli Sri Gokarnanatha Kshetra, is in the Kudroli area of Mangalore in Karnataka, India. It was consecrated by Narayana Guru. It is dedicated to Gokarnanatha, a form of Lord Shiva."
+
   }
+  
 ]
+
