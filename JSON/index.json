@@ -1598,6 +1598,15 @@
     "image": "https://i.pinimg.com/736x/c4/76/53/c476537d51c224f1366178a2ab74a4a0.jpg",
     "description": "Nalagarh is a gateway to Himachal Pradesh in North India, 95.6 km from Shimla, 300 km from Delhi and 60 km from Chandigarh.The Fort of Nalagarh was built in 1421 during the reign of Raja Bikram Chand on a hillock at the foothills of the mighty Himalayas. It affords a panoramic view of the Shivalik hills beyond the Sirsa river and gave its name to the state. "
 
+  },
+  {
+    "id": 218,
+    "state": "Madhya Pradesh",
+    "city": "Sarangpur",
+    "locality": "Bhenswa",
+    "landark": "Maa Bijasan Temple",
+    "image": "https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&callback=onApiLoad",
+    "description": "Bhenswa is a famous hilly area and also famous for the temple. It have a man made jungle of 10,000,000 trees."
   }
   
 ]
