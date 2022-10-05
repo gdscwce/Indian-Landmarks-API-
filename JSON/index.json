@@ -1598,6 +1598,26 @@
     "image": "https://i.pinimg.com/736x/c4/76/53/c476537d51c224f1366178a2ab74a4a0.jpg",
     "description": "Nalagarh is a gateway to Himachal Pradesh in North India, 95.6 km from Shimla, 300 km from Delhi and 60 km from Chandigarh.The Fort of Nalagarh was built in 1421 during the reign of Raja Bikram Chand on a hillock at the foothills of the mighty Himalayas. It affords a panoramic view of the Shivalik hills beyond the Sirsa river and gave its name to the state. "
 
+  },
+
+  {
+    "id": 218,
+    "state": "Gujarat",
+    "city": "Rajkot",
+    "locality": "Dr Yagnik Rd",
+    "landmark": "Shri Ramakrishna Ashrama",
+    "image": "https://www.tripadvisor.in/Attraction_Review-g660181-d8047882-Reviews-Shri_Ramakrishna_Ashrama-Rajkot_Rajkot_District_Gujarat.html#/media-atf/8047882/131663215:p/?albumid=-160&type=0&category=-160",
+    "description": "In 1926, Swami Madhavanandaji Maharaj,visited Rajkot.The tending citizen of Rajkot approached him for a centre.In 1927, thanks to the generosity of Maharaja Shri Lakhadhirji of Morvi, his Rest House in Rajkot housed the present Shri Ramakrishna Ashrama. Subsequently, Rajkot Thakore Saheb Shri Dharmendrasinhji gave a plot of land at a token price for the permanent establishment of the Ashrama where it stands today"
+  },
+
+  {
+    "id": 219,
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "locality": "Amer",
+    "landmark": "Jal Mahal",
+    "image": "https://www.tripadvisor.in/Attraction_Review-g304555-d324664-Reviews-Jal_Mahal-Jaipur_Jaipur_District_Rajasthan.html#/media-atf/324664/180646646:p/?albumid=-160&type=0&category=-160",
+    "description": "Jal Mahal is a palace in the middle of the Man Sagar Lake in Jaipur city, the capital of the state of Rajasthan, India. The palace was originally constructed in 1699; the building and the lake around it were later renovated and enlarged in the 18th century by Maharaja Jai Singh II of Amber."
   }
   
 ]
