@@ -1599,6 +1599,8 @@
     "description": "Nalagarh is a gateway to Himachal Pradesh in North India, 95.6 km from Shimla, 300 km from Delhi and 60 km from Chandigarh.The Fort of Nalagarh was built in 1421 during the reign of Raja Bikram Chand on a hillock at the foothills of the mighty Himalayas. It affords a panoramic view of the Shivalik hills beyond the Sirsa river and gave its name to the state. "
 
   },
+
+
   {
 
     "id": 218,
@@ -1626,7 +1628,27 @@
     "landmark": "India Gate",
     "image": "https://www.holidify.com/images/cmsuploads/compressed/5621259188_e74d63cb05_b_20180302140149.jpg",
     "description": "India Gate is also known as the All India War Memorial. As the name suggests, this is the symbol of victory during war times, situated along Rajpath, New Delhi, India. The monument is a memorial tribute to 70,000 soldiers of the British Indian Army who sacrificed their lives during World War I (1914-1918). The monument is inscribed with the names of 13,300 martyrs including servicemen, officers, and soldiers from the United Kingdom."
-  }
+
+  },
+    {
+    "id": 221,
+    "state": "Gujarat",
+    "city": "Rajkot",
+    "locality": "Dr Yagnik Rd",
+    "landmark": "Shri Ramakrishna Ashrama",
+    "image": "https://www.tripadvisor.in/Attraction_Review-g660181-d8047882-Reviews-Shri_Ramakrishna_Ashrama-Rajkot_Rajkot_District_Gujarat.html#/media-atf/8047882/131663215:p/?albumid=-160&type=0&category=-160",
+    "description": "In 1926, Swami Madhavanandaji Maharaj,visited Rajkot.The tending citizen of Rajkot approached him for a centre.In 1927, thanks to the generosity of Maharaja Shri Lakhadhirji of Morvi, his Rest House in Rajkot housed the present Shri Ramakrishna Ashrama. Subsequently, Rajkot Thakore Saheb Shri Dharmendrasinhji gave a plot of land at a token price for the permanent establishment of the Ashrama where it stands today"
+  },
+
+  {
+    "id": 222,
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "locality": "Amer",
+    "landmark": "Jal Mahal",
+    "image": "https://www.tripadvisor.in/Attraction_Review-g304555-d324664-Reviews-Jal_Mahal-Jaipur_Jaipur_District_Rajasthan.html#/media-atf/324664/180646646:p/?albumid=-160&type=0&category=-160",
+    "description": "Jal Mahal is a palace in the middle of the Man Sagar Lake in Jaipur city, the capital of the state of Rajasthan, India. The palace was originally constructed in 1699; the building and the lake around it were later renovated and enlarged in the 18th century by Maharaja Jai Singh II of Amber."
+}
   
   
 
