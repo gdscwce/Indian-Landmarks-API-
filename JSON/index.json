@@ -1600,9 +1600,6 @@
 
   },
 
-
-
-
   {
 
     "id": 218,
@@ -1661,6 +1658,17 @@
     "image": "https://www.goforsearch.com/files/album/gallery/4bfe57f29acb62ae8d35f8622f56fe1d.jpeg",
     "description": "Chappak water park is the largest water in the state of Bihar. It is situtated in the town of Sukulpur along the Patna-Baktiyarpur Road."
   },
+  {
+    "id": 224,
+    "state": "Maharashtra",
+    "city": "aurangabad",
+    "locality": "daulatabad",
+    "landmark": "Fort Deogiri",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Daulatabad_Fort_a_view.JPG/1920px-Daulatabad_Fort_a_view.JPG",
+    "description": "Devagiri Fort, also known as Daulatabad or Deogiri, is a historic fortified citadel located in Devagiri village near Aurangabad, Maharashtra, India. It was the capital of the Yadava dynasty (9th century–14th century CE), for a brief time the capital of the Delhi Sultanate (1327–1334), and later a secondary capital of the Ahmadnagar Sultanate (1499–1636)."
+
+  }
+
   
 ]
 
