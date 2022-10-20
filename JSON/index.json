@@ -1601,6 +1601,8 @@
   },
 
 
+
+
   {
 
     "id": 218,
@@ -1649,9 +1651,16 @@
     "image": "https://www.tripadvisor.in/Attraction_Review-g304555-d324664-Reviews-Jal_Mahal-Jaipur_Jaipur_District_Rajasthan.html#/media-atf/324664/180646646:p/?albumid=-160&type=0&category=-160",
     "description": "Jal Mahal is a palace in the middle of the Man Sagar Lake in Jaipur city, the capital of the state of Rajasthan, India. The palace was originally constructed in 1699; the building and the lake around it were later renovated and enlarged in the 18th century by Maharaja Jai Singh II of Amber."
 }
-  
-  
-
+ ,
+   {
+    "id": 223,
+    "state": "Bihar",
+    "city": "Patna",
+    "locality": "Sukulpur",
+    "landmark": "Chappak Water Park",
+    "image": "https://www.goforsearch.com/files/album/gallery/4bfe57f29acb62ae8d35f8622f56fe1d.jpeg",
+    "description": "Chappak water park is the largest water in the state of Bihar. It is situtated in the town of Sukulpur along the Patna-Baktiyarpur Road."
+  },
   
 ]
 
