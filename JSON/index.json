@@ -1600,7 +1600,17 @@
 
   },
   {
+
     "id": 218,
+    "state": "Madhya Pradesh",
+    "city": "Balaghat",
+    "locality": "Hanuman Chowk",
+    "landmark": "Purana Ram Mandir",
+    "image": "https://www.mptourandtravels.com/balaghat/destinations/6.jpg",
+    "description": "Purana Ram Mandir is oldest Ram Mandir of Balaghat"
+},
+{
+    "id": 219,
     "state": "Delhi",
     "city": "New Delhi",
     "locality": "Kartavya Path",
