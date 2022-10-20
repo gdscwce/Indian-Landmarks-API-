@@ -1600,6 +1600,7 @@
 
   },
   {
+
     "id": 218,
     "state": "Madhya Pradesh",
     "city": "Sarangpur",
@@ -1607,7 +1608,28 @@
     "landark": "Maa Bijasan Temple",
     "image": "https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&callback=onApiLoad",
     "description": "Bhenswa is a famous hilly area and also famous for the temple. It have a man made jungle of 10,000,000 trees."
+},
+{
+    "id": 219,
+    "state": "Madhya Pradesh",
+    "city": "Balaghat",
+    "locality": "Hanuman Chowk",
+    "landmark": "Purana Ram Mandir",
+    "image": "https://www.mptourandtravels.com/balaghat/destinations/6.jpg",
+    "description": "Purana Ram Mandir is oldest Ram Mandir of Balaghat"
+},
+{
+    "id": 220,
+    "state": "Delhi",
+    "city": "New Delhi",
+    "locality": "Kartavya Path",
+    "landmark": "India Gate",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/5621259188_e74d63cb05_b_20180302140149.jpg",
+    "description": "India Gate is also known as the All India War Memorial. As the name suggests, this is the symbol of victory during war times, situated along Rajpath, New Delhi, India. The monument is a memorial tribute to 70,000 soldiers of the British Indian Army who sacrificed their lives during World War I (1914-1918). The monument is inscribed with the names of 13,300 martyrs including servicemen, officers, and soldiers from the United Kingdom."
   }
+  
+  
+
   
 ]
 
