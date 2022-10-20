@@ -1603,6 +1603,15 @@
 
     "id": 218,
     "state": "Madhya Pradesh",
+    "city": "Sarangpur",
+    "locality": "Bhenswa",
+    "landark": "Maa Bijasan Temple",
+    "image": "https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&callback=onApiLoad",
+    "description": "Bhenswa is a famous hilly area and also famous for the temple. It have a man made jungle of 10,000,000 trees."
+},
+{
+    "id": 219,
+    "state": "Madhya Pradesh",
     "city": "Balaghat",
     "locality": "Hanuman Chowk",
     "landmark": "Purana Ram Mandir",
@@ -1610,7 +1619,7 @@
     "description": "Purana Ram Mandir is oldest Ram Mandir of Balaghat"
 },
 {
-    "id": 219,
+    "id": 220,
     "state": "Delhi",
     "city": "New Delhi",
     "locality": "Kartavya Path",
